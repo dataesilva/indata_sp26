@@ -1,0 +1,1224 @@
+"Age","spBrand","spAge","spWBUseFreq","spSEUseFreq","spComfInstallBrowser","spComfDefaultBrowserChange","spComfDefaultSearchChange","Sex","GUID","spComfInstallBrowser_recode","spComfDefaultBrowserChange_recode","spComfDefaultSearchChange_recode","Ethnicity","Education","Income","spComfort"
+38,3,1,1,1,1,1,1,1,"0007a34a-df0f-ff99-dfc8-942cbfd6dba1",0,0,0,"Black or African American","Secondary School","",0
+46,NA,NA,NA,NA,5,5,5,1,"00282bac-006c-7aaf-a02e-1c038f3f9441",4,4,4,"White","None completed","$0 - $14,999",4
+29,NA,NA,NA,NA,4,4,4,1,"00a4c861-1c1d-e660-60e3-ff8f0d54db96",3,3,3,"White","University/Higher Education","$15,000 - $24,999",3
+62,4,2,3,4,3,2,5,1,"014ab9a2-1f31-8d9c-8e20-8e614dd9174f",2,1,4,"Asian","High School/Tertiary/Tech. College","",2.33333333333333
+48,22,7,5,5,4,4,4,1,"01cf5015-1cc1-5cc2-0b97-67e45a2e18f2",3,3,3,"White","University/Higher Education","",3
+35,16,2,1,1,5,5,5,2,"0200deec-5baa-4e7b-c46e-e92bb9075e05",4,4,4,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",4
+62,16,2,1,1,4,4,4,1,"023a1a24-a0bb-35d8-8da6-2d110e9bf4e0",3,3,3,"White","University/Higher Education","$0 - $14,999",3
+41,7,2,3,3,5,5,5,2,"028bb9bf-f348-4411-8d3e-8ea032b77252",4,4,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+25,NA,NA,NA,NA,2,4,4,1,"029af010-e0ce-6fc5-9c91-c7b1575265fd",1,3,3,"White","University/Higher Education","$50,000 - $79,999",2.33333333333333
+77,1,3,1,1,1,1,1,1,"02b02f1e-ef74-0338-759c-189b683beaef",0,0,0,"White","University/Higher Education","",0
+18,1,3,5,5,4,4,4,1,"02c92092-cb8b-1215-0d10-17e201a52c75",3,3,3,"White","Secondary School","",3
+18,16,5,4,3,1,4,3,1,"02da4711-6fce-7262-1e93-70f1bd29a7fe",0,3,2,"White","High School/Tertiary/Tech. College","",1.66666666666667
+76,1,1,1,1,3,3,3,1,"03392808-1526-1a65-e18a-1f129ec8f1e4",2,2,2,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",2
+75,16,4,7,4,1,1,1,2,"033fab44-44d1-82ec-38c5-9c14e183c7a9",0,0,0,"White","High School/Tertiary/Tech. College","$80,000 - $99,999",0
+30,1,2,1,1,5,5,5,2,"035d5f63-b1c2-082f-d5e1-6876fb63a584",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+54,16,2,1,1,4,4,4,1,"03904ce4-d23a-d24e-1e66-7bbba3a1ff0d",3,3,3,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",3
+33,NA,NA,NA,NA,2,5,3,2,"03e7c0bd-a67e-f14e-233f-f7cc7cbf465a",1,4,2,"Black or African American","High School/Tertiary/Tech. College","",2.33333333333333
+65,8,2,1,1,1,1,1,2,"03f135af-5115-039e-292d-02da5e3fb544",0,0,0,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",0
+78,NA,NA,NA,NA,NA,NA,NA,1,"03fa4813-492a-1244-2291-7fd1d07cb1e2",NA,NA,NA,"White","University/Higher Education","",NA
+74,16,2,7,7,1,1,1,2,"0479b81c-e755-e86b-f19e-8f528719b4e2",0,0,0,"White","University/Higher Education","$100,000 - $149,999",0
+55,11,1,1,1,4,4,4,2,"048cf786-bb66-b9e1-5404-c0a7a7c47b6c",3,3,3,"White","University/Higher Education","$0 - $14,999",3
+42,1,1,2,1,4,4,4,1,"04d78df1-4ce7-85e1-1373-bafc1ed7c81c",3,3,3,"White","High School/Tertiary/Tech. College","",3
+53,1,2,2,2,3,3,3,2,"04de0dbe-5ca2-e72c-073c-3af51ab4a657",2,2,2,"White","University/Higher Education","$150,000 - $199,999",2
+21,NA,NA,NA,NA,2,2,3,2,"04f02e1a-b745-8e0a-2f98-19db9c9d4bfd",1,1,2,"Asian","University/Higher Education","$150,000 - $199,999",1.33333333333333
+63,11,2,4,3,2,3,3,1,"0566c018-359f-d11f-a29a-f74d8efc31cb",1,2,2,"White","High School/Tertiary/Tech. College","",1.66666666666667
+46,16,6,1,1,4,4,4,1,"05cd7628-c316-a76b-12aa-41e6cadb2fcf",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+66,11,2,1,1,5,5,5,2,"05d1c2e1-ad93-3df9-d760-f5fa31a23706",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+36,1,2,1,2,3,3,3,2,"05d9ca49-5638-baf7-ddc8-fdf2c7b172a4",2,2,2,"American Indian or Alaska Native","Primary School","$15,000 - $24,999",2
+76,NA,NA,NA,NA,2,2,2,1,"05f6f147-ad43-5391-29c5-c6ddb71ca1af",1,1,1,"White","University/Higher Education","$80,000 - $99,999",1
+52,16,1,4,4,4,4,4,2,"061e75b5-f345-d5b0-da37-423583192b5e",3,3,3,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",3
+33,NA,NA,NA,NA,NA,NA,NA,1,"062b8430-2265-10a7-a5b2-b3001df279d8",NA,NA,NA,"White","University/Higher Education","$25,000 - $49,999",NA
+24,1,2,1,1,4,4,4,1,"062f599f-4b22-b9c5-eb1d-6e04a23aa378",3,3,3,"White","University/Higher Education","",3
+83,1,1,1,1,4,4,4,2,"06622425-66ce-0cf9-a6a7-1349689f81f7",3,3,3,"White","University/Higher Education","$15,000 - $24,999",3
+38,16,2,1,1,3,3,3,1,"06d6dcd0-a50d-cb56-1352-ebfd8c656337",2,2,2,"Asian","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+25,NA,NA,NA,NA,NA,NA,NA,1,"0723dc39-0e79-15c9-e7bb-eb087f33d7d1",NA,NA,NA,"Asian","University/Higher Education","$50,000 - $79,999",NA
+30,16,2,1,1,3,3,3,2,"074e8baf-e640-75a9-8a2d-bc65b5620142",2,2,2,"Black or African American","University/Higher Education","",2
+30,21,1,1,1,3,3,3,1,"07a8fd91-50d6-cc7d-6c13-ca833bfd9059",2,2,2,"White","High School/Tertiary/Tech. College","",2
+72,NA,NA,NA,NA,1,1,1,2,"07f6c32e-8d1e-85b8-2fac-f4dd27af44c6",0,0,0,"White","University/Higher Education","$15,000 - $24,999",0
+30,NA,NA,NA,NA,NA,NA,NA,2,"08007bcb-768b-7609-044a-4c2b48aaf126",NA,NA,NA,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",NA
+53,1,1,1,1,4,4,5,1,"08301644-11d0-9745-f4c6-211b0552f0ac",3,3,4,"White","University/Higher Education","$150,000 - $199,999",3.33333333333333
+56,1,5,4,4,2,1,2,1,"08738d36-6a80-96f9-b6b4-ba585b84ebdb",1,0,1,"White","University/Higher Education","$80,000 - $99,999",0.666666666666667
+21,NA,NA,NA,NA,2,2,5,1,"0875c282-bb25-5b6e-fb00-f55e14bee669",1,1,4,"White","Postgraduate Education","$50,000 - $79,999",2
+37,1,5,1,1,5,5,5,1,"08b19f39-5d63-c13f-39bb-a89a88394ed5",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+43,16,1,2,2,5,5,5,2,"0942eb12-9e60-7506-cc90-dc696ffdcff5",4,4,4,"White","University/Higher Education","",4
+27,1,2,1,2,4,4,4,1,"09505a3c-2301-1fad-89be-6d7b14b7dad5",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+61,7,2,4,4,5,5,5,2,"09b92e62-0af2-3315-7ce0-19920aeccc88",4,4,4,"White","University/Higher Education","$15,000 - $24,999",4
+28,16,3,1,1,3,3,3,1,"0a455af4-b4b9-32e7-4275-6d6e15d9341d",2,2,2,"White","University/Higher Education","$50,000 - $79,999",2
+40,16,1,2,2,5,5,5,2,"0a7d0a8c-e78c-541b-a40e-3d56f1576c7c",4,4,4,"White","University/Higher Education","",4
+25,10,5,6,4,3,2,4,2,"0aacd956-a3aa-33d2-68d4-ee8782ab47a8",2,1,3,"","Postgraduate Education","",2
+39,16,1,1,1,4,4,4,2,"0b13df48-9c74-38dd-cbca-e838fe607da2",3,3,3,"Asian","University/Higher Education","$100,000 - $149,999",3
+52,5,1,1,1,1,1,1,2,"0b2a0f1e-17af-3322-f29c-3801459ed2f3",0,0,0,"White","University/Higher Education","$150,000 - $199,999",0
+47,16,3,1,1,4,4,4,1,"0b3aadd3-0c10-2cb2-fe51-9a1126a3cb3b",3,3,3,"White","University/Higher Education","",3
+62,7,4,2,2,2,1,2,2,"0b5a650f-6c19-9021-858d-5271691f91e6",1,0,1,"White","University/Higher Education","$15,000 - $24,999",0.666666666666667
+45,16,5,7,7,2,2,2,1,"0b6dee3a-761a-f878-a9b8-d946c708f3d2",1,1,1,"I prefer not to answer","Postgraduate Education","$50,000 - $79,999",1
+46,1,3,5,3,2,1,4,2,"0b81f955-8392-30b1-52d7-ceaabf6073bb",1,0,3,"Hispanic or Latino","High School/Tertiary/Tech. College","",1.33333333333333
+38,7,4,1,1,5,5,NA,1,"0b8f3a2b-c94f-af5a-01a9-0da496d8e4c2",4,4,NA,"Other","University/Higher Education","$25,000 - $49,999",NA
+53,20,1,1,1,4,4,4,1,"0bae08e3-99ed-1268-6b61-3f85bcf85f0e",3,3,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",3
+72,4,7,1,2,2,2,2,1,"0c243512-12b1-abea-aa90-020f0c2a9ff5",1,1,1,"White","University/Higher Education","$25,000 - $49,999",1
+25,NA,NA,NA,NA,3,1,2,1,"0c49df60-4747-cfff-91e2-e862afaaa787",2,0,1,"White","High School/Tertiary/Tech. College","$0 - $14,999",1
+18,NA,NA,NA,NA,NA,NA,NA,1,"0c4babc2-09b3-9792-9340-9c603473f12a",NA,NA,NA,"White","High School/Tertiary/Tech. College","",NA
+22,1,2,2,2,3,3,5,2,"0c6933da-20b5-c821-b658-0442bb8dc83d",2,2,4,"Other","High School/Tertiary/Tech. College","$15,000 - $24,999",2.66666666666667
+45,16,3,1,1,5,5,5,2,"0c865e7e-de48-90c3-42fc-69adc163de94",4,4,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+44,11,1,1,1,3,4,4,2,"0c866808-a3cb-5f82-428a-5fad0aff4afc",2,3,3,"Hispanic or Latino","University/Higher Education","",2.66666666666667
+80,1,3,3,2,3,2,3,2,"0ca0bb50-bd98-5d2c-7fd2-8c8b0cfd3eb8",2,1,2,"White","University/Higher Education","$25,000 - $49,999",1.66666666666667
+35,1,3,1,1,5,5,5,2,"0cabd617-f1dc-96ce-2395-e1802565a9ff",4,4,4,"White","University/Higher Education","$150,000 - $199,999",4
+42,16,3,1,1,4,4,4,1,"0d0b6d27-f8b5-4620-cfa5-5a20bee23dce",3,3,3,"White","University/Higher Education","",3
+36,4,3,5,3,4,4,5,1,"0d417b8a-149d-e24f-cf08-4c6a48044762",3,3,4,"White","University/Higher Education","$100,000 - $149,999",3.33333333333333
+22,NA,NA,NA,NA,2,4,4,2,"0d9bb67b-1cd2-ea60-9cfa-81b01a8b379c",1,3,3,"White","University/Higher Education","",2.33333333333333
+24,15,2,3,4,1,4,5,2,"0e628be8-206f-827c-a66a-bc49ba65c70f",0,3,4,"Hispanic or Latino","High School/Tertiary/Tech. College","",2.33333333333333
+35,1,1,1,2,3,4,3,1,"0e7a0b00-f412-9537-f482-3c515573a6e7",2,3,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.33333333333333
+49,11,2,7,7,3,3,3,2,"0f0aaf17-367d-a962-8095-98218e07a3ff",2,2,2,"White","Postgraduate Education","$50,000 - $79,999",2
+81,1,6,2,2,4,3,4,2,"0f2c9edf-1190-e21a-f45d-a9074e2cd532",3,2,3,"White","University/Higher Education","$150,000 - $199,999",2.66666666666667
+57,16,5,1,1,1,1,1,1,"0f358c15-37a0-c9df-ed97-bb1e5956cff8",0,0,0,"White","University/Higher Education","$0 - $14,999",0
+18,NA,NA,NA,NA,NA,NA,NA,2,"0fab5bb8-078d-7dcf-b139-6c80f4cf2254",NA,NA,NA,"Hispanic or Latino","Primary School","$0 - $14,999",NA
+55,16,4,1,1,5,5,5,1,"0fe0735f-9246-64b9-25dd-44cbad5655b8",4,4,4,"American Indian or Alaska Native","University/Higher Education","$50,000 - $79,999",4
+69,NA,NA,NA,NA,NA,NA,NA,2,"10057baf-dd66-520c-dd2d-4c2e3fadd948",NA,NA,NA,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",NA
+23,16,3,1,4,2,2,2,2,"1013f65d-cd61-ff2b-d7df-c138088bc9b4",1,1,1,"Asian","University/Higher Education","",1
+77,NA,NA,NA,NA,NA,NA,NA,1,"10360526-0458-52ea-bea4-321d4cf88cce",NA,NA,NA,"Asian","University/Higher Education","$0 - $14,999",NA
+67,1,2,6,5,2,2,3,2,"10a62d63-10c1-1844-7ce1-1a8d33e7d18e",1,1,2,"White","Primary School","$0 - $14,999",1.33333333333333
+43,16,3,1,1,1,1,1,2,"10be5c0c-d7e7-46db-7b8e-6b954bc631e7",0,0,0,"White","High School/Tertiary/Tech. College","$0 - $14,999",0
+70,16,1,1,1,1,1,1,1,"10bfcc97-70ca-39a9-7b15-fb945cff947c",0,0,0,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",0
+50,7,3,1,1,2,1,4,2,"10fc93ad-f457-b71b-382f-a4d72837134a",1,0,3,"","University/Higher Education","",1.33333333333333
+58,11,1,1,4,4,4,3,2,"111a4510-f9ca-ce65-c392-7231804303f8",3,3,2,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",2.66666666666667
+33,2,4,3,3,5,5,3,1,"11739824-f15c-a7e5-b7a6-af585c2416d4",4,4,2,"Hispanic or Latino","University/Higher Education","",3.33333333333333
+19,NA,NA,NA,NA,NA,NA,NA,1,"11c83dfa-828c-1473-0c78-0ae3a84e6613",NA,NA,NA,"Black or African American","High School/Tertiary/Tech. College","",NA
+32,7,2,1,1,5,5,5,1,"11e5ffb9-bcb7-94eb-e238-c8ceef207f5e",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+39,16,1,1,2,4,5,4,2,"11fcfac5-903a-631f-7247-cdd747af812d",3,4,3,"White","University/Higher Education","$100,000 - $149,999",3.33333333333333
+29,NA,NA,NA,NA,NA,NA,NA,1,"1203815a-0b8b-d0b1-8bd8-b62885415fb7",NA,NA,NA,"White","University/Higher Education","$100,000 - $149,999",NA
+21,NA,NA,NA,NA,2,3,4,1,"1253b1a6-83f2-4f65-5527-86785dc0414b",1,2,3,"I prefer not to answer","None completed","",2
+66,NA,NA,NA,NA,2,3,3,1,"13271ab6-45ae-8446-a934-2d0c0934685f",1,2,2,"White","High School/Tertiary/Tech. College","",1.66666666666667
+44,19,3,5,4,3,3,3,1,"1360c30e-3eb0-5402-ee8c-f44b8d2563f8",2,2,2,"Asian","University/Higher Education","",2
+53,1,5,5,5,3,2,2,1,"13eccefc-c2d4-eae7-287e-f9c734002614",2,1,1,"White","University/Higher Education","",1.33333333333333
+27,16,2,1,1,4,4,4,1,"1453542c-2e79-a479-8aae-6378f515ebcb",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+25,1,1,1,3,5,5,NA,1,"1468f36b-d8d3-a0bf-e0e9-c443721f4c83",4,4,NA,"White","University/Higher Education","$25,000 - $49,999",NA
+23,11,4,5,3,1,2,2,1,"14740a79-3703-1898-acfb-3d5f790ecf9e",0,1,1,"White","University/Higher Education","$50,000 - $79,999",0.666666666666667
+24,7,2,1,2,1,1,2,1,"1488592b-c9f3-2b13-56a9-6ea3561c33c3",0,0,1,"White","High School/Tertiary/Tech. College","",0.333333333333333
+39,NA,NA,NA,NA,NA,NA,NA,2,"148eb16d-01c9-b869-4aef-86a502fbe59a",NA,NA,NA,"Asian","University/Higher Education","$80,000 - $99,999",NA
+20,NA,NA,NA,NA,NA,NA,NA,1,"1498200b-fad3-142a-5c89-17b37de41dfb",NA,NA,NA,"I prefer not to answer","High School/Tertiary/Tech. College","",NA
+38,16,1,1,4,5,4,4,2,"1500d8f7-64b7-6ddf-c475-ef2b4d10831f",4,3,3,"Asian","High School/Tertiary/Tech. College","$25,000 - $49,999",3.33333333333333
+54,2,1,6,5,1,2,5,2,"1508e4bc-ef23-4746-cc3e-d32311c20a55",0,1,4,"I prefer not to answer","Secondary School","",1.66666666666667
+66,11,2,1,1,4,4,4,2,"15310433-f79d-43a8-b9b1-331a2225a7db",3,3,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",3
+34,NA,NA,NA,NA,3,3,3,1,"153a73f8-ca64-e3c0-b47a-441157f4c310",2,2,2,"White","High School/Tertiary/Tech. College","",2
+38,16,3,2,2,4,4,4,1,"1554a8d8-b15c-f148-dc5a-9f7fef06a435",3,3,3,"Asian","University/Higher Education","$25,000 - $49,999",3
+56,16,2,2,2,4,4,4,1,"15868348-7d0d-ad79-43ca-b4ad68e6b8b0",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+61,22,2,1,1,3,3,4,1,"15bf4110-1630-2285-6692-7694ecacf3e6",2,2,3,"White","University/Higher Education","",2.33333333333333
+39,NA,NA,NA,NA,3,3,3,1,"15e2a453-9514-f2ed-6ad1-93c9c7ff8585",2,2,2,"White","Postgraduate Education","",2
+33,NA,NA,NA,NA,NA,NA,NA,2,"16221f38-81b2-86a9-24b9-28092f28a2d5",NA,NA,NA,"Hispanic or Latino","High School/Tertiary/Tech. College","$80,000 - $99,999",NA
+67,18,1,1,2,3,3,4,1,"16346849-8386-63f7-eccb-5f1fda8e42a5",2,2,3,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",2.33333333333333
+26,1,1,1,1,3,5,5,1,"166de248-dd72-e562-e7ca-d546608a4ba1",2,4,4,"Hispanic or Latino","High School/Tertiary/Tech. College","$0 - $14,999",3.33333333333333
+20,NA,NA,NA,NA,NA,NA,NA,1,"16a70778-efe3-0297-7ffa-308c85e5048d",NA,NA,NA,"I prefer not to answer","University/Higher Education","",NA
+73,16,4,1,1,1,1,1,1,"16ce8e0a-004e-dda4-4688-b9e5e40253e7",0,0,0,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+31,16,1,1,1,3,3,3,2,"1726e0e3-f331-f0db-fe61-d70d235df604",2,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+79,11,3,6,6,1,1,1,1,"173b4bac-9079-20b2-e22e-7c10bbfe796a",0,0,0,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",0
+30,19,1,1,1,1,1,1,1,"1743b73d-364d-54ef-86bf-80686955f0d5",0,0,0,"Hispanic or Latino","Postgraduate Education","$100,000 - $149,999",0
+18,1,3,6,4,2,5,5,1,"18080026-1a52-29ae-cca4-372308109eca",1,4,4,"White","University/Higher Education","",3
+35,16,2,1,1,5,5,5,2,"186224bf-ea02-c694-a73d-1349bf1c0d57",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+61,16,3,1,2,4,4,4,2,"18a4872c-a713-76df-60ae-b08f672142c1",3,3,3,"White","University/Higher Education;University/Higher Education","$80,000 - $99,999",3
+30,1,2,3,4,4,5,4,2,"18ad44bb-35e3-f008-aa3a-7386c754f553",3,4,3,"White","University/Higher Education","$25,000 - $49,999",3.33333333333333
+19,1,4,1,1,5,4,4,1,"18d8abc4-98b9-9312-0046-9cf342497c23",4,3,3,"","University/Higher Education","",3.33333333333333
+66,1,6,1,1,1,2,4,1,"18f9263c-b85e-e96b-3dbe-11d2e3ad59d0",0,1,3,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1.33333333333333
+47,16,2,2,2,2,3,3,1,"19101fc9-200a-8421-9e4b-283bbd9ea92e",1,2,2,"White","University/Higher Education","$25,000 - $49,999",1.66666666666667
+37,NA,NA,NA,NA,NA,NA,NA,2,"1a4638c2-04d5-3789-8240-0f6dcddce325",NA,NA,NA,"Hispanic or Latino","","$15,000 - $24,999",NA
+49,16,4,3,3,4,4,4,1,"1aec3128-ba85-1849-29aa-06c7fb40bdc1",3,3,3,"White","High School/Tertiary/Tech. College","",3
+49,NA,NA,NA,NA,2,3,3,1,"1b04d7ac-dd9a-3d2d-db2e-e02f128cd644",1,2,2,"White","None completed","$0 - $14,999",1.66666666666667
+56,16,1,5,5,3,3,3,2,"1b2a2fe4-a0e8-18d7-9d66-1801249df409",2,2,2,"White","High School/Tertiary/Tech. College","",2
+60,NA,NA,NA,NA,NA,NA,NA,1,"1baf9568-5929-0199-21ea-a2846a885485",NA,NA,NA,"White","University/Higher Education","$100,000 - $149,999",NA
+52,16,2,1,1,5,3,3,1,"1bc9befe-d5ed-2e0a-0d7c-89e28d065213",4,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.66666666666667
+25,1,3,1,1,4,4,4,1,"1be2beca-9d02-9f70-2648-89c9efd0592d",3,3,3,"Black or African American","University/Higher Education","$50,000 - $79,999",3
+19,NA,NA,NA,NA,3,3,2,1,"1c40ecd7-9261-daa6-8455-db6b1d839630",2,2,1,"Black or African American","High School/Tertiary/Tech. College","",1.66666666666667
+32,NA,NA,NA,NA,2,2,2,2,"1c5e9e20-7d0b-4874-0ea1-a975c4590cc7",1,1,1,"","University/Higher Education","",1
+45,1,3,4,2,3,3,4,1,"1c6b5645-058e-0662-e3c7-61406f2315a8",2,2,3,"Black or African American","High School/Tertiary/Tech. College","$15,000 - $24,999",2.33333333333333
+27,1,1,1,1,5,4,4,1,"1c8c67a2-acef-892c-5320-50a70efd544a",4,3,3,"White","University/Higher Education","$50,000 - $79,999",3.33333333333333
+21,5,1,1,1,5,4,4,2,"1cd3d002-e138-fa13-1780-e7f8856e26ef",4,3,3,"Black or African American","High School/Tertiary/Tech. College","",3.33333333333333
+33,1,4,1,1,4,4,4,2,"1d0267b9-3520-9288-c63b-50294017f15e",3,3,3,"White","University/Higher Education","",3
+44,NA,NA,NA,NA,1,1,1,2,"1d1d3f6c-5d40-03b1-d9ee-0836747fbd8b",0,0,0,"White","University/Higher Education","",0
+36,1,2,1,1,4,4,4,1,"1d2b4698-a5b7-ba76-f41a-71003d474970",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+50,NA,NA,NA,NA,4,4,4,2,"1dd44e0a-1157-24d3-0f88-79ff4cc2f6e2",3,3,3,"White","High School/Tertiary/Tech. College","",3
+39,16,3,3,3,3,3,3,1,"1df2e16c-2b6a-7fa1-7cee-d6d944f77085",2,2,2,"White","University/Higher Education","$15,000 - $24,999",2
+72,1,3,1,2,3,4,4,1,"1e29e822-1712-68e4-eda0-df0254abd0cf",2,3,3,"White","University/Higher Education","$150,000 - $199,999",2.66666666666667
+64,NA,NA,NA,NA,NA,NA,NA,1,"1edb3466-4ce5-35d8-51e4-03f0d49f1b97",NA,NA,NA,"White","University/Higher Education","$50,000 - $79,999",NA
+65,NA,NA,NA,NA,3,3,3,2,"1efa15ca-435b-aea0-3e48-22d138bc8226",2,2,2,"White","University/Higher Education","",2
+52,16,2,1,1,5,5,5,1,"1f5091e4-da0f-ea26-8e66-a67b4f883008",4,4,4,"White","High School/Tertiary/Tech. College","$0 - $14,999",4
+41,4,2,1,1,5,5,5,2,"1fe29b33-143e-787b-38b1-acc9eb23d5df",4,4,4,"Black or African American","University/Higher Education","$25,000 - $49,999",4
+47,NA,NA,NA,NA,3,3,3,1,"20004c99-e1af-174d-881b-7b2b46fef47e",2,2,2,"White","University/Higher Education","$100,000 - $149,999",2
+58,1,2,1,2,3,3,3,2,"2010cb82-8588-22d8-cf00-fc3bd6ab0668",2,2,2,"White","University/Higher Education","$25,000 - $49,999",2
+31,17,6,1,1,5,4,4,2,"20b0b553-e606-27c7-b6d2-829bb6af23b4",4,3,3,"I prefer not to answer","University/Higher Education","$80,000 - $99,999",3.33333333333333
+68,1,1,4,5,1,1,1,1,"20b6e8b7-454c-b7fe-3e35-df9de1974d5a",0,0,0,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+57,11,1,1,2,4,4,4,1,"20d569e6-c621-5881-0d64-5efe0b4c3e0d",3,3,3,"Other","High School/Tertiary/Tech. College","$50,000 - $79,999",3
+78,1,4,1,1,3,3,3,2,"20dcc289-b803-e4ed-000b-f5f7b6594762",2,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2
+63,NA,NA,NA,NA,3,3,3,1,"21091f2a-d68f-f4ee-d6a8-2822178bdad4",2,2,2,"White","University/Higher Education","$15,000 - $24,999",2
+72,11,3,4,4,3,2,2,1,"211863a6-13b3-9b9f-dc24-54337087f656",2,1,1,"White","Postgraduate Education","",1.33333333333333
+68,16,3,2,2,2,2,2,1,"211c412f-7e23-bba8-d8ad-76372ad499c2",1,1,1,"White","University/Higher Education","$80,000 - $99,999",1
+21,16,1,5,2,1,NA,2,1,"215bd99b-da43-f504-9f19-ee700a8f3a73",0,NA,1,"White","Postgraduate Education","",NA
+21,1,1,1,1,4,2,2,1,"217c25ce-26ab-2c5a-664f-125787a1ef29",3,1,1,"","High School/Tertiary/Tech. College","",1.66666666666667
+20,1,4,5,5,1,5,1,1,"2199853e-d74d-f240-47bc-b2b2ade635d3",0,4,0,"White","University/Higher Education","",1.33333333333333
+76,7,4,4,4,3,3,4,1,"21a7021d-cab0-e252-7e9f-358cf2a828f1",2,2,3,"White","High School/Tertiary/Tech. College","$80,000 - $99,999",2.33333333333333
+22,NA,NA,NA,NA,1,1,4,1,"21e18e72-3688-a5e8-39f0-b9cac9603685",0,0,3,"Hispanic or Latino","University/Higher Education","$50,000 - $79,999",1
+63,16,2,4,4,3,3,3,2,"221aa746-252a-8800-dfc4-9031e8c3e0ab",2,2,2,"White","Secondary School","$15,000 - $24,999",2
+37,18,2,3,2,2,2,3,1,"222877cb-ff73-372c-a049-4003b1ceaf23",1,1,2,"White","University/Higher Education","",1.33333333333333
+82,7,1,1,1,5,5,5,1,"223122d3-35ce-f782-e851-151aff0fd734",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+52,4,1,1,4,2,3,3,2,"229e14e5-9265-9f5b-4767-23b5eec17008",1,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1.66666666666667
+87,NA,NA,NA,NA,NA,NA,NA,2,"22af0daf-75f3-fa20-762d-3a84d1f77f5f",NA,NA,NA,"Hispanic or Latino","High School/Tertiary/Tech. College","$50,000 - $79,999",NA
+39,1,2,1,1,5,5,5,2,"22e3b3ab-649d-5a45-3c29-84c83af48746",4,4,4,"White","University/Higher Education","$150,000 - $199,999",4
+59,1,4,2,2,4,3,3,1,"22fe3878-bb6f-30ba-27fa-0fd56c045e9f",3,2,2,"White","University/Higher Education","$15,000 - $24,999",2.33333333333333
+33,NA,NA,NA,NA,NA,NA,NA,2,"23080fdf-307e-da5d-cc5d-3823ada8f732",NA,NA,NA,"White","University/Higher Education","$100,000 - $149,999",NA
+48,NA,NA,NA,NA,NA,NA,NA,2,"232e001a-edd0-4d85-a698-3705087ec5f0",NA,NA,NA,"Hispanic or Latino","University/Higher Education","$25,000 - $49,999",NA
+20,1,3,1,1,3,3,3,1,"23587948-37fe-4a6c-9cca-4e73750ed3a0",2,2,2,"White","University/Higher Education","",2
+33,7,1,1,1,5,5,5,2,"2382af3e-0442-3125-0cbc-98a944dba9d5",4,4,4,"White","High School/Tertiary/Tech. College","",4
+40,11,2,1,1,4,4,4,2,"2456a78f-5c55-5b64-920d-907d33a9bb66",3,3,3,"White","University/Higher Education","",3
+65,1,1,1,2,3,3,3,1,"2490a05f-4d39-a7aa-1add-97bba1c11bb7",2,2,2,"Black or African American","University/Higher Education","$25,000 - $49,999",2
+65,16,1,2,4,4,3,3,1,"249ab49c-6aad-9d52-5e1e-83b17e7eaa75",3,2,2,"White","University/Higher Education","",2.33333333333333
+45,NA,NA,NA,NA,2,1,5,2,"24c55d4a-4bfc-e726-01c8-6aee3849aca2",1,0,4,"Other","University/Higher Education","$25,000 - $49,999",1.66666666666667
+26,16,2,1,1,5,5,4,2,"24f6e6f2-c534-1df5-3270-d1dd2f03001a",4,4,3,"White","High School/Tertiary/Tech. College","",3.66666666666667
+41,16,3,2,1,3,4,4,2,"253bd03e-6856-31e6-ffbc-e7100f746dd7",2,3,3,"Asian","University/Higher Education","",2.66666666666667
+31,8,2,4,4,1,4,4,1,"253e105a-b6ec-22ff-fad8-271590a351b0",0,3,3,"White","High School/Tertiary/Tech. College","",2
+79,1,2,1,1,1,1,2,1,"25608547-fef5-0473-a4c5-b24b714f79ab",0,0,1,"White","High School/Tertiary/Tech. College;High School/Tertiary/Tech. College","$15,000 - $24,999",0.333333333333333
+34,16,1,1,1,5,5,5,2,"25834826-a0ce-6dd1-47a4-7fa8362844c1",4,4,4,"White","University/Higher Education","",4
+66,4,1,2,2,5,5,5,2,"259352fc-a6fb-5ad4-4b7e-65b85fcf6311",4,4,4,"White","University/Higher Education","$15,000 - $24,999",4
+62,7,5,2,3,4,2,2,2,"25b78fb8-0942-905d-723a-b89c0c5bcf54",3,1,1,"Hispanic or Latino","High School/Tertiary/Tech. College","$25,000 - $49,999",1.66666666666667
+63,6,2,2,1,3,3,3,2,"25c3a6f7-c400-3915-1b75-91e88b9c2518",2,2,2,"Black or African American","High School/Tertiary/Tech. College","",2
+71,9,1,1,1,3,3,3,1,"26472911-5e06-017d-9f93-1e6cd82edaf9",2,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+77,NA,NA,NA,NA,1,1,1,1,"265d937b-11df-a232-85f9-a476f3b2f596",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+40,4,1,4,4,2,2,3,1,"266491e6-a870-accc-bc64-a64f404f4b0a",1,1,2,"American Indian or Alaska Native","University/Higher Education","",1.33333333333333
+50,16,3,1,1,4,4,3,1,"2677a29c-4a40-a4fc-af1e-955cd67a8f71",3,3,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.66666666666667
+38,NA,NA,NA,NA,NA,NA,NA,1,"2682aa45-8278-9f7e-5ac7-9da9710e79a8",NA,NA,NA,"White","University/Higher Education","",NA
+67,1,1,1,1,NA,5,5,1,"26a73391-7a20-a730-2913-048c0fb42979",NA,4,4,"White","University/Higher Education","$80,000 - $99,999",NA
+48,16,1,1,1,1,5,5,1,"26b4d135-ec00-ff52-68b7-e69f8542e3d8",0,4,4,"White","University/Higher Education","$100,000 - $149,999",2.66666666666667
+71,NA,NA,NA,NA,NA,NA,NA,2,"272c1d18-43f4-3d6b-e89a-2a07d8a8a6ff",NA,NA,NA,"White","University/Higher Education","",NA
+63,16,4,4,2,5,5,5,2,"28275c8d-be0b-fc1a-fe0f-6b0c13cb3465",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+21,16,2,1,1,3,3,3,1,"2836b473-e6cf-16a6-e9f1-831d8d161e99",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+32,16,2,1,1,4,4,4,1,"283d5a09-9413-a167-f98b-6d16b03674e1",3,3,3,"Hispanic or Latino","University/Higher Education","$25,000 - $49,999",3
+37,1,1,2,2,4,4,4,1,"28485041-f84b-8a95-8cc3-67634e6a38bf",3,3,3,"White","University/Higher Education","",3
+45,1,3,2,2,4,4,4,1,"2875c44f-b868-8fd2-fdcd-f35e859ceca4",3,3,3,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",3
+23,NA,NA,NA,NA,2,3,4,1,"28994d99-3437-6e7c-411b-7ab24968d076",1,2,3,"White","University/Higher Education","",2
+55,1,3,3,4,2,1,1,1,"2905e896-057e-d4c7-dd14-df2ef082e17b",1,0,0,"White","Postgraduate Education","$15,000 - $24,999",0.333333333333333
+18,1,1,2,2,5,5,5,2,"2913a776-f4bb-c58b-caf4-9038a4241580",4,4,4,"","University/Higher Education","",4
+56,11,3,1,1,5,5,5,2,"29453c46-79d0-0c4d-80c4-0b6e1efdbfab",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+57,21,1,1,2,2,3,3,1,"299b4ca5-b6e2-1efc-1327-7bb08c2c2242",1,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1.66666666666667
+35,7,3,3,3,5,4,5,2,"29eaaa67-ebd3-73e0-ece6-9dc1a231c88f",4,3,4,"White","University/Higher Education","$100,000 - $149,999",3.66666666666667
+18,16,1,1,2,3,3,3,2,"2a623439-c903-c4c1-bbbb-0349207020d0",2,2,2,"Black or African American","Primary School","$15,000 - $24,999",2
+76,1,1,2,1,2,2,2,1,"2a77a1cf-71e8-0144-b34d-965cad339631",1,1,1,"White","Postgraduate Education","$50,000 - $79,999",1
+49,7,2,2,2,4,4,4,1,"2b867eb4-72e7-52eb-4336-49ad8837b55f",3,3,3,"American Indian or Alaska Native","High School/Tertiary/Tech. College","",3
+73,1,6,1,1,5,5,5,2,"2bd2394a-c814-1104-0ac8-0ef9d3c040ad",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+65,NA,NA,NA,NA,3,3,3,1,"2bf013d8-f29a-454a-785a-24dbbb535a34",2,2,2,"White","Postgraduate Education","$25,000 - $49,999",2
+44,NA,NA,NA,NA,3,3,3,1,"2c1d5a6c-faa3-5ce4-97ee-6d36a89aed81",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+27,NA,NA,NA,NA,NA,NA,NA,2,"2c5a0845-145f-223a-9ec7-3f712716f0ba",NA,NA,NA,"White","University/Higher Education","",NA
+74,4,1,1,1,4,4,4,2,"2d0112d6-2b72-2714-c554-252a7d5bcf2e",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+44,4,2,4,3,2,4,4,2,"2d8ad3e3-09f5-dd5d-4e61-e4a1effeed0a",1,3,3,"White","University/Higher Education","",2.33333333333333
+41,1,1,2,2,3,3,3,1,"2decdd18-ca1d-e136-289a-eac78d6d2dcd",2,2,2,"White","University/Higher Education","$80,000 - $99,999",2
+25,1,2,1,1,5,5,5,2,"2e6e3f8a-17e9-1961-aa08-084549abd66d",4,4,4,"White","University/Higher Education","",4
+64,NA,NA,NA,NA,NA,NA,NA,2,"2e6e4dda-5097-ec0b-b758-7a45734e9237",NA,NA,NA,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",NA
+22,4,2,1,1,2,4,2,1,"2e96a9b0-beb7-3cf5-1832-9ebdfbd22457",1,3,1,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",1.66666666666667
+75,NA,NA,NA,NA,NA,NA,NA,2,"2e9765f5-5304-3292-1f77-52bc1d4d071d",NA,NA,NA,"White","University/Higher Education","$25,000 - $49,999",NA
+85,4,1,1,6,1,1,1,2,"2ec26a84-fec4-8b35-1806-5de9efd63b69",0,0,0,"Asian","University/Higher Education","$25,000 - $49,999",0
+72,11,4,4,4,4,4,4,2,"2ed4c50f-9343-1f3f-088d-f2ff7c146ee4",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+27,8,4,6,5,4,5,4,1,"2eecb8ea-c500-5967-2868-8fc7af1a2406",3,4,3,"White","University/Higher Education","",3.33333333333333
+53,16,2,1,4,5,5,5,2,"2fb25cb1-122a-4464-7633-6b990a32f259",4,4,4,"White","High School/Tertiary/Tech. College","",4
+58,4,2,1,1,5,4,NA,1,"2fdf02da-f0f6-f275-1b58-35f48cfb1522",4,3,NA,"White","University/Higher Education","",NA
+45,NA,NA,NA,NA,NA,NA,NA,1,"3038df71-070c-d910-e0f3-e8131d69c69c",NA,NA,NA,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",NA
+70,NA,NA,NA,NA,1,1,1,2,"30631c09-49a6-c7af-a78b-2b4800c6aedc",0,0,0,"Asian","University/Higher Education","$150,000 - $199,999",0
+58,16,2,1,1,4,4,4,2,"310d2ffe-3632-b0ba-837c-182607abad0a",3,3,3,"White","University/Higher Education","",3
+70,12,1,2,3,4,4,4,1,"3124698b-92e1-2434-ac09-5e0ffa2f0267",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+63,12,1,2,2,4,4,4,2,"31453eda-7e32-1778-9d58-096ee1d8b637",3,3,3,"White","Primary School","$0 - $14,999",3
+67,1,1,6,6,2,2,2,1,"3151f8b0-67d5-034d-9532-cf7a38b0a35d",1,1,1,"Black or African American","University/Higher Education","$50,000 - $79,999",1
+24,NA,NA,NA,NA,NA,NA,NA,1,"315b3bfa-0539-1ef6-9f78-0c704fdc0102",NA,NA,NA,"Black or African American","High School/Tertiary/Tech. College","",NA
+36,10,4,1,2,5,4,4,1,"3191ce26-a848-dc27-49a4-f9bab8466dca",4,3,3,"Hispanic or Latino","University/Higher Education","$25,000 - $49,999",3.33333333333333
+62,16,2,1,1,5,3,5,1,"319fca2d-a710-f6ff-47af-fdb46f6d6cc6",4,2,4,"Asian","University/Higher Education","$50,000 - $79,999",3.33333333333333
+42,1,3,2,3,5,3,3,2,"31d61683-637c-0874-d102-21fd427e6864",4,2,2,"White","University/Higher Education","$150,000 - $199,999",2.66666666666667
+75,1,1,7,7,1,1,1,1,"32500f1a-6956-770f-8e98-387b93d2a3e9",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+56,16,1,4,4,3,3,3,1,"327b96ff-413a-f8fd-a07d-a1503ed08808",2,2,2,"White","University/Higher Education","",2
+18,4,1,2,2,3,2,3,1,"3283abe6-80ec-f028-0b64-9ca870b5280e",2,1,2,"White","None completed","$25,000 - $49,999",1.66666666666667
+25,2,3,5,3,1,1,1,2,"3369dff8-9a6b-e33f-b17a-e84280526310",0,0,0,"Black or African American","University/Higher Education","$0 - $14,999",0
+52,1,5,1,1,4,4,4,1,"339f908f-29be-c045-170d-a7b4657eb965",3,3,3,"White","University/Higher Education","$15,000 - $24,999",3
+43,7,1,1,1,1,4,4,1,"33a71a5b-a669-13d0-63d9-2d8c844b46a9",0,3,3,"Hispanic or Latino","University/Higher Education","",2
+41,1,1,1,1,5,4,5,1,"33cbd08b-0f37-f23d-0f09-e7e0f116e863",4,3,4,"White","Secondary School","$50,000 - $79,999",3.66666666666667
+71,16,1,1,1,2,2,2,2,"340f4487-2465-172e-8705-73240da8bc60",1,1,1,"White","University/Higher Education","$50,000 - $79,999",1
+42,2,2,2,4,5,5,5,2,"34849911-b401-b576-4193-aeafdfd173ee",4,4,4,"Hispanic or Latino","High School/Tertiary/Tech. College","",4
+31,1,2,2,3,5,5,5,1,"34993288-aac0-ac2a-170a-05b21a52216f",4,4,4,"White","University/Higher Education","$100,000 - $149,999",4
+25,NA,NA,NA,NA,3,3,3,1,"34a52766-1d5a-93db-7de4-108ef99dd6a1",2,2,2,"Asian","University/Higher Education","$80,000 - $99,999",2
+18,NA,NA,NA,NA,NA,NA,NA,2,"34ddb1e6-a0d0-fed2-0464-86f640916501",NA,NA,NA,"White","High School/Tertiary/Tech. College","",NA
+71,1,4,2,2,4,5,4,2,"34f280d9-f1af-d0d0-7a5b-b7d9016f5933",3,4,3,"White","University/Higher Education","$25,000 - $49,999",3.33333333333333
+19,7,6,4,3,3,2,3,1,"3517dc0b-5fe1-fd1e-cf89-eb3c9032bbe2",2,1,2,"I prefer not to answer","University/Higher Education","",1.66666666666667
+39,11,2,1,1,4,4,4,2,"3533617b-d816-48c4-f7f9-5618f65c3c90",3,3,3,"White","Secondary School","",3
+24,NA,NA,NA,NA,1,1,1,2,"359afa9a-8ecb-3eb8-9c1b-cdb19db3447d",0,0,0,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",0
+85,NA,NA,NA,NA,1,1,1,2,"3695ea77-2a19-0005-44f5-ddbe2a18e09e",0,0,0,"White","University/Higher Education","$100,000 - $149,999",0
+67,NA,NA,NA,NA,NA,NA,NA,2,"371bc1ba-e655-923b-9338-f6303afaf257",NA,NA,NA,"Hispanic or Latino","University/Higher Education","$15,000 - $24,999",NA
+45,16,2,1,1,5,5,5,1,"377ec797-7d35-cde0-a615-f055a413847a",4,4,4,"White","Postgraduate Education","$0 - $14,999",4
+70,7,5,2,2,4,3,3,1,"385f2df6-255b-b379-d174-1a74cbc0381f",3,2,2,"White","University/Higher Education","$25,000 - $49,999",2.33333333333333
+69,1,2,1,1,5,5,5,2,"3881dac2-b7f8-269d-4540-edaad384732f",4,4,4,"White","University/Higher Education","$80,000 - $99,999",4
+18,1,3,3,2,1,5,4,1,"3888f4cf-cb02-c5b7-504d-c3a3ca333228",0,4,3,"Black or African American","High School/Tertiary/Tech. College","",2.33333333333333
+20,NA,NA,NA,NA,3,2,3,1,"393b3b27-0b6e-a50b-b5a5-0c1045f782d6",2,1,2,"White","High School/Tertiary/Tech. College","",1.66666666666667
+71,1,1,2,2,3,2,3,1,"39711ade-ebfe-3112-a95c-2d5a47d96036",2,1,2,"White","Postgraduate Education","$50,000 - $79,999",1.66666666666667
+37,1,1,1,1,5,5,5,2,"398deace-9e96-b8c7-054c-dda638f8d626",4,4,4,"White","University/Higher Education","$100,000 - $149,999",4
+87,11,2,1,4,1,1,1,1,"3998dfa4-6d01-8f46-1026-e8b315a17949",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+38,11,1,6,2,3,3,3,1,"39a0ee97-f39c-e32a-7815-d98bf4b20b7b",2,2,2,"White","Primary School","$50,000 - $79,999",2
+45,7,3,1,1,3,5,5,1,"39b45b23-244e-7866-6da1-6c9fec93dfca",2,4,4,"White","University/Higher Education","",3.33333333333333
+41,16,1,2,2,3,3,3,1,"39c8fcc5-d712-0dbe-0c47-cbe33ef35229",2,2,2,"Black or African American","University/Higher Education","",2
+52,NA,NA,NA,NA,5,5,5,1,"3a5594a4-aecd-a788-9126-a37e46806a60",4,4,4,"White","None completed","",4
+22,7,2,6,5,2,5,4,2,"3a6f40b9-c60c-de7e-e13b-774479965d51",1,4,3,"Black or African American","High School/Tertiary/Tech. College","",2.66666666666667
+62,NA,NA,NA,NA,NA,NA,NA,1,"3aa83f26-d678-c72d-6ca4-0883ad4012c1",NA,NA,NA,"White","University/Higher Education","$25,000 - $49,999",NA
+50,1,1,1,1,4,4,4,2,"3ae60388-ab07-5ffe-e109-34cdc8df7065",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+85,NA,NA,NA,NA,3,3,3,1,"3af5667d-69b9-367c-7dff-51de331a3da1",2,2,2,"White","Primary School","$25,000 - $49,999",2
+64,1,1,1,1,2,2,2,1,"3b3f0a31-8c58-5330-b7b3-3d144a0a04d9",1,1,1,"White","University/Higher Education","$25,000 - $49,999",1
+75,1,1,1,3,4,3,3,1,"3b9e6d87-0871-31eb-1605-5ab5cba95860",3,2,2,"White","University/Higher Education","$25,000 - $49,999",2.33333333333333
+61,12,2,3,1,4,2,2,2,"3bf25ab7-9809-757d-3735-6dd90d447f5a",3,1,1,"Black or African American","High School/Tertiary/Tech. College","$50,000 - $79,999",1.66666666666667
+58,16,5,4,4,1,2,2,1,"3c791526-74da-8fd8-bda4-22523643edcb",0,1,1,"Hispanic or Latino","University/Higher Education;University/Higher Education","$15,000 - $24,999",0.666666666666667
+44,NA,NA,NA,NA,NA,NA,NA,1,"3cc212d7-069a-4281-4a55-25e9d856523a",NA,NA,NA,"Other","University/Higher Education","$25,000 - $49,999",NA
+62,NA,NA,NA,NA,4,4,4,2,"3cda3a5b-e7a8-df2b-03d9-0df126ae25b6",3,3,3,"White","University/Higher Education","$80,000 - $99,999",3
+25,4,1,1,2,5,4,5,1,"3d44ed1e-3a25-7808-ca9c-da6f89ac27f6",4,3,4,"White","High School/Tertiary/Tech. College","$0 - $14,999",3.66666666666667
+94,NA,NA,NA,NA,3,3,3,1,"3d907613-8695-f687-5491-41bb192e01fe",2,2,2,"White","High School/Tertiary/Tech. College;High School/Tertiary/Tech. College","$50,000 - $79,999",2
+55,11,2,2,5,3,3,3,2,"3dbe3b40-1fab-61ea-62c2-0c95897ce7ac",2,2,2,"Black or African American","University/Higher Education","$50,000 - $79,999",2
+57,16,3,4,6,1,2,2,1,"3e0f5acc-9759-672c-cb4e-6d245ea61724",0,1,1,"White","High School/Tertiary/Tech. College","",0.666666666666667
+58,4,1,2,3,3,3,3,2,"3e2833d1-6d50-6156-f053-0403b5198936",2,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2
+49,10,1,1,1,5,5,5,1,"3e46413e-48de-de5d-c8bc-766d914315d2",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+58,NA,NA,NA,NA,NA,NA,NA,2,"3e691441-53c6-273a-b1c3-2342398e98ac",NA,NA,NA,"White","High School/Tertiary/Tech. College","$80,000 - $99,999",NA
+70,16,1,6,7,3,3,3,1,"3e72ea66-1f9c-26f1-b6e4-dd59dd71c68b",2,2,2,"Other","High School/Tertiary/Tech. College","$100,000 - $149,999",2
+79,NA,NA,NA,NA,1,1,1,2,"3eb6f571-c1ad-3b22-64f3-c29d019e3f98",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+21,16,1,1,1,5,4,5,2,"3effb800-5d78-6bbc-af81-8fd4f2b42ee7",4,3,4,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",3.66666666666667
+45,NA,NA,NA,NA,4,3,3,1,"3f196e8d-790a-3760-910f-5932425f6d7f",3,2,2,"White","Secondary School","",2.33333333333333
+51,NA,NA,NA,NA,1,1,1,2,"3f2e17ca-f50c-2758-f648-2005a3c7fd2d",0,0,0,"White","None completed","$0 - $14,999",0
+74,NA,NA,NA,NA,NA,NA,NA,2,"3f86378e-e81a-cdf4-420c-00adcb7c0c7e",NA,NA,NA,"White","University/Higher Education","$50,000 - $79,999",NA
+66,NA,NA,NA,NA,NA,NA,NA,1,"3fc4800a-b75f-78f4-0088-b7ef4f6472e7",NA,NA,NA,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",NA
+52,NA,NA,NA,NA,3,3,4,1,"4044d643-de40-fa59-98c1-e16f288d52af",2,2,3,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2.33333333333333
+54,1,2,3,2,2,3,3,2,"40506b1c-2e91-0046-899e-5c7b6601edf5",1,2,2,"White","High School/Tertiary/Tech. College","",1.66666666666667
+19,16,2,7,7,4,4,4,1,"407dcbb7-b094-bbbd-a335-fc564014525e",3,3,3,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",3
+48,1,3,2,1,2,4,5,2,"411f84a5-1fcd-d9c3-a827-b334ab924e4b",1,3,4,"Black or African American","University/Higher Education","$0 - $14,999",2.66666666666667
+39,1,3,2,2,4,2,2,1,"4129afae-4528-9a46-f02c-9802d3dea649",3,1,1,"I prefer not to answer","University/Higher Education","$25,000 - $49,999",1.66666666666667
+70,NA,NA,NA,NA,1,1,1,2,"41640194-8b00-5a22-ec16-364fb9d49b79",0,0,0,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+51,1,6,1,1,5,5,5,1,"417fc8c9-a8c5-9667-f74b-ff549b1cf82e",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+60,21,2,1,2,2,2,2,1,"41906a8c-b535-50eb-540e-5dbb6a735d6b",1,1,1,"White","Postgraduate Education","",1
+55,13,1,1,2,3,4,4,1,"41efc78b-4955-3641-2b09-f0c4f75fae67",2,3,3,"White","University/Higher Education;University/Higher Education","$25,000 - $49,999",2.66666666666667
+70,1,2,1,4,1,1,1,1,"420f6389-e8e5-66bc-850b-542407e0ff64",0,0,0,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",0
+60,21,1,6,6,4,3,4,2,"42123f42-12c5-f254-cec0-0839302bed95",3,2,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",2.66666666666667
+53,16,1,1,2,4,4,4,2,"428da4e2-9eff-e812-5560-93a65e53660f",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+52,NA,NA,NA,NA,NA,NA,NA,2,"42991be7-2948-83c8-4365-2cb2e1d8ec0a",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+51,16,6,4,4,4,4,4,2,"42a14368-b350-9193-f1e9-748a4579c381",3,3,3,"Other","University/Higher Education","$15,000 - $24,999",3
+46,1,2,1,1,4,4,4,1,"42b5251b-b6c5-7634-3d99-129e39891ff3",3,3,3,"Asian","University/Higher Education","$100,000 - $149,999",3
+64,1,5,1,2,3,3,3,2,"42c1a24f-0284-f148-49cd-95eac94b2aa6",2,2,2,"White","University/Higher Education","$50,000 - $79,999",2
+47,7,1,5,1,4,4,4,2,"43103c35-e6a9-4125-ceb7-0b3b5b1724dd",3,3,3,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",3
+75,NA,NA,NA,NA,NA,NA,NA,2,"43703ba0-e23b-ccd2-b422-0c5b5310664d",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+66,NA,NA,NA,NA,3,3,3,1,"43728567-015e-d405-fae5-b259adf509b7",2,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+56,11,1,1,1,1,5,5,2,"43877108-4a34-ce6f-438a-46ac50cc53e1",0,4,4,"White","University/Higher Education","",2.66666666666667
+76,4,1,4,4,4,4,4,2,"438e4381-b642-15a9-0603-74a51b882271",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+38,16,1,2,3,3,3,3,1,"43a4d90d-d1c9-8800-2c8f-ee8f3e63c5e5",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+41,1,3,1,1,1,1,1,2,"43cd75c6-a068-8268-1244-42e6a3684321",0,0,0,"White","Postgraduate Education","$50,000 - $79,999",0
+40,3,2,3,2,1,3,2,2,"44261d87-7aa5-3048-e205-2a0dff6b626f",0,2,1,"I prefer not to answer","High School/Tertiary/Tech. College","",1
+72,16,1,2,4,4,4,4,1,"444a2e82-9b73-baad-c400-19612793d065",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+42,16,2,1,1,3,4,4,2,"44682a48-12f6-e486-acca-1d4376ddd5b0",2,3,3,"Asian","University/Higher Education","",2.66666666666667
+75,1,2,7,7,4,4,4,1,"448019bc-8727-60dc-5b3e-2eaba8de6051",3,3,3,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",3
+35,NA,NA,NA,NA,4,2,2,1,"44a770a1-b5b5-453a-6323-478cf3c33269",3,1,1,"White","Postgraduate Education","",1.66666666666667
+20,NA,NA,NA,NA,2,3,3,1,"44abcb60-d574-ffd4-6fe2-fc809cb31187",1,2,2,"","University/Higher Education","",1.66666666666667
+74,11,5,3,6,1,1,1,2,"44badf54-caaa-2326-7ed6-e891fa520dbd",0,0,0,"White","High School/Tertiary/Tech. College","",0
+65,16,1,3,3,5,1,1,1,"44bb877b-5629-cce7-33f9-b0906ae14296",4,0,0,"Black or African American","University/Higher Education","$100,000 - $149,999",1.33333333333333
+58,16,3,1,1,4,4,4,1,"44ff3ae7-afdd-493a-2665-0dd429ac5509",3,3,3,"White","University/Higher Education","",3
+21,16,3,1,1,5,5,4,1,"452bd022-efbb-f8fe-9ca0-e7002be8b6ca",4,4,3,"Black or African American","University/Higher Education","$15,000 - $24,999",3.66666666666667
+65,1,1,3,3,5,5,4,2,"45d12c90-ff80-ac07-1512-1bfade3d187c",4,4,3,"White","University/Higher Education","$100,000 - $149,999",3.66666666666667
+22,1,2,1,1,3,3,3,1,"46a1457d-9292-191d-29ff-728ab4ce1b9a",2,2,2,"White","","$15,000 - $24,999",2
+51,9,3,1,1,3,5,4,2,"46b43267-7729-dd3a-6be5-059faf248c89",2,4,3,"Black or African American","University/Higher Education","$50,000 - $79,999",3
+50,NA,NA,NA,NA,2,2,1,2,"46b53172-8ae1-281e-70f0-069ea6f44c9f",1,1,0,"Black or African American","Secondary School","$50,000 - $79,999",0.666666666666667
+71,16,1,2,2,3,3,3,1,"46b9b5f6-9ef3-a6ee-7d74-8292d2fc7a2c",2,2,2,"White","University/Higher Education;University/Higher Education","$100,000 - $149,999",2
+42,16,4,1,1,5,5,5,2,"46dd8628-b8f4-96f1-05aa-b1f627dd5cc7",4,4,4,"Black or African American","High School/Tertiary/Tech. College","",4
+28,NA,NA,NA,NA,2,2,1,2,"470cc6da-8172-e9fc-c858-f1272fb91933",1,1,0,"White","High School/Tertiary/Tech. College","",0.666666666666667
+58,1,1,1,3,1,2,2,1,"4719a010-246e-7777-c592-97326caae5fd",0,1,1,"White","University/Higher Education","$100,000 - $149,999",0.666666666666667
+47,11,1,4,6,3,3,3,2,"47778cbc-c16b-e8c9-af3e-bb5c420f0257",2,2,2,"Black or African American","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+46,16,3,6,6,3,3,3,1,"481e57e5-c924-5ce6-c767-6035c705c81d",2,2,2,"White","University/Higher Education","$15,000 - $24,999",2
+57,16,1,1,1,4,4,4,2,"48420b4a-0085-d223-86c8-3c69d1dce7a0",3,3,3,"White","University/Higher Education","$15,000 - $24,999",3
+57,NA,NA,NA,NA,2,3,1,2,"4895c752-c979-b445-4cd0-f0be2bf9cabe",1,2,0,"Hispanic or Latino","High School/Tertiary/Tech. College","",1
+60,16,1,3,3,4,3,4,2,"48d0d611-b156-fb50-1493-e1fb85b751c1",3,2,3,"White","Postgraduate Education","$100,000 - $149,999",2.66666666666667
+31,1,3,2,3,5,5,5,1,"49499a3b-fd3a-a8ba-8db9-ad62c8153ad3",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+55,1,1,1,1,4,3,3,1,"4977d21d-80ce-edbd-ad9f-e55ca53646f4",3,2,2,"White","University/Higher Education","$50,000 - $79,999",2.33333333333333
+44,1,1,1,1,3,3,3,1,"497e019a-946b-5120-f618-365581228c7d",2,2,2,"Black or African American","University/Higher Education","$50,000 - $79,999",2
+74,1,3,1,1,1,5,5,1,"498a52aa-d6a3-0c20-0228-65a1f1f28547",0,4,4,"White","University/Higher Education","$100,000 - $149,999",2.66666666666667
+41,16,1,1,1,5,5,5,2,"49ffd77d-cdc6-8f4e-77ff-e0d4f612459a",4,4,4,"White","University/Higher Education","$100,000 - $149,999",4
+35,16,7,1,1,4,3,3,1,"4a2dd397-0c20-f1ba-e915-e4063b7eed66",3,2,2,"Black or African American","University/Higher Education","$0 - $14,999",2.33333333333333
+77,1,1,1,1,1,5,3,2,"4a363f31-cedf-8295-eeb3-081dfc6105f9",0,4,2,"White","University/Higher Education","",2
+55,16,4,1,1,5,5,5,1,"4ae22de0-bc35-3036-2762-1ac928d4bb1c",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+68,1,3,1,1,2,2,2,1,"4b132613-cbb1-1bc3-d791-1138174fcbd9",1,1,1,"White","University/Higher Education","",1
+75,11,2,1,1,5,5,5,1,"4b5071b4-bf87-aaa7-9436-467b54505a44",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+32,4,3,5,3,3,3,4,2,"4b6bb521-2e31-9b4b-afa3-82405ddac6cb",2,2,3,"White","University/Higher Education","$25,000 - $49,999",2.33333333333333
+29,1,1,1,1,2,1,1,2,"4b7860a5-031c-738d-a027-57531b33cb42",1,0,0,"Black or African American","High School/Tertiary/Tech. College","",0.333333333333333
+50,1,3,1,1,4,4,4,2,"4b7c6226-4363-4fd3-a6a4-5557d28d85cb",3,3,3,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",3
+24,15,5,6,5,1,3,3,2,"4bf50b48-ea56-8d7c-2fca-3cde1da76da1",0,2,2,"Black or African American","University/Higher Education","",1.33333333333333
+36,1,1,3,5,4,4,4,2,"4c09cd17-da8a-35ce-cd95-fa22e5b1def0",3,3,3,"White","High School/Tertiary/Tech. College","",3
+64,4,3,4,4,1,1,1,1,"4c55f793-3671-044a-8a11-c07eed41ca7e",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+73,NA,NA,NA,NA,2,1,1,2,"4c5a6aa2-e94b-9d22-8520-5d71c423124a",1,0,0,"White","University/Higher Education","$25,000 - $49,999",0.333333333333333
+53,7,2,2,2,3,3,3,1,"4c8678c1-0a6d-db3d-4243-4fad42309232",2,2,2,"White","Secondary School","",2
+58,16,1,1,2,2,2,2,1,"4cba5795-371b-b64b-7e17-6091e409af5e",1,1,1,"White","University/Higher Education","",1
+33,NA,NA,NA,NA,5,3,3,1,"4ce8a916-f4c3-56d0-2c94-9ec31e3f73e4",4,2,2,"White","University/Higher Education","",2.66666666666667
+31,7,1,1,1,4,4,4,2,"4ce9b344-f020-977a-5ec6-84c206e7a3ad",3,3,3,"Hispanic or Latino","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+58,NA,NA,NA,NA,4,4,4,2,"4d0ff5d5-3ae6-c72c-d757-c2244828fe3e",3,3,3,"White","University/Higher Education","$0 - $14,999",3
+66,1,5,1,1,1,1,4,1,"4d6e2917-67af-2e5f-aa95-1e4595ac86ff",0,0,3,"White","Secondary School","",1
+51,1,2,1,1,4,4,4,2,"4d82fcc7-ea3a-f125-5a45-cba963370120",3,3,3,"I prefer not to answer","University/Higher Education","",3
+21,NA,NA,NA,NA,1,1,1,2,"4d8f2285-bd9f-7bc9-0707-15a475443562",0,0,0,"White","University/Higher Education","$80,000 - $99,999",0
+50,14,2,1,1,5,5,5,1,"4db8d917-548e-eba8-7c95-ee9386ff8cff",4,4,4,"Black or African American","University/Higher Education","",4
+78,NA,NA,NA,NA,1,1,1,1,"4e798dcb-7c05-f0c4-a249-ba52cda49b26",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+22,5,6,1,3,3,3,4,2,"4ea82155-e2c4-f120-71d7-1683cb0808b2",2,2,3,"White","University/Higher Education","",2.33333333333333
+46,1,1,1,1,4,4,4,1,"4ee9bfcb-7536-0575-3349-88c29e53f021",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+41,NA,NA,NA,NA,2,4,2,2,"4f4f08b3-ab34-5b1b-c731-3f64fbd8bf5b",1,3,1,"Hispanic or Latino","Postgraduate Education","$25,000 - $49,999",1.66666666666667
+72,1,6,1,1,1,1,1,2,"4fc9d504-e99a-8710-4186-e2e229db7def",0,0,0,"Asian","University/Higher Education","$50,000 - $79,999",0
+57,NA,NA,NA,NA,NA,NA,NA,2,"50249a11-79da-1b38-e093-ad0f352060fa",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+35,NA,NA,NA,NA,1,1,1,2,"5031ac5d-01c4-a4cf-f5df-9b1aacf1c1af",0,0,0,"Asian","University/Higher Education","$0 - $14,999",0
+33,16,1,1,1,3,3,3,1,"5054fa8f-2f17-7bf7-8e0d-cd7f52a4e864",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+70,11,2,1,1,2,1,4,2,"5055316d-d5e7-05e9-dfef-067e46928086",1,0,3,"White","University/Higher Education","$25,000 - $49,999",1.33333333333333
+42,16,1,1,1,4,4,5,2,"50b1c5c9-424f-947d-394b-f29a96854a24",3,3,4,"White","University/Higher Education","$100,000 - $149,999",3.33333333333333
+61,1,4,2,2,5,5,5,2,"50c99d02-f0d4-061a-0d80-aae2385031ef",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+24,15,2,3,3,2,1,2,2,"51176493-5d6b-6f94-ce11-533c5262b674",1,0,1,"Black or African American","University/Higher Education","",0.666666666666667
+72,11,2,2,3,4,4,4,1,"518b45fc-3aa1-1b7a-037e-72a059fbaf15",3,3,3,"White","Postgraduate Education","$15,000 - $24,999",3
+19,1,3,1,1,5,2,3,1,"519150f0-621a-5dde-4972-67ba09179a1b",4,1,2,"White","University/Higher Education","",2.33333333333333
+41,4,2,4,5,4,4,5,2,"519b89ae-afdd-a3bb-2c2c-beb0749b3647",3,3,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",3.33333333333333
+18,2,4,3,5,3,2,5,1,"51deba10-1430-9068-0692-8df55be7fcf8",2,1,4,"White","Postgraduate Education","",2.33333333333333
+38,1,1,3,2,3,3,3,1,"51e5c937-a7cd-4811-21b5-fece7b4f40de",2,2,2,"White","University/Higher Education","$15,000 - $24,999",2
+60,NA,NA,NA,NA,1,1,1,2,"5235ab10-33b2-444f-ea92-9c1e79a2cefd",0,0,0,"Hispanic or Latino","University/Higher Education","$15,000 - $24,999",0
+70,16,3,1,2,1,1,1,2,"523d2295-a16e-4e85-e417-151628c62269",0,0,0,"White","University/Higher Education","$0 - $14,999",0
+42,16,1,1,1,3,3,3,1,"524a783a-0c5b-b104-95b8-4f611819f1dd",2,2,2,"White","High School/Tertiary/Tech. College","",2
+78,1,3,2,2,2,2,2,2,"5270a705-0ee3-261c-7784-905b43618ae8",1,1,1,"White","University/Higher Education","$25,000 - $49,999",1
+71,NA,NA,NA,NA,1,1,1,1,"527a0778-1775-9d82-befa-305154e2ce95",0,0,0,"White","University/Higher Education","$0 - $14,999",0
+28,16,1,1,1,4,4,4,1,"52bce221-9457-bdd5-34a3-d597248f00c6",3,3,3,"Hispanic or Latino","University/Higher Education","$15,000 - $24,999",3
+66,16,2,2,2,5,NA,5,2,"52c88917-a6b9-4776-0c95-bee37fda42ff",4,NA,4,"White","University/Higher Education","$50,000 - $79,999",NA
+57,11,1,2,2,5,5,5,2,"52e9a7bf-42b1-975f-2c3d-90c23841a757",4,4,4,"White","University/Higher Education","",4
+79,1,3,3,3,1,1,1,1,"5375441f-1e4b-fe5e-af9d-735e9e2df8f2",0,0,0,"White","University/Higher Education","$50,000 - $79,999",0
+18,16,2,4,3,2,1,2,1,"53b08d4a-a7ec-a6bc-6cc8-ba9b53c85bad",1,0,1,"White","High School/Tertiary/Tech. College","$0 - $14,999",0.666666666666667
+28,NA,NA,NA,NA,4,4,4,1,"53f71a77-06c2-baf2-33f5-2ddc5a1fc79e",3,3,3,"White","University/Higher Education","",3
+22,4,1,6,6,3,3,3,1,"5433896a-1b21-d63d-bbe8-be188fe28f8d",2,2,2,"Black or African American","High School/Tertiary/Tech. College","",2
+29,NA,NA,NA,NA,3,5,5,2,"5498259f-f9c3-1364-5c1d-12b3d3f0186a",2,4,4,"White","Postgraduate Education","",3.33333333333333
+30,16,5,1,1,5,5,4,2,"54fa48e8-8780-9446-e069-7fd166400005",4,4,3,"White","University/Higher Education","$150,000 - $199,999",3.66666666666667
+25,7,2,1,1,4,3,5,1,"54fcf375-6f90-9ae1-25f7-c4d762f29685",3,2,4,"White","Secondary School","",3
+29,2,5,1,1,5,5,5,2,"5579b00a-432d-63d3-7f8b-8752f40146e0",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+82,21,2,7,7,2,2,2,1,"55a68e98-9efc-764d-791a-b98dec0d5675",1,1,1,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1
+21,11,2,2,3,4,4,4,1,"55d1a3d3-bcd5-96dc-1551-94fad6e06434",3,3,3,"I prefer not to answer","None completed","",3
+65,NA,NA,NA,NA,1,2,5,2,"55e5479d-db0d-b835-3a1f-70ce81311670",0,1,4,"White","University/Higher Education","$200,000 or more",1.66666666666667
+35,16,1,1,1,5,5,5,1,"560a7f68-66be-5ab5-ceea-48213bd8818f",4,4,4,"White","High School/Tertiary/Tech. College","",4
+21,NA,NA,NA,NA,2,2,3,2,"567de825-3b73-c45a-b8a7-df565dbcdcc2",1,1,2,"Other","None completed","$15,000 - $24,999",1.33333333333333
+63,16,3,1,1,5,5,5,1,"569bae42-dd69-38f8-5fc0-99b0a0fc3aa5",4,4,4,"Hispanic or Latino","Postgraduate Education","$15,000 - $24,999",4
+60,16,1,1,1,1,1,1,2,"56e6213f-70e7-2b66-c9be-16cdb3e19cd4",0,0,0,"White","University/Higher Education","$50,000 - $79,999",0
+52,7,1,1,1,2,2,2,1,"5700568f-7f1c-c19f-c40d-612b4b97ba70",1,1,1,"White","High School/Tertiary/Tech. College","",1
+66,16,2,3,3,3,2,2,1,"571b0e3a-5a26-5240-93b8-393053e70ed7",2,1,1,"White","University/Higher Education","$100,000 - $149,999",1.33333333333333
+57,16,5,1,2,3,3,2,1,"576a9c40-a1a2-aa78-aec2-ab41256145b2",2,2,1,"White","University/Higher Education","",1.66666666666667
+35,NA,NA,NA,NA,4,4,4,1,"57dd6e17-ef41-3ec6-5595-59f6ea8267f0",3,3,3,"Other","University/Higher Education","$50,000 - $79,999",3
+54,11,2,1,2,4,4,4,2,"58900d85-e17a-47b2-4e07-3abb231c1b6d",3,3,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+23,NA,NA,NA,NA,5,5,5,2,"5903bc3b-72fd-9724-c7b9-8b287299b2d1",4,4,4,"Black or African American","High School/Tertiary/Tech. College","",4
+61,NA,NA,NA,NA,NA,NA,NA,2,"596a672f-55b9-7f11-afad-50416ba093c2",NA,NA,NA,"Black or African American","University/Higher Education","$50,000 - $79,999",NA
+76,1,1,1,1,2,2,2,2,"59c03bb8-b6bc-63b5-193a-0ceb60647550",1,1,1,"White","University/Higher Education","$80,000 - $99,999",1
+83,11,5,3,4,5,5,5,2,"59eddd14-011c-8694-6596-eac6d34812f9",4,4,4,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",4
+42,7,1,1,1,1,5,5,2,"5a54a315-8b19-3da6-da97-947f85bad8f2",0,4,4,"Black or African American","High School/Tertiary/Tech. College","",2.66666666666667
+76,NA,NA,NA,NA,1,1,1,1,"5a6a711d-4bd9-4d2d-ae9f-464100f8aaec",0,0,0,"White","Postgraduate Education","$25,000 - $49,999",0
+44,NA,NA,NA,NA,2,2,2,2,"5a7dcfcf-5ea6-1cbc-2d4e-f856e56b2f23",1,1,1,"White","Primary School","$0 - $14,999",1
+52,5,1,2,2,3,3,3,1,"5a859159-fcc3-0b8f-41db-a6ae6e543db2",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+75,NA,NA,NA,NA,NA,NA,NA,1,"5aa43a48-a890-1405-61ca-0d8f87424fa5",NA,NA,NA,"White","University/Higher Education","$80,000 - $99,999",NA
+32,1,2,1,1,1,2,2,1,"5ac77991-8c20-0c27-1913-4eec9ea66676",0,1,1,"White","University/Higher Education","$25,000 - $49,999",0.666666666666667
+60,11,1,2,2,4,4,4,2,"5aca4529-8a63-abbc-15ab-72e1cf0873ce",3,3,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+60,12,1,5,5,5,5,5,2,"5b18722e-5db0-5c31-00af-453348d3f8c3",4,4,4,"White","University/Higher Education","$0 - $14,999",4
+58,NA,NA,NA,NA,1,1,1,1,"5b6400d0-18a0-f6e3-a052-374f04cadf37",0,0,0,"Black or African American","Postgraduate Education","$0 - $14,999",0
+26,1,2,1,2,4,2,2,1,"5b67af38-425b-5c86-a3ba-984c9757abdf",3,1,1,"White","Postgraduate Education","",1.66666666666667
+61,NA,NA,NA,NA,NA,NA,NA,2,"5b844363-1cb4-29f1-5fe1-74af453d9992",NA,NA,NA,"White","High School/Tertiary/Tech. College","",NA
+29,7,1,1,6,3,3,3,2,"5ba05116-48fe-83e9-f097-668bd8bf3bf1",2,2,2,"Black or African American","University/Higher Education","$200,000 or more",2
+53,16,3,1,1,5,5,5,2,"5bf9d986-dc28-31da-2004-eed2752c3e6e",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+27,NA,NA,NA,NA,5,5,5,2,"5c47a9db-cecd-f748-cf59-9e6ca3969a3c",4,4,4,"Hispanic or Latino","High School/Tertiary/Tech. College","$50,000 - $79,999",4
+56,16,1,1,1,2,3,3,2,"5c67198d-671a-660c-bf0f-2e4cd1a68365",1,2,2,"White","Primary School","$0 - $14,999",1.66666666666667
+63,9,2,1,1,1,4,4,2,"5c77b7df-61ec-23da-b35d-805cd908e637",0,3,3,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+67,11,2,1,1,3,3,3,1,"5c86b6bd-84bb-81ef-313f-81ada05ad156",2,2,2,"Black or African American","University/Higher Education","$25,000 - $49,999",2
+23,NA,NA,NA,NA,4,4,4,2,"5c8f7109-f452-1466-518b-46a47fb43eee",3,3,3,"","University/Higher Education","",3
+46,1,1,1,1,4,3,3,1,"5cc347be-af3a-a58a-1c3c-70e808244e59",3,2,2,"Asian","University/Higher Education","$50,000 - $79,999",2.33333333333333
+54,16,3,4,6,4,3,4,2,"5d4937a3-8576-1534-9021-0062c62b667a",3,2,3,"Hispanic or Latino","None completed","$0 - $14,999",2.66666666666667
+49,1,1,1,1,2,3,4,2,"5d72171d-438f-ed23-b69f-2059178882f5",1,2,3,"White","High School/Tertiary/Tech. College","",2
+32,4,2,1,1,5,4,5,2,"5d91fc3f-3274-06aa-55bd-cbbae853d7d0",4,3,4,"White","High School/Tertiary/Tech. College","",3.66666666666667
+36,1,1,1,1,4,5,5,2,"5d9fcc00-b8ea-0596-5b82-fbb4c5a05ce7",3,4,4,"White","University/Higher Education","$50,000 - $79,999",3.66666666666667
+81,NA,NA,NA,NA,1,2,2,1,"5de81c94-d905-d1dd-2c16-2bc3682a1979",0,1,1,"White","University/Higher Education","$100,000 - $149,999",0.666666666666667
+59,14,1,3,3,3,2,3,2,"5e0b626a-edab-ae22-d4e8-55209a9b1182",2,1,2,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",1.66666666666667
+54,1,1,1,1,5,5,5,1,"5e1dd2b3-6245-2201-d931-e5368276a75d",4,4,4,"White","Postgraduate Education","$100,000 - $149,999",4
+51,16,2,1,1,5,5,5,2,"5e7743d0-10eb-d38e-b352-745cfc67f53d",4,4,4,"Hispanic or Latino","University/Higher Education","$15,000 - $24,999",4
+39,16,3,1,1,5,5,5,1,"5e914e24-d853-7179-55a6-79bab3aa38dc",4,4,4,"White","High School/Tertiary/Tech. College","",4
+26,16,1,5,1,3,1,2,2,"5e993835-4161-e378-c9b4-0fb2a344cddd",2,0,1,"White","High School/Tertiary/Tech. College","",1
+57,16,2,1,1,3,4,4,1,"5ee39bfd-3b14-0e7a-6d7f-acc85d93621a",2,3,3,"White","University/Higher Education","$15,000 - $24,999",2.66666666666667
+64,NA,NA,NA,NA,3,3,3,1,"5f1dac54-772c-bec7-d9d6-9b36a02390a5",2,2,2,"White","High School/Tertiary/Tech. College","",2
+53,7,1,1,1,3,3,3,1,"5f8fb9cf-8d33-454d-4b4d-8ea4510f6a25",2,2,2,"Black or African American","High School/Tertiary/Tech. College","",2
+30,16,6,1,2,5,5,5,2,"600396ac-914a-a545-c72e-a128f5061644",4,4,4,"White","University/Higher Education","$100,000 - $149,999",4
+64,11,2,1,1,2,3,2,2,"60067f19-91e4-5883-df9b-482dc43010f2",1,2,1,"White","University/Higher Education","",1.33333333333333
+67,NA,NA,NA,NA,3,3,3,1,"602c2737-bb99-2262-a6b5-1007b5acecc6",2,2,2,"White","University/Higher Education","$50,000 - $79,999",2
+41,NA,NA,NA,NA,NA,NA,NA,1,"605de9c0-4743-b499-8542-de76959ecf2d",NA,NA,NA,"White","University/Higher Education","",NA
+42,22,2,1,1,5,3,3,2,"6134f862-5bd8-f4cf-f0e0-cf1fbcd9bf8b",4,2,2,"I prefer not to answer","None completed","",2.66666666666667
+20,1,1,1,4,5,3,5,1,"6181bcec-5e92-22f3-0f6e-8baa02080d0b",4,2,4,"I prefer not to answer","Postgraduate Education","",3.33333333333333
+70,NA,NA,NA,NA,NA,NA,NA,2,"61ab9aa6-5b38-c50a-2324-ad80bfe44f4b",NA,NA,NA,"White","University/Higher Education","$80,000 - $99,999",NA
+33,1,1,1,1,2,3,2,2,"61b3bbbc-4680-9fc0-773e-8c986f548e56",1,2,1,"White","University/Higher Education","",1.33333333333333
+18,NA,NA,NA,NA,5,4,4,1,"61cdb7be-0f80-5d58-123c-80e6d589f256",4,3,3,"White","Prefer not to say","$200,000 or more",3.33333333333333
+40,NA,NA,NA,NA,1,1,2,2,"61fe30ee-2196-1f1f-496c-07d578bd7509",0,0,1,"White","Postgraduate Education","$200,000 or more",0.333333333333333
+45,1,2,1,1,2,2,2,2,"62118dc4-f041-a61a-cb46-ba3a1016172c",1,1,1,"Black or African American","University/Higher Education","$25,000 - $49,999",1
+67,1,3,3,3,1,1,2,1,"6274edd4-9dca-bdd3-fc56-da5fe91a8933",0,0,1,"Hispanic or Latino","High School/Tertiary/Tech. College","$50,000 - $79,999",0.333333333333333
+62,1,1,2,2,5,5,5,2,"629e3385-e949-22ac-4607-04b54360296d",4,4,4,"White","Postgraduate Education","",4
+69,7,3,2,2,3,3,3,2,"62afb30f-3a59-13ad-6b8d-8484ce80b3e2",2,2,2,"White","University/Higher Education","$15,000 - $24,999",2
+51,16,2,1,1,5,5,5,2,"62dc3d61-49c1-6116-54e3-0af7f1991c90",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+77,16,3,7,3,3,3,3,2,"62e8c289-f389-c535-300b-f5c3acfd7b5c",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+47,NA,NA,NA,NA,3,3,3,1,"631f6707-5610-c706-db85-50346ed3b7cd",2,2,2,"White","University/Higher Education","",2
+58,NA,NA,NA,NA,NA,NA,NA,2,"6335fe29-6792-44bc-efab-c91e86359ec3",NA,NA,NA,"White","High School/Tertiary/Tech. College","$0 - $14,999",NA
+33,1,6,1,1,5,5,5,1,"634acf22-988e-3a36-8ea0-f86115b89ce2",4,4,4,"Hispanic or Latino","High School/Tertiary/Tech. College","",4
+62,NA,NA,NA,NA,1,1,1,2,"6383635a-b58a-dc39-47d8-54a88c2b72b7",0,0,0,"White","Primary School","$15,000 - $24,999",0
+61,1,1,3,4,3,4,4,2,"6389cfac-8bfa-e722-502e-f8a29f317041",2,3,3,"White","University/Higher Education","$25,000 - $49,999",2.66666666666667
+83,16,1,1,2,2,3,3,2,"640a82cf-f11d-6f3a-d34d-b52161123b22",1,2,2,"White","University/Higher Education","$50,000 - $79,999",1.66666666666667
+64,13,1,1,1,3,3,3,1,"6464845e-cd48-df3d-ecdc-b34f8b0f58b7",2,2,2,"White","University/Higher Education","$15,000 - $24,999",2
+23,NA,NA,NA,NA,NA,NA,NA,1,"64b250c7-768e-7140-7645-679967df9129",NA,NA,NA,"White","University/Higher Education","",NA
+31,16,1,1,2,5,5,5,2,"64ec2f64-9249-ccd7-29e6-18c7bba95483",4,4,4,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",4
+68,16,4,1,1,4,2,2,1,"651108f4-ab23-964c-9f76-3f3aafbe361f",3,1,1,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1.66666666666667
+53,7,2,5,6,2,2,3,2,"6522340d-6738-1c39-fb8f-030925ed82e2",1,1,2,"White","University/Higher Education","",1.33333333333333
+30,NA,NA,NA,NA,1,3,5,2,"655b5401-866f-ca9a-d583-6370d2f2d5e6",0,2,4,"Black or African American","High School/Tertiary/Tech. College","",2
+25,NA,NA,NA,NA,3,4,1,1,"65632e4c-162f-0b44-a7ce-1948dfc8de8b",2,3,0,"Asian","Postgraduate Education","",1.66666666666667
+58,16,2,1,1,4,5,4,1,"65ed21e0-674a-5533-3362-16c65a2e8d09",3,4,3,"White","University/Higher Education","$25,000 - $49,999",3.33333333333333
+64,1,3,1,1,1,1,1,1,"666df169-2e02-a145-b5eb-c6463869d78e",0,0,0,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",0
+64,16,3,4,5,3,3,3,1,"669d90e0-cbaa-5de4-4162-a7b6e2c73708",2,2,2,"White","Secondary School","$25,000 - $49,999",2
+41,16,1,1,2,4,4,4,2,"66cf2a86-a4cc-3e27-0b04-1de4cbd9416a",3,3,3,"White","High School/Tertiary/Tech. College","",3
+18,1,2,1,1,5,5,5,1,"66d0114f-9e6a-2e13-14cd-26fb88577abe",4,4,4,"White","Secondary School","",4
+42,16,6,7,1,3,3,4,1,"66e7e1b9-4efe-cef6-233b-d6ccb533ae57",2,2,3,"White","University/Higher Education","",2.33333333333333
+50,11,1,4,4,3,3,3,2,"673aae6a-049b-36fa-e0e8-99119d00c587",2,2,2,"Asian","University/Higher Education","$0 - $14,999",2
+42,7,3,1,1,5,5,5,1,"67512bbb-bf82-6fbd-d939-1c7a6d7aaf5c",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+32,20,3,4,4,2,3,4,1,"67c9ff96-8b3e-cabd-0d14-c8e240496c7c",1,2,3,"American Indian or Alaska Native","University/Higher Education","",2
+34,4,2,1,1,5,5,5,2,"6879af31-09ad-b592-a1b3-985287bacdd6",4,4,4,"White","Postgraduate Education","$80,000 - $99,999",4
+53,14,2,1,1,4,4,4,2,"69371f97-7969-e576-e815-281c009f957f",3,3,3,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",3
+22,14,3,4,1,2,5,3,1,"69505b97-b888-c5ff-de15-6c7b991aa17f",1,4,2,"Asian","High School/Tertiary/Tech. College","",2.33333333333333
+59,1,3,7,7,2,2,2,2,"69749e22-b058-ad75-aca0-a95f4a2853c9",1,1,1,"Asian","University/Higher Education;University/Higher Education","$150,000 - $199,999",1
+55,7,2,2,2,4,3,4,1,"69825f28-3b7c-c6b6-46aa-68a981eefadd",3,2,3,"White","University/Higher Education","$0 - $14,999",2.66666666666667
+27,4,1,3,4,2,3,3,1,"69c518e6-fa5b-26d7-0164-2fee30293e16",1,2,2,"White","High School/Tertiary/Tech. College","",1.66666666666667
+42,7,4,3,1,4,5,4,2,"69dfb588-9482-66d1-000a-82f49cd37f6f",3,4,3,"White","University/Higher Education","$50,000 - $79,999",3.33333333333333
+30,1,2,2,2,2,3,3,1,"6a1a5b8b-a9fc-a104-de09-6c31d1856c61",1,2,2,"White","University/Higher Education","",1.66666666666667
+61,16,2,2,2,5,5,5,2,"6a3977ba-f979-24a7-b138-401203b6ad51",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+22,1,1,1,1,3,3,4,1,"6a4c00d8-db6d-9f97-c25a-3767b1f4881b",2,2,3,"Black or African American","University/Higher Education","",2.33333333333333
+25,NA,NA,NA,NA,NA,NA,NA,1,"6a5cd7ca-accf-498a-d248-e077a6ada627",NA,NA,NA,"Asian","University/Higher Education","$50,000 - $79,999",NA
+41,13,3,5,4,3,4,4,2,"6a966ee0-a80a-fae6-1862-59bd189a350e",2,3,3,"Asian","Postgraduate Education","",2.66666666666667
+76,16,1,1,1,5,5,5,2,"6adfbd7c-465a-0e7f-07fe-8af4e5ebc391",4,4,4,"White","University/Higher Education","$150,000 - $199,999",4
+78,16,4,3,3,5,5,5,2,"6af8ec8f-f259-e10f-200d-dbd3e0771965",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+21,1,1,1,1,4,4,4,2,"6be6c685-0f4b-c220-e104-f1cdbebcac6e",3,3,3,"White","University/Higher Education","",3
+38,1,1,7,7,1,2,2,1,"6bf16565-8db6-4ff6-29e7-52da94f74e8d",0,1,1,"White","None completed","$0 - $14,999",0.666666666666667
+65,16,1,1,1,3,3,3,1,"6c05679f-7135-a9f7-c11d-502e9617b978",2,2,2,"White","University/Higher Education","",2
+46,16,5,1,1,5,5,5,1,"6c590411-c79a-b1bf-9d93-3372dcdc40fa",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+56,16,1,1,1,4,5,5,1,"6cb31160-588e-5fae-6be2-26985e23b092",3,4,4,"White","University/Higher Education","",3.66666666666667
+26,9,2,3,2,1,1,1,2,"6cd6ec51-3b2d-d603-12d3-dbfdb05be2b9",0,0,0,"I prefer not to answer","High School/Tertiary/Tech. College","",0
+20,NA,NA,NA,NA,3,2,1,2,"6cd7295c-03d9-3362-0fde-1efc26ce00b1",2,1,0,"I prefer not to answer","High School/Tertiary/Tech. College","",1
+22,1,2,2,2,5,5,5,2,"6d52361e-177d-3214-8a9c-0179750af3f9",4,4,4,"White","University/Higher Education","$15,000 - $24,999",4
+77,1,4,7,7,1,1,1,2,"6dd6c586-b087-8d09-0804-f2fdd6c6526b",0,0,0,"White","University/Higher Education","$50,000 - $79,999",0
+36,16,1,1,1,4,4,4,1,"6e6ef4c6-2cad-8d07-b944-c345232ed921",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+75,16,4,2,5,2,2,2,1,"6ed6e38d-2e40-8cb2-0d0f-d4fd25adeb60",1,1,1,"White","University/Higher Education","",1
+73,NA,NA,NA,NA,3,3,3,1,"6f6170d1-42f1-6854-b953-474a7ae5bb2c",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+70,1,5,1,1,2,2,2,1,"6f76b5d4-a5c8-2c3c-f856-825d1553ee39",1,1,1,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1
+52,16,3,4,5,3,3,3,1,"6f7d793d-1fb6-2e06-f5bf-4e5618f234d1",2,2,2,"White","University/Higher Education","$25,000 - $49,999",2
+26,1,3,1,3,1,1,2,1,"6f84b349-585e-41be-40cb-84af74b35fbc",0,0,1,"Black or African American","High School/Tertiary/Tech. College","",0.333333333333333
+24,16,2,2,2,4,4,4,2,"6fe640e2-01ee-08e5-3a60-77cde426fd12",3,3,3,"White","University/Higher Education","$80,000 - $99,999",3
+35,7,1,1,1,4,4,3,2,"700af544-71d4-c911-d2c6-c221a9e4b9a3",3,3,2,"White","University/Higher Education","",2.66666666666667
+24,11,3,2,1,2,2,4,2,"70202410-a037-18c5-e492-130b01c840f8",1,1,3,"White","High School/Tertiary/Tech. College","",1.66666666666667
+82,1,6,3,3,1,1,1,2,"7030655d-6e33-2c64-e9df-521b35996db7",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+59,7,1,2,1,5,5,5,2,"705047be-169a-5f3c-953c-707bfe81f056",4,4,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+41,7,2,1,1,5,3,3,1,"70815d8c-5cbd-a288-450e-6aaa784e456b",4,2,2,"Hispanic or Latino","High School/Tertiary/Tech. College","",2.66666666666667
+21,17,2,2,2,3,3,4,2,"70f6691f-84b5-4fd2-329d-5edd0de643f8",2,2,3,"American Indian or Alaska Native","High School/Tertiary/Tech. College","",2.33333333333333
+84,NA,NA,NA,NA,3,3,3,2,"70fa7d1d-f604-5d47-269f-4ad1945816f5",2,2,2,"White","University/Higher Education","$25,000 - $49,999",2
+36,16,2,1,2,3,3,2,1,"7107434a-313a-d4f5-c3c8-742cba92f6a2",2,2,1,"Hispanic or Latino","High School/Tertiary/Tech. College","$50,000 - $79,999",1.66666666666667
+24,NA,NA,NA,NA,5,5,5,2,"7191226b-b326-88a1-4ee9-15ba27414e82",4,4,4,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+40,16,2,1,1,4,4,4,2,"7194cb85-7afd-3223-9104-fcbfdb87dd6f",3,3,3,"White","University/Higher Education","$80,000 - $99,999",3
+34,16,2,1,2,4,3,5,1,"71d06a86-bb27-a53f-0f04-5dfbc0ef5761",3,2,4,"White","University/Higher Education","$25,000 - $49,999",3
+18,NA,NA,NA,NA,NA,NA,NA,2,"729df67a-5fb7-c6c7-59f8-c1b6bbdcbb95",NA,NA,NA,"White","University/Higher Education","",NA
+41,1,1,1,1,5,4,5,2,"72aa3d82-2a5c-f812-ac03-0a81ee9a0b65",4,3,4,"White","University/Higher Education","$200,000 or more",3.66666666666667
+38,1,7,1,1,5,4,4,1,"72eed7ca-f2b6-da87-3648-e0c5abb97622",4,3,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",3.33333333333333
+66,NA,NA,NA,NA,NA,NA,NA,1,"7324d445-4ec7-40ea-aac7-e30f50505385",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+41,16,3,4,2,4,4,4,1,"73454f29-9983-7136-81ab-786e18f89ec1",3,3,3,"White","University/Higher Education","",3
+40,4,4,1,1,4,5,4,2,"736867b0-d15b-49cd-df32-50437e91425b",3,4,3,"White","University/Higher Education","$150,000 - $199,999",3.33333333333333
+70,1,6,2,3,4,4,4,1,"73817b5b-cda5-7ebc-0bd9-4caa60d398b3",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+36,16,2,2,2,5,5,5,2,"73fc62f7-16b5-5223-3875-55d74bc5f11f",4,4,4,"White","University/Higher Education","",4
+42,6,2,1,4,4,4,4,2,"746381a1-1cdd-bedb-7920-b64840a69a4a",3,3,3,"Black or African American","Postgraduate Education","$50,000 - $79,999",3
+34,21,1,3,3,4,4,4,2,"74a1db72-3102-01c3-f1f3-ec8aad274298",3,3,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",3
+32,16,1,1,1,3,4,5,1,"74c3e2f1-8dbd-7d98-4d73-d5e8d120d01a",2,3,4,"Other","University/Higher Education","$15,000 - $24,999",3
+57,1,2,2,2,3,4,4,1,"75296ee0-910e-65f3-f162-5902ea09550b",2,3,3,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",2.66666666666667
+18,2,5,4,2,1,4,3,1,"754ede25-8f74-ef57-8aa7-e9654b5e6ecf",0,3,2,"White","High School/Tertiary/Tech. College","",1.66666666666667
+55,1,1,1,1,5,5,5,2,"755fcd35-72ee-2fd2-9bb7-fa74d6f7aadd",4,4,4,"White","University/Higher Education","",4
+33,3,1,1,1,2,2,2,1,"757d0df0-2bc1-130f-b872-3a5666db2d18",1,1,1,"Hispanic or Latino","High School/Tertiary/Tech. College","$0 - $14,999",1
+39,NA,NA,NA,NA,2,2,2,2,"75a8cc78-eda0-1d09-6cfa-fb83e86d0496",1,1,1,"I prefer not to answer","High School/Tertiary/Tech. College","Prefer not to say",1
+39,16,4,1,2,4,5,5,2,"76435c9a-168d-c3f1-cd18-6b68611c4572",3,4,4,"White","University/Higher Education","$150,000 - $199,999",3.66666666666667
+70,21,4,2,2,2,2,2,2,"76652241-01b5-153b-bcc3-154e8640e2a9",1,1,1,"White","High School/Tertiary/Tech. College","",1
+36,16,2,1,1,4,4,4,1,"76993787-c9c7-2ad8-4105-00b29dd6326f",3,3,3,"Black or African American","High School/Tertiary/Tech. College","",3
+55,21,2,1,1,4,4,4,1,"769fa572-87e3-841e-5bf0-92b4d6820787",3,3,3,"Black or African American","University/Higher Education","",3
+45,11,1,2,2,3,4,4,2,"76e9e3c3-e237-397e-2d41-d4c247e1072a",2,3,3,"Black or African American","University/Higher Education","",2.66666666666667
+39,1,1,2,2,1,5,5,1,"77077f18-653a-568a-db9a-482ccf5099ff",0,4,4,"White","University/Higher Education","$150,000 - $199,999",2.66666666666667
+72,16,1,4,5,4,4,4,2,"778ebaf6-9ee1-cdf8-5074-8da50f64641b",3,3,3,"White","University/Higher Education","$80,000 - $99,999",3
+21,NA,NA,NA,NA,5,1,1,2,"7792f6b7-f9eb-6f49-5635-c1b9fd711c50",4,0,0,"American Indian or Alaska Native","University/Higher Education","",1.33333333333333
+45,3,2,2,4,4,3,4,2,"77c00f62-5cad-3cf9-10e0-38eb6085d78e",3,2,3,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",2.66666666666667
+56,16,1,1,1,5,5,5,1,"77ef87e8-12dd-dd51-676a-b0c4b67a0605",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+51,1,3,1,1,3,3,2,1,"780fabb8-7194-3ce4-cb3a-9c245031b65f",2,2,1,"White","High School/Tertiary/Tech. College","",1.66666666666667
+52,1,1,1,1,1,1,1,1,"7819c413-12e0-2566-dd91-f3327d82f6ff",0,0,0,"White","High School/Tertiary/Tech. College","",0
+28,11,1,1,2,5,5,5,1,"784d2ba5-5789-164e-8927-1c66cfb7d042",4,4,4,"White","University/Higher Education","",4
+47,NA,NA,NA,NA,5,5,5,2,"785277b4-20ff-2e19-8a36-4079a93dd874",4,4,4,"White","High School/Tertiary/Tech. College","",4
+59,1,5,3,3,4,4,4,1,"78644660-4e57-32e1-bae2-714f75e0a491",3,3,3,"White","University/Higher Education","$15,000 - $24,999",3
+57,1,1,1,2,3,3,3,1,"78a1f49c-bd95-085a-651e-c38a32653a7b",2,2,2,"Hispanic or Latino","University/Higher Education","",2
+48,16,3,1,1,3,5,5,2,"78bdb015-bec9-4706-6297-879647c145f8",2,4,4,"White","University/Higher Education","$50,000 - $79,999",3.33333333333333
+70,13,2,1,2,5,5,5,2,"78e186b0-7191-69e6-2532-b1ca5a9cf158",4,4,4,"American Indian or Alaska Native","Postgraduate Education","",4
+21,4,3,2,2,4,3,4,2,"793435c2-6994-6927-bc40-021f0c443d2a",3,2,3,"Black or African American","High School/Tertiary/Tech. College","$80,000 - $99,999",2.66666666666667
+48,16,2,1,1,3,3,3,1,"79430e1a-b3c7-1303-8798-396850d974de",2,2,2,"White","University/Higher Education","",2
+30,10,2,3,3,3,4,3,1,"794c7ef1-e8ae-81df-4a70-4967239dc10d",2,3,2,"American Indian or Alaska Native","University/Higher Education","$80,000 - $99,999",2.33333333333333
+55,1,5,1,1,5,5,5,2,"796d9d23-7218-b47c-a8a1-aa4652f2f7ca",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+34,4,1,1,2,4,4,4,1,"796f42f8-d6eb-7c02-ab7a-75446dc91707",3,3,3,"White","University/Higher Education","",3
+50,11,2,1,2,2,2,2,1,"7982ac7b-9961-9ee3-46f9-9ba9910c1c93",1,1,1,"White","High School/Tertiary/Tech. College","",1
+38,16,2,1,2,4,5,5,2,"79d116df-3934-4257-595d-21fa79e02d36",3,4,4,"White","University/Higher Education","$100,000 - $149,999",3.66666666666667
+70,NA,NA,NA,NA,2,2,2,2,"79e691c9-d8bf-6af2-224b-a6cdced81c24",1,1,1,"White","High School/Tertiary/Tech. College;High School/Tertiary/Tech. College","$50,000 - $79,999",1
+45,8,1,1,1,5,5,5,2,"7a46d3a1-997f-551a-5c20-e46dbdcc5e4a",4,4,4,"White","University/Higher Education","",4
+75,21,1,3,3,2,1,1,2,"7a4b74ca-da19-b648-4d4b-436074e71910",1,0,0,"White","University/Higher Education","$100,000 - $149,999",0.333333333333333
+48,1,1,1,1,5,5,5,1,"7a6e2e05-78a9-7bfc-e487-1945fb7f2ef0",4,4,4,"Asian","Postgraduate Education","$25,000 - $49,999",4
+40,7,3,3,1,4,4,4,2,"7ac8a74e-ad16-8d8e-10cc-90e336d349a6",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+43,NA,NA,NA,NA,3,2,3,2,"7ace95cd-3d95-8ad4-0b4f-a2e5eb86f827",2,1,2,"Black or African American","University/Higher Education","",1.66666666666667
+56,11,1,1,2,3,4,4,2,"7b7039d6-74ea-d087-a954-0e5b86e9963f",2,3,3,"White","High School/Tertiary/Tech. College","Prefer not to say",2.66666666666667
+33,NA,NA,NA,NA,3,3,3,1,"7b7ade86-9f1b-ecee-a204-e95189757a41",2,2,2,"Native Hawaiian or Pacific Islander","University/Higher Education","$25,000 - $49,999",2
+45,16,2,1,1,4,4,2,2,"7bfcf049-a1d6-f98b-38cb-c7d735dcb9a1",3,3,1,"White","High School/Tertiary/Tech. College","",2.33333333333333
+86,4,2,1,1,3,3,3,2,"7c04229d-91aa-0d5f-c01f-152f30791975",2,2,2,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+18,10,3,4,4,3,4,5,1,"7c0cbf76-96c6-2103-82f4-8827f964cb98",2,3,4,"White","University/Higher Education","",3
+40,NA,NA,NA,NA,3,2,3,1,"7c2bf4e7-df37-ae96-a365-c300fd61cc34",2,1,2,"White","University/Higher Education","",1.66666666666667
+61,1,2,1,3,5,5,5,1,"7c3283a2-9ab5-aa0c-eb20-b4198e7f7150",4,4,4,"White","University/Higher Education","",4
+54,12,1,1,1,5,5,5,2,"7c47fe89-a469-153a-9e0b-c96cc3615e61",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+49,1,3,1,1,5,5,5,1,"7c704629-9e2a-8a9a-b4ab-715b83e379c5",4,4,4,"Asian","Postgraduate Education","$200,000 or more",4
+68,16,6,2,2,4,4,4,1,"7c8a71b4-b019-59ec-4e36-46a1584d7468",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+30,20,5,6,5,4,5,3,1,"7c8e8a7c-b5aa-bebd-4afe-bda531837197",3,4,2,"Black or African American","Secondary School","",3
+36,16,1,1,1,1,2,3,1,"7cc0aa69-0aba-fad8-48eb-9deb8117528e",0,1,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1
+21,14,1,1,1,1,1,2,2,"7cffb025-88ef-0653-23a7-87d47c2a75e2",0,0,1,"Black or African American","High School/Tertiary/Tech. College","",0.333333333333333
+43,16,1,1,2,4,4,5,1,"7d3ea828-c244-3383-b0aa-9f159ac0d3c0",3,3,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",3.33333333333333
+67,16,2,3,4,4,4,4,1,"7d7815e6-ddfb-67ab-a164-2253a0953f0a",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+23,NA,NA,NA,NA,3,3,3,2,"7d94ec3c-6b70-e277-50be-dbbfba9aafcc",2,2,2,"Asian","High School/Tertiary/Tech. College","",2
+70,11,3,1,2,3,3,3,1,"7d9dca57-40e1-f4e2-59d5-fdb6b8dc58bb",2,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+50,NA,NA,NA,NA,5,5,5,2,"7dd29816-7716-4646-0d94-aff99f4c97ff",4,4,4,"American Indian or Alaska Native","University/Higher Education","$80,000 - $99,999",4
+74,11,2,2,2,4,4,4,2,"7deed494-1054-d131-6416-e3c5ac520179",3,3,3,"White","University/Higher Education","$15,000 - $24,999",3
+59,4,3,1,1,5,5,5,2,"7e06c6d4-b791-a8ef-df56-f12d391b723d",4,4,4,"White","University/Higher Education","",4
+41,4,3,1,6,3,1,1,1,"7e1329a4-76fc-70f3-cb26-1e385da79376",2,0,0,"White","High School/Tertiary/Tech. College","",0.666666666666667
+25,1,4,1,1,2,3,3,1,"7e59e83a-5dc0-45f2-9db8-df723a6ebad7",1,2,2,"White","High School/Tertiary/Tech. College","$80,000 - $99,999",1.66666666666667
+53,NA,NA,NA,NA,NA,NA,NA,2,"7e9c4f12-1930-f19d-5890-78b7cd8df0f8",NA,NA,NA,"White","High School/Tertiary/Tech. College","",NA
+67,21,2,4,3,1,2,4,2,"7ecc9f3f-af92-c835-44bd-a8e77a5287d3",0,1,3,"White","University/Higher Education","$25,000 - $49,999",1.33333333333333
+61,1,3,2,2,3,3,3,2,"7ee38628-135c-7019-27aa-b1c80757d4c0",2,2,2,"White","University/Higher Education","$50,000 - $79,999",2
+25,4,2,6,4,2,1,5,1,"7f33e444-51a0-cd20-f7c6-d31889c5b5bb",1,0,4,"White","Postgraduate Education","",1.66666666666667
+43,7,2,1,1,1,1,1,1,"7f548057-4cab-ba03-90d5-b77f9f8dccbc",0,0,0,"White","University/Higher Education","",0
+40,21,1,1,3,4,4,4,2,"7f62a84f-f867-1ddd-a6cd-9f4961817fa6",3,3,3,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",3
+60,1,2,4,4,1,1,1,1,"8019d1f6-71f1-ce6d-c374-e63217e1971f",0,0,0,"White","University/Higher Education;University/Higher Education","$80,000 - $99,999",0
+68,1,1,1,1,4,4,4,1,"8055b2cf-498f-277e-db4d-857e59291827",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+55,NA,NA,NA,NA,5,5,5,2,"80d9cc5e-17c3-9b14-51dc-fbf2560647b6",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+22,1,4,NA,NA,5,5,5,2,"80e8ba25-e277-e8d6-60a7-8dc39f39b9cd",4,4,4,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+50,1,1,1,1,4,4,4,1,"81084c47-b5dc-713b-d2c5-7b238d2d73af",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+77,NA,NA,NA,NA,NA,NA,NA,2,"8157f2b4-500f-d397-8b36-c57c2e5cad59",NA,NA,NA,"Black or African American","High School/Tertiary/Tech. College","$50,000 - $79,999",NA
+36,1,6,3,3,5,5,5,2,"81883e88-7080-392d-020a-09a350b46561",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+60,4,3,1,2,5,5,5,2,"819b64b6-83f6-76d7-4334-53b06818075c",4,4,4,"Hispanic or Latino","University/Higher Education","$25,000 - $49,999",4
+59,NA,NA,NA,NA,3,3,3,2,"81b0aa54-e400-826a-68d6-9d9bf1d0e0b9",2,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+38,18,1,1,3,4,1,5,1,"81be39b2-b64f-dbcc-7a30-0e950d51565e",3,0,4,"White","Secondary School","",2.33333333333333
+74,1,2,2,3,5,5,5,2,"823749fb-3143-5ad9-f379-7e1cae4bd516",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+42,3,3,6,6,4,4,4,1,"826e4e72-0c16-db12-aaf0-79456effeb85",3,3,3,"White","University/Higher Education","",3
+63,4,1,1,1,1,1,1,2,"826e6ed8-0b54-4761-b75a-59454b86ee3f",0,0,0,"Black or African American","University/Higher Education","$15,000 - $24,999",0
+54,7,1,3,4,2,3,3,1,"82990274-9548-7625-47f6-35b25bec7793",1,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1.66666666666667
+31,16,1,2,3,3,4,4,2,"829ed9ae-c523-1034-5a2c-eeb5a4d1c058",2,3,3,"White","University/Higher Education","",2.66666666666667
+67,16,2,2,3,1,3,2,1,"829fe604-5fcc-e2b4-4786-d1b45af9bbe9",0,2,1,"White","Primary School","$15,000 - $24,999",1
+25,16,2,2,2,4,4,3,1,"832ebdf4-ae60-54f7-ea76-8a058c6a491c",3,3,2,"White","University/Higher Education","$100,000 - $149,999",2.66666666666667
+19,1,1,1,1,1,1,1,1,"83397093-4835-53ec-e111-471208688c74",0,0,0,"White","High School/Tertiary/Tech. College","",0
+45,1,3,2,2,3,3,4,1,"835ca7b6-417e-d0c1-8234-907778f7c35e",2,2,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.33333333333333
+19,13,3,1,1,5,5,5,1,"83ba3497-63e5-31b8-6215-0391e0836679",4,4,4,"White","High School/Tertiary/Tech. College","",4
+25,1,4,1,1,5,5,5,1,"84058bc1-97e7-14a1-8b43-bc2eae7fda29",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+70,NA,NA,NA,NA,4,3,3,2,"840b495a-0496-d616-85d8-7e20580b57b6",3,2,2,"White","University/Higher Education","$0 - $14,999",2.33333333333333
+61,1,3,3,2,1,1,1,1,"84343168-dcf3-0cb3-eeea-061fe38e3980",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+52,11,1,1,1,3,3,3,1,"843ec82d-3e52-f078-e6af-ff156592dac0",2,2,2,"White","University/Higher Education","$25,000 - $49,999",2
+71,11,4,3,3,5,5,5,2,"846ad47b-e067-8501-e2f9-e341848cb893",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+30,NA,NA,NA,NA,3,3,3,1,"84af1bf5-6ff8-4d76-2777-2c840bad4418",2,2,2,"Asian","High School/Tertiary/Tech. College","$0 - $14,999",2
+21,NA,NA,NA,NA,1,1,3,2,"8500037d-6119-18ac-c4ff-342bd8fe819a",0,0,2,"Black or African American","University/Higher Education","$15,000 - $24,999",0.666666666666667
+68,1,3,2,3,4,4,4,1,"851621c8-987b-d082-d24a-163db1717c25",3,3,3,"White","High School/Tertiary/Tech. College","$80,000 - $99,999",3
+65,16,1,2,2,4,4,4,2,"85715542-b928-0666-f9c0-625ae345eda9",3,3,3,"White","University/Higher Education","$80,000 - $99,999",3
+19,4,1,4,6,3,4,4,1,"85920637-efb4-2a89-56b5-31b94f7937d0",2,3,3,"I prefer not to answer","High School/Tertiary/Tech. College","",2.66666666666667
+34,14,2,1,2,5,5,5,1,"8597b9ba-072c-d41d-903b-8ebcaea2c657",4,4,4,"Hispanic or Latino","High School/Tertiary/Tech. College","$50,000 - $79,999",4
+30,1,3,1,1,5,5,5,1,"85a45bd7-8570-0bed-2c55-6c8ff3bb113e",4,4,4,"Hispanic or Latino","University/Higher Education","$50,000 - $79,999",4
+50,16,1,2,2,4,4,4,2,"860f5a69-1d23-8bae-cbeb-6d24cdc89a81",3,3,3,"White","University/Higher Education","",3
+67,NA,NA,NA,NA,NA,NA,NA,1,"862c0a02-4fc2-0fc7-f480-3d07cfbbb6e5",NA,NA,NA,"Black or African American","University/Higher Education","$50,000 - $79,999",NA
+26,1,3,2,2,4,4,2,1,"863f000a-8d34-5cdf-b788-3714bfec05e3",3,3,1,"White","University/Higher Education","$100,000 - $149,999",2.33333333333333
+61,16,4,3,3,5,5,5,1,"86890bb0-6601-57ac-0132-3ca22add765d",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+61,11,1,1,1,5,5,5,2,"86937982-63c1-e08a-1d00-4eb802646a6f",4,4,4,"White","University/Higher Education","$15,000 - $24,999",4
+53,11,6,3,1,2,2,2,2,"869586b9-c42d-f96d-4b3b-b1bee0d13e50",1,1,1,"Hispanic or Latino","High School/Tertiary/Tech. College","$50,000 - $79,999",1
+38,16,5,2,4,2,3,3,2,"869bf901-ef2e-cd14-5f83-ceb0f35a28c6",1,2,2,"White","University/Higher Education","",1.66666666666667
+53,16,3,1,1,3,2,2,1,"86acd6f2-39cc-fc6e-7470-e187161bbd20",2,1,1,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",1.33333333333333
+33,16,2,1,1,3,3,3,2,"86bbb892-fa48-e181-3310-8f90191daf40",2,2,2,"Asian","University/Higher Education","",2
+81,NA,NA,NA,NA,NA,NA,NA,2,"872af1e8-d1bd-51b5-ee6a-c6016a611400",NA,NA,NA,"White","Secondary School","",NA
+52,NA,NA,NA,NA,2,3,3,2,"876fa5b7-6d89-00a7-b035-92441bd89050",1,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",1.66666666666667
+19,1,1,4,5,5,5,5,1,"878627a2-3311-1054-4220-10ad9f25fb4a",4,4,4,"White","High School/Tertiary/Tech. College","",4
+24,1,3,1,1,5,5,5,1,"87de0235-941c-0733-54b7-35f505e9c2de",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+19,NA,NA,NA,NA,NA,NA,NA,2,"87edc14c-f35b-1447-29ce-f6c6f07e74ab",NA,NA,NA,"American Indian or Alaska Native","High School/Tertiary/Tech. College","",NA
+49,1,1,1,1,2,2,2,2,"8843736f-8c1a-e8f4-cded-44683f9edf88",1,1,1,"White","University/Higher Education","$150,000 - $199,999",1
+34,4,1,1,1,4,4,4,1,"8879f12a-a296-69cd-a2a8-c652eb0eaac2",3,3,3,"Black or African American","High School/Tertiary/Tech. College","",3
+62,NA,NA,NA,NA,NA,NA,NA,2,"8883281c-398e-703d-0b9e-1fa8e556a1f4",NA,NA,NA,"Hispanic or Latino","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+52,21,1,1,1,3,3,3,1,"889499c8-2c45-bfa3-504a-aebfaf16eb20",2,2,2,"White","University/Higher Education","",2
+52,9,1,1,1,1,5,5,2,"88cff5a1-8367-c3bf-1523-c2e420ad6549",0,4,4,"White","University/Higher Education","",2.66666666666667
+19,NA,NA,NA,NA,1,1,1,1,"88fe6b88-0288-3e3e-760a-5cd55ade1161",0,0,0,"White","University/Higher Education","$50,000 - $79,999",0
+54,1,2,3,3,3,3,3,1,"890904f3-c152-9753-cd71-332239c22606",2,2,2,"White","University/Higher Education","",2
+71,NA,NA,NA,NA,NA,NA,NA,2,"891a2efb-f386-b0b2-9479-19315004e82e",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+28,NA,NA,NA,NA,NA,NA,NA,1,"891d06f1-05c4-9f4c-9373-313640565c24",NA,NA,NA,"White","High School/Tertiary/Tech. College","",NA
+56,21,3,3,1,1,2,1,1,"893397e9-edbf-0921-bd6b-a018cd3cb00e",0,1,0,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",0.333333333333333
+72,11,3,4,4,2,2,2,2,"896e8ea0-807f-8a18-e422-b9454358914d",1,1,1,"White","University/Higher Education","$80,000 - $99,999",1
+19,16,1,1,1,5,5,5,2,"897ab929-e55c-8bb5-beab-8e51a17260c1",4,4,4,"Black or African American","High School/Tertiary/Tech. College","",4
+66,7,2,1,1,3,3,3,1,"89929e12-6aca-7df7-5690-a9b9bcd5aafb",2,2,2,"Black or African American","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+42,1,5,1,2,4,4,4,1,"89c6ef31-836a-f309-02b3-d8edcd726ac5",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+20,1,2,1,1,3,4,3,1,"89f24143-8b64-4a2f-2ac1-76d995614fa4",2,3,2,"White","University/Higher Education","$200,000 or more",2.33333333333333
+28,NA,NA,NA,NA,4,3,5,2,"8a13b9b5-0a42-b3c9-9937-8e3804745d5f",3,2,4,"Asian","University/Higher Education","$25,000 - $49,999",3
+44,16,2,1,1,5,5,5,1,"8a5a749a-5e97-ce67-9e18-43718326b972",4,4,4,"Native Hawaiian or Pacific Islander","High School/Tertiary/Tech. College","",4
+48,NA,NA,NA,NA,NA,NA,NA,1,"8ac2b860-2b22-23e5-4ce2-8fe93f42308d",NA,NA,NA,"White","University/Higher Education","$80,000 - $99,999",NA
+46,7,1,1,1,5,4,4,1,"8b4a37d8-bb8b-663e-c25a-00612f69af35",4,3,3,"White","University/Higher Education","$0 - $14,999",3.33333333333333
+42,22,1,1,1,3,3,3,1,"8b83fb36-c2b4-07a0-47b4-cca8938822d1",2,2,2,"White","High School/Tertiary/Tech. College","",2
+71,16,1,6,4,3,3,3,1,"8c2df6f4-1508-a787-a576-c10673698e19",2,2,2,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",2
+78,1,3,3,3,2,4,2,1,"8c42723c-0776-866c-9dbe-45695046e4d1",1,3,1,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1.66666666666667
+19,1,1,1,1,5,5,5,1,"8c4a0f57-0bbf-22fd-8ed5-38617471ebb0",4,4,4,"White","High School/Tertiary/Tech. College","",4
+20,NA,NA,NA,NA,NA,NA,NA,1,"8cb3ac02-c800-857c-7780-9b980ed50cd2",NA,NA,NA,"Black or African American","High School/Tertiary/Tech. College","",NA
+28,12,1,1,1,5,5,3,1,"8ccc269c-33e5-7615-441e-11e789ae2246",4,4,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",3.33333333333333
+37,16,2,2,2,1,1,1,1,"8ce96c14-0852-3fc2-6196-5bc2aebd1cf3",0,0,0,"Hispanic or Latino","University/Higher Education","$0 - $14,999",0
+63,NA,NA,NA,NA,2,2,1,1,"8cf9a5d4-7b35-f1cc-7156-92d2e89cd324",1,1,0,"White","University/Higher Education","$50,000 - $79,999",0.666666666666667
+47,NA,NA,NA,NA,NA,NA,NA,1,"8d0b30c1-162f-9754-cf43-0720747b8e29",NA,NA,NA,"Hispanic or Latino","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+56,1,2,1,1,1,1,1,1,"8d124639-41e3-7cf5-c8bb-7139cdd546d3",0,0,0,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",0
+30,16,2,1,1,4,4,4,1,"8d5103d4-f2a6-19c5-9456-347a90b31439",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+21,1,1,1,1,4,1,1,1,"8d547984-e245-e24b-da06-4e7fb6e16f6c",3,0,0,"White","None completed","$25,000 - $49,999",1
+45,16,2,1,1,3,3,3,1,"8dffc0af-22f6-2496-252d-f7d4c4f32443",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+66,2,6,2,4,1,1,1,1,"8e1906d7-6eca-e714-c655-3132c1d8923e",0,0,0,"White","University/Higher Education","$80,000 - $99,999",0
+50,1,3,2,2,4,5,4,1,"8e4814a1-eec0-fb85-8c23-2363d8c80949",3,4,3,"White","Postgraduate Education","",3.33333333333333
+48,16,1,1,3,4,4,4,2,"8e4e7b92-4a8e-ecf5-8a10-4c65251fad78",3,3,3,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",3
+52,16,1,1,3,3,3,3,1,"8e85c272-1691-3923-41f0-f5ae53a0929a",2,2,2,"White","University/Higher Education","",2
+23,16,2,2,3,1,2,1,1,"8e90c030-51ad-9c01-48b2-f7bb37f5b5d8",0,1,0,"","High School/Tertiary/Tech. College","",0.333333333333333
+65,1,6,2,3,4,4,4,2,"8ec7198f-0140-d09d-030d-2eecf272e566",3,3,3,"White","University/Higher Education","",3
+22,NA,NA,NA,NA,NA,NA,NA,2,"8ed581be-e1b9-9154-113c-b6fee8942954",NA,NA,NA,"White","University/Higher Education","",NA
+26,NA,NA,NA,NA,3,3,3,1,"8f03396c-88af-526b-daee-0e288c286185",2,2,2,"White","Postgraduate Education","",2
+26,NA,NA,NA,NA,3,2,5,2,"8f1b17d1-9dfd-1e7c-df53-203072cf7a3d",2,1,4,"Black or African American","Postgraduate Education","",2.33333333333333
+48,16,3,3,3,1,3,5,2,"8fb5b933-1737-68ab-71b1-8e9eab76f0db",0,2,4,"American Indian or Alaska Native","Secondary School","",2
+35,11,1,1,2,2,3,3,1,"8ffef879-de79-a9f6-76fb-cfd50cb34a9e",1,2,2,"Asian","University/Higher Education","$80,000 - $99,999",1.66666666666667
+37,16,4,2,3,4,4,4,1,"902ef33d-b7ab-ec8a-eabf-c4054bcb37d7",3,3,3,"White","Postgraduate Education","",3
+47,1,2,1,1,4,4,4,1,"903b44e9-46fa-6a33-fe6b-7310f4319f0e",3,3,3,"White","University/Higher Education;University/Higher Education","$25,000 - $49,999",3
+66,NA,NA,NA,NA,4,4,4,1,"9054d3fa-b97b-8062-dc78-e47f38b7ad17",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+27,16,3,1,5,3,3,3,1,"907d9012-5ed0-c079-f590-a756379cf6f5",2,2,2,"Hispanic or Latino","University/Higher Education","$25,000 - $49,999",2
+36,1,3,1,2,2,2,4,1,"908ec1b7-3245-96b4-0635-f6a51f96a65f",1,1,3,"White","University/Higher Education","$80,000 - $99,999",1.66666666666667
+30,4,3,5,3,2,4,5,1,"90ab22a4-868a-f31c-6f26-1580a4c05f4f",1,3,4,"White","University/Higher Education","$50,000 - $79,999",2.66666666666667
+33,NA,NA,NA,NA,3,3,3,1,"9102a28d-e7fd-e9b9-dc0f-9529e9550579",2,2,2,"White","High School/Tertiary/Tech. College","",2
+49,1,2,4,4,5,5,5,2,"91117c0a-1707-5797-c888-4b3a7c57f4e7",4,4,4,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",4
+61,7,1,1,1,4,4,4,2,"91309f38-8a4c-050f-eaba-a81bd2da43d5",3,3,3,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",3
+79,16,2,1,1,3,3,3,2,"91bd36e3-2318-1fb9-7961-01964731a70a",2,2,2,"I prefer not to answer","University/Higher Education","",2
+54,16,1,2,2,4,2,3,1,"91c651fd-9140-c680-027f-66ed9028952c",3,1,2,"White","University/Higher Education","",2
+76,NA,NA,NA,NA,1,1,1,1,"91fb3f57-e3b2-1190-3ed5-08d0da5864bf",0,0,0,"White","Postgraduate Education","$0 - $14,999",0
+33,1,1,1,2,3,3,3,1,"92254046-9e2f-a10b-e1c4-770e533c5ab6",2,2,2,"Black or African American","Secondary School","",2
+41,16,4,2,2,5,5,5,1,"9230da71-e508-7d96-eff3-ed1bf1d3e59a",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+42,1,1,2,2,5,4,5,2,"923546ec-339f-7721-ed6e-711ecfd5d00b",4,3,4,"White","University/Higher Education","$50,000 - $79,999",3.66666666666667
+72,4,1,3,7,3,3,5,1,"9248adde-a502-a3b2-8c5c-9a63820f7c07",2,2,4,"White","University/Higher Education","",2.66666666666667
+71,16,3,3,4,2,2,2,2,"92b14007-4851-2591-6885-779a8ad68dea",1,1,1,"White","University/Higher Education","$15,000 - $24,999",1
+24,7,3,7,5,4,3,1,2,"93425607-8695-b93f-8685-6169e7b861ef",3,2,0,"Black or African American","Postgraduate Education","",1.66666666666667
+38,1,4,5,3,5,5,4,2,"939888ce-c39d-9d17-5c4c-bfb3368bc725",4,4,3,"Black or African American","High School/Tertiary/Tech. College","",3.66666666666667
+41,10,1,2,1,5,5,4,2,"94200938-f868-59fc-a8ba-3e0bdc24acd0",4,4,3,"White","University/Higher Education","$100,000 - $149,999",3.66666666666667
+36,NA,NA,NA,NA,2,1,2,2,"942cd71d-46a7-9547-a49f-e00730d95ef4",1,0,1,"","University/Higher Education","",0.666666666666667
+59,NA,NA,NA,NA,NA,NA,NA,1,"9445d15b-2e37-94ee-9cd9-e66e5171c4b3",NA,NA,NA,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",NA
+66,11,1,2,3,3,3,3,1,"9462e722-3221-f631-a6a0-d0490b3035cf",2,2,2,"White","University/Higher Education","$50,000 - $79,999",2
+70,16,2,6,7,2,2,3,2,"95735b50-e097-0104-fbd2-6c58a3d1a9bb",1,1,2,"White","University/Higher Education","$80,000 - $99,999",1.33333333333333
+49,1,5,1,2,4,4,4,2,"957f05d2-cff9-3b67-a550-325440c20a3a",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+74,1,5,7,7,3,3,3,2,"95874aaa-cae4-62e6-4328-7dac4bccd376",2,2,2,"White","University/Higher Education","$50,000 - $79,999",2
+74,1,1,6,6,3,1,1,1,"959e98aa-7253-cede-1628-afb513196147",2,0,0,"White","University/Higher Education","$50,000 - $79,999",0.666666666666667
+42,1,1,1,1,1,1,1,1,"963e6d94-7722-5788-fa16-5a15fa5b977a",0,0,0,"White","University/Higher Education","$50,000 - $79,999",0
+65,16,2,1,1,4,4,4,2,"966e0318-b88e-5d0b-e69a-3445e954e8f0",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+42,4,2,2,7,3,3,3,1,"96aea4b7-821b-b50a-6a35-93855f396563",2,2,2,"White","Secondary School","",2
+54,4,3,1,1,3,3,3,1,"97629564-9420-0cc8-ece6-a24929ba9989",2,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2
+43,2,3,4,4,3,3,3,1,"976dd4f3-8131-8c26-e571-e346ee6a921e",2,2,2,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",2
+33,NA,NA,NA,NA,2,2,3,2,"97a9c4f9-e532-d0e3-6c7b-f382b1270311",1,1,2,"White","High School/Tertiary/Tech. College","",1.33333333333333
+81,NA,NA,NA,NA,1,1,1,1,"97faad09-3545-89b7-3e8b-9ad1551cd0ca",0,0,0,"White","Postgraduate Education","",0
+43,NA,NA,NA,NA,3,3,3,1,"9818b9df-75d7-277f-965d-8e33724c661a",2,2,2,"Other","High School/Tertiary/Tech. College","$80,000 - $99,999",2
+79,1,6,7,5,2,2,2,1,"984f1cc9-6514-64d0-914b-2b648db18f38",1,1,1,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",1
+64,11,1,1,1,1,1,1,1,"98aecda7-336e-dd3f-7c25-fa85ba65bc48",0,0,0,"White","University/Higher Education","",0
+32,1,1,1,1,5,5,5,1,"9945b71e-206a-817f-819c-806e3028c9f9",4,4,4,"White","High School/Tertiary/Tech. College","",4
+79,NA,NA,NA,NA,1,1,1,1,"9955a520-6ac9-30e8-91a2-927ec348afcd",0,0,0,"White","University/Higher Education;University/Higher Education","$25,000 - $49,999",0
+71,11,2,3,3,1,1,1,2,"996696f1-6511-91ae-be73-a14d72149c1c",0,0,0,"White","High School/Tertiary/Tech. College","$80,000 - $99,999",0
+68,21,2,7,7,2,2,2,2,"99910b8b-ac33-0d6c-4909-3cbaba086866",1,1,1,"White","University/Higher Education","$50,000 - $79,999",1
+47,16,2,1,4,5,5,5,2,"9a2825e9-47f9-c4ac-ec6b-12035fe4a229",4,4,4,"White","High School/Tertiary/Tech. College","",4
+55,16,2,2,4,2,3,2,2,"9a3d07bc-5772-3efa-ed3e-30165049a75b",1,2,1,"Black or African American","High School/Tertiary/Tech. College","$15,000 - $24,999",1.33333333333333
+48,7,1,1,2,4,4,4,1,"9a446892-78a4-467c-8010-5f6f80cfbf53",3,3,3,"White","High School/Tertiary/Tech. College","",3
+39,4,6,1,1,5,5,5,1,"9a544251-1164-7de1-8cd3-757f5858f5b6",4,4,4,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",4
+24,NA,NA,NA,NA,2,5,4,1,"9b15719d-f64b-2477-9d1f-463ebdadde7a",1,4,3,"White","Postgraduate Education","$15,000 - $24,999",2.66666666666667
+22,1,1,1,1,3,3,3,2,"9b23904d-6bde-60d3-e7cf-a70809ff8ba6",2,2,2,"White","High School/Tertiary/Tech. College","$80,000 - $99,999",2
+56,NA,NA,NA,NA,NA,NA,NA,1,"9b3fa8d1-ff9b-1de2-fb53-9f14c42d183c",NA,NA,NA,"White","University/Higher Education","$25,000 - $49,999",NA
+61,1,2,2,3,4,5,4,1,"9b5279b7-100c-4537-9635-4e799733f462",3,4,3,"White","High School/Tertiary/Tech. College","",3.33333333333333
+70,16,2,6,6,5,5,5,2,"9b694f3c-6e11-74b6-bebe-78429b5695d7",4,4,4,"White","University/Higher Education","$0 - $14,999",4
+61,3,2,1,2,2,2,3,1,"9b755d5c-325e-0c0a-fdde-6a5eaf9562b5",1,1,2,"White","High School/Tertiary/Tech. College;High School/Tertiary/Tech. College","$50,000 - $79,999",1.33333333333333
+67,NA,NA,NA,NA,3,2,3,2,"9b7fd58c-b54d-bd37-a60e-e2546cd85e4e",2,1,2,"Black or African American","University/Higher Education","$25,000 - $49,999",1.66666666666667
+80,NA,NA,NA,NA,2,2,2,1,"9c96f938-16fb-5f5b-4aba-cebd73a1eed2",1,1,1,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1
+69,1,1,2,2,2,1,1,1,"9ca5187e-4a2f-5893-2dfc-2f8e01cc5a93",1,0,0,"White","University/Higher Education","$15,000 - $24,999",0.333333333333333
+28,17,3,4,4,1,1,2,2,"9d092250-c4d4-bd10-87d2-1522574f9780",0,0,1,"White","University/Higher Education","",0.333333333333333
+50,1,2,4,4,1,1,1,2,"9d2c83d8-5e4c-a108-f45a-b407271da531",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+66,16,2,1,1,1,1,1,1,"9d5c0f42-431d-54f8-d4c0-38775dcd13a8",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+58,1,3,2,2,4,4,4,1,"9db5582f-3ad6-a7ea-69ad-6f9ed8edd7c2",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+65,1,1,1,1,5,5,4,1,"9dd49fb7-4e48-c152-5c35-a8ff8815155b",4,4,3,"White","University/Higher Education","$25,000 - $49,999",3.66666666666667
+34,1,1,1,2,5,5,4,2,"9de43ba1-ddaa-1a1c-5323-0ccf5c704e4c",4,4,3,"White","University/Higher Education","$25,000 - $49,999",3.66666666666667
+70,NA,NA,NA,NA,NA,NA,NA,2,"9df8adef-02f2-f7a5-706d-9ad35b541a02",NA,NA,NA,"White","University/Higher Education","$80,000 - $99,999",NA
+21,6,1,4,2,2,4,2,2,"9e0bf584-7273-d102-cf06-c2208c96b263",1,3,1,"Black or African American","Postgraduate Education","",1.66666666666667
+79,7,3,1,1,3,4,4,2,"9e15d26b-ef2e-8d50-9de9-e53ea975f486",2,3,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.66666666666667
+46,16,2,2,4,1,1,1,2,"9e234a86-56e9-43c4-e704-7d0850ea9f72",0,0,0,"White","University/Higher Education","$15,000 - $24,999",0
+62,1,1,1,1,1,1,1,2,"9e2e6052-7cf0-27d6-f7d0-5705164887bf",0,0,0,"White","University/Higher Education","$50,000 - $79,999",0
+18,NA,NA,NA,NA,1,2,2,2,"9e78410e-8b83-644e-bc8c-765352e64ee1",0,1,1,"American Indian or Alaska Native","Secondary School","",0.666666666666667
+68,7,1,1,1,5,5,5,1,"9e8e906f-8815-10f3-4aed-a7a530966f82",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+81,1,3,4,4,3,3,3,2,"9edeab2a-00f6-e3ad-00a8-9cf5954202e6",2,2,2,"White","University/Higher Education","$100,000 - $149,999",2
+79,1,1,1,3,5,5,5,2,"9ee19006-4fc9-c9e0-6984-a7caac6adfec",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+46,11,1,1,1,4,4,4,2,"9ff9086d-d8e7-2438-23ef-3fd24acb3f8a",3,3,3,"White","High School/Tertiary/Tech. College","",3
+75,1,2,4,4,1,1,1,1,"9ffb772a-10bf-2992-73a8-40d0adfd09c7",0,0,0,"Asian","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+71,1,5,2,3,3,3,2,1,"a08ade9b-9cb4-8478-0219-e9a1cff3cc73",2,2,1,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1.66666666666667
+20,NA,NA,NA,NA,1,3,1,1,"a0e413ea-9aeb-386d-2068-24cf53bf5d0d",0,2,0,"White","High School/Tertiary/Tech. College","",0.666666666666667
+47,1,1,1,7,3,3,3,1,"a0e66439-d0bd-facc-68bb-53cda15f5dde",2,2,2,"White","High School/Tertiary/Tech. College","",2
+34,3,1,1,1,1,4,3,1,"a0fa7296-253a-a7b3-2514-45d105f3297e",0,3,2,"Hispanic or Latino","University/Higher Education","$25,000 - $49,999",1.66666666666667
+68,NA,NA,NA,NA,1,3,3,2,"a0ffd2bb-206d-4b75-7139-e5d4fcf77356",0,2,2,"White","University/Higher Education","$50,000 - $79,999",1.33333333333333
+67,1,5,3,3,5,5,4,1,"a152318a-224a-343a-8a08-0679637ce660",4,4,3,"White","University/Higher Education","$15,000 - $24,999",3.66666666666667
+71,1,2,3,3,4,3,3,1,"a1701511-d44d-ea2d-b493-225be94e3cfa",3,2,2,"White","University/Higher Education","$50,000 - $79,999",2.33333333333333
+24,NA,NA,NA,NA,NA,NA,NA,2,"a1aa389d-7c62-a64b-241f-0f81fb813170",NA,NA,NA,"Black or African American","Secondary School","",NA
+18,NA,3,NA,NA,5,5,3,1,"a1b5c8e2-5865-e701-7160-ff9e0e4d810f",4,4,2,"Black or African American","Postgraduate Education","",3.33333333333333
+54,NA,NA,NA,NA,5,5,5,1,"a1bb6fd5-2c9c-781f-6357-5890e788ad3d",4,4,4,"American Indian or Alaska Native","High School/Tertiary/Tech. College","",4
+75,NA,NA,NA,NA,4,2,2,2,"a1befbae-0e25-8cc8-662c-cc9535a6ca72",3,1,1,"White","Postgraduate Education","$200,000 or more",1.66666666666667
+66,1,3,1,1,3,3,3,1,"a1fbf9f4-9f8b-a791-7376-ced088d88b1d",2,2,2,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",2
+19,3,2,4,4,2,3,3,2,"a27d2b88-f923-7ffb-a40a-1c563deb1a78",1,2,2,"White","High School/Tertiary/Tech. College","",1.66666666666667
+70,1,3,2,2,4,3,2,1,"a29d0032-efde-203f-59b0-37b63b8e28da",3,2,1,"White","University/Higher Education","",2
+18,14,2,6,4,1,1,1,2,"a2aa8495-d2a8-9bec-7217-b38153b31672",0,0,0,"White","Secondary School","",0
+76,NA,NA,NA,NA,NA,NA,NA,2,"a2b3d5bf-a119-c5ad-6b3d-e2983e155a52",NA,NA,NA,"White","Postgraduate Education","$25,000 - $49,999",NA
+39,7,5,3,3,4,3,3,1,"a2c83003-89d9-ae05-4681-07e3225ba2f8",3,2,2,"White","High School/Tertiary/Tech. College","",2.33333333333333
+52,11,1,1,1,1,3,4,2,"a2e8d0d8-d1e2-d95e-2c5a-e7c330c01132",0,2,3,"White","University/Higher Education","",1.66666666666667
+75,1,2,2,4,2,2,3,1,"a2f7be3d-c629-6733-33bf-89dc3e7207d0",1,1,2,"White","University/Higher Education","$50,000 - $79,999",1.33333333333333
+48,NA,NA,NA,NA,NA,NA,NA,2,"a34c6802-b554-8e50-9580-5f675f4670ea",NA,NA,NA,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",NA
+22,4,5,3,1,4,3,4,2,"a3a29ef4-b3a1-83cd-7076-a989d2bf4d13",3,2,3,"","University/Higher Education","",2.66666666666667
+42,11,1,1,1,4,4,4,1,"a3c231d9-0d80-343b-485b-06e9cda65a3e",3,3,3,"White","","$25,000 - $49,999",3
+47,1,3,1,2,5,2,3,1,"a3dc69b6-2366-949e-1834-5ef7c158e75f",4,1,2,"White","University/Higher Education","",2.33333333333333
+80,21,3,4,4,2,2,2,2,"a3ffe011-fb0b-c85f-3a93-d7d4795b1dfc",1,1,1,"Black or African American","University/Higher Education","$25,000 - $49,999",1
+38,1,1,1,3,1,4,5,1,"a41c1c64-cce2-1463-d8e6-2b37a7cacb83",0,3,4,"Black or African American","University/Higher Education","",2.33333333333333
+46,1,3,1,1,4,4,4,1,"a43c4ae1-f963-dfd3-b263-7d17f8e5aa06",3,3,3,"Asian","University/Higher Education","$80,000 - $99,999",3
+78,16,2,1,2,3,3,3,1,"a46fe71e-5fb5-661a-ab9c-d044304c98f4",2,2,2,"White","University/Higher Education","$50,000 - $79,999",2
+65,1,6,2,4,2,2,2,1,"a4e1257d-c3e6-0b25-24ff-12ca8e842597",1,1,1,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1
+30,16,2,2,4,3,4,3,1,"a5d97395-9ec9-7b9d-1d17-44f221f97b7c",2,3,2,"Black or African American","High School/Tertiary/Tech. College","",2.33333333333333
+41,4,1,3,4,2,3,1,1,"a5de2bfa-2637-2fa6-0678-1cf58bc6e212",1,2,0,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",1
+75,11,2,4,1,3,3,3,1,"a614f8cb-e26b-19ce-d049-cf3faf71250b",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+29,1,1,1,1,3,3,3,2,"a62af3b2-1e51-d490-f330-c401c875dc55",2,2,2,"White","High School/Tertiary/Tech. College","",2
+49,16,1,5,5,5,5,4,1,"a62eb860-6a95-56c9-eae2-8f0547fc8288",4,4,3,"Asian","University/Higher Education","",3.66666666666667
+76,NA,NA,NA,NA,1,1,1,1,"a631b350-7075-263d-f5d2-841a5be09189",0,0,0,"White","University/Higher Education","",0
+80,NA,NA,NA,NA,NA,NA,NA,2,"a67ba9dd-350f-830a-aa5f-9e50c528df07",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+23,NA,NA,NA,NA,NA,NA,NA,1,"a6b6e324-d389-bfd3-3ea6-d49db5d5c7cf",NA,NA,NA,"Hispanic or Latino","Postgraduate Education","$80,000 - $99,999",NA
+74,16,1,6,6,3,3,2,2,"a6f1ffa5-7e6f-d78b-3527-c8dafaaa9a5b",2,2,1,"White","Postgraduate Education","$100,000 - $149,999",1.66666666666667
+32,11,3,3,4,4,4,4,2,"a739aea5-4815-8705-3d24-991247c7c842",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+66,16,1,1,1,4,4,5,2,"a7a7a74a-845c-1d9a-63c8-908cdd9a61ad",3,3,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",3.33333333333333
+57,NA,NA,NA,NA,1,1,2,1,"a8292262-fe36-3f8f-ede0-15023528fa88",0,0,1,"White","Secondary School","",0.333333333333333
+56,7,2,1,1,1,2,1,2,"a858e9ca-0673-9ac2-8148-de7390fb0520",0,1,0,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",0.333333333333333
+21,1,1,1,1,1,1,1,2,"a8656603-fab2-5650-a181-514e57fe7feb",0,0,0,"Black or African American","High School/Tertiary/Tech. College","",0
+57,16,3,3,4,5,4,4,2,"a86e28b4-d604-f21b-aa36-1f455b431659",4,3,3,"White","University/Higher Education","$25,000 - $49,999",3.33333333333333
+64,16,2,1,1,4,4,4,1,"a88982c7-36ed-e3af-5745-b5a2ba7ff42a",3,3,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+70,1,6,6,5,4,2,2,1,"a8af986b-b072-6b25-6be9-af84949d3582",3,1,1,"White","University/Higher Education","",1.66666666666667
+66,1,2,2,2,4,4,4,1,"a8b0cde3-5ca4-9a05-3861-fa9b3cec480e",3,3,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+34,19,2,1,2,5,5,4,2,"a925d200-717a-9164-2281-e50e3f85b8e7",4,4,3,"White","University/Higher Education","$50,000 - $79,999",3.66666666666667
+62,4,6,1,1,5,2,3,1,"a929ab21-ba9b-5320-eda3-9c0224ef3eea",4,1,2,"White","High School/Tertiary/Tech. College","",2.33333333333333
+57,1,2,1,1,1,1,1,1,"a96b10bf-1850-89f8-b13d-274062c5df4d",0,0,0,"White","University/Higher Education","",0
+50,7,3,3,3,4,4,4,2,"a96d9570-23ba-a6c4-6af1-a2466f9a8697",3,3,3,"I prefer not to answer","High School/Tertiary/Tech. College","$15,000 - $24,999",3
+32,5,5,1,1,4,4,4,1,"a9924737-939b-a361-4db5-70b9738b6bda",3,3,3,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+35,16,1,2,2,3,3,3,1,"a9b27c4c-2c72-48d0-76ce-4b990797a8a4",2,2,2,"White","University/Higher Education","",2
+23,9,2,4,4,1,3,3,2,"aa2fa6bc-a20d-268e-eb3e-9104d4b63b40",0,2,2,"I prefer not to answer","None completed","",1.33333333333333
+30,NA,NA,NA,NA,NA,NA,NA,1,"aa51a7fe-bb20-69b9-957c-907a616a5c16",NA,NA,NA,"Hispanic or Latino","High School/Tertiary/Tech. College","$0 - $14,999",NA
+41,11,2,1,1,1,1,1,1,"aa70f60d-3739-4ca9-aa8f-c15b8cdfd0ea",0,0,0,"White","High School/Tertiary/Tech. College","",0
+44,1,3,5,4,2,3,4,1,"aaa91835-3a07-8cac-27b7-2f824b6070c2",1,2,3,"White","Postgraduate Education","$150,000 - $199,999",2
+67,NA,NA,NA,NA,1,1,1,1,"aac6b0ca-90f2-b5cd-1e48-87eda9f49026",0,0,0,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",0
+29,16,1,2,2,4,4,4,1,"ab057c10-0a9a-76a0-dd92-4b2e699debf7",3,3,3,"White","High School/Tertiary/Tech. College","",3
+18,NA,NA,NA,NA,NA,NA,NA,2,"abc49f6c-8e55-a2a4-1dee-a8efe928648b",NA,NA,NA,"","High School/Tertiary/Tech. College","",NA
+67,NA,NA,NA,NA,3,4,4,1,"ac6830cf-c613-7775-e04d-074364d75626",2,3,3,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",2.66666666666667
+58,1,1,2,2,4,4,3,1,"acd4ac36-57ff-3268-5ab4-9bff066dfcde",3,3,2,"White","Primary School","$25,000 - $49,999",2.66666666666667
+75,7,3,4,4,5,5,5,1,"acdfb34d-09b7-2dc0-51cf-84f4152c44a0",4,4,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+53,10,1,2,4,1,3,1,1,"ad836eb4-0748-bcad-4736-59a8c807ef5b",0,2,0,"Hispanic or Latino","High School/Tertiary/Tech. College","",0.666666666666667
+59,16,1,3,3,4,4,NA,2,"add8ff0a-8cf7-a752-5088-c8f35f33d8e2",3,3,NA,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",NA
+51,4,1,7,7,1,2,2,1,"adee1bf3-bb20-4fcf-6671-2cc5e1c7ef1b",0,1,1,"White","Secondary School","",0.666666666666667
+65,16,5,1,1,5,5,4,2,"adf64fa8-eeeb-1879-7e2a-78dd903bba5b",4,4,3,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",3.66666666666667
+25,1,3,1,1,4,4,4,1,"ae2342c1-4bf5-dc3d-ad43-750820685229",3,3,3,"Hispanic or Latino","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+23,1,2,1,1,4,3,4,1,"ae6855ce-eefb-7939-ac4c-62433dd60924",3,2,3,"Hispanic or Latino","University/Higher Education","",2.66666666666667
+45,11,3,1,1,2,3,3,2,"ae972cf5-3b4c-c382-5377-1bbcadacdc1b",1,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1.66666666666667
+66,1,7,2,3,4,3,4,1,"aeba9e21-cb04-88c9-7ea3-a991bcee0bcc",3,2,3,"White","Postgraduate Education","$25,000 - $49,999",2.66666666666667
+35,1,1,1,1,4,4,4,2,"aef1203e-5b23-d5d7-35bc-17da8b14bfd6",3,3,3,"White","University/Higher Education","",3
+51,16,4,1,1,1,2,1,1,"af380df8-a6db-f5a9-fc7a-3a1376e32110",0,1,0,"White","High School/Tertiary/Tech. College","",0.333333333333333
+70,1,3,6,6,3,3,3,1,"af39bf45-361a-ff6a-b1c7-8812f4e666a8",2,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+26,NA,NA,NA,NA,3,3,5,1,"af540220-48ef-3721-90a2-357f26c8cfc9",2,2,4,"Black or African American","Secondary School","",2.66666666666667
+40,16,2,2,2,5,5,5,2,"af5bcf6e-c072-bc6e-82ec-f870adff49b6",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+75,1,1,3,4,2,2,2,1,"af8885e8-ace8-d3d4-006a-b2a3e1a93802",1,1,1,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1
+60,16,1,2,4,5,5,5,1,"afe1f8fc-d76b-cda7-257e-cfca789c1314",4,4,4,"White","University/Higher Education","$0 - $14,999",4
+69,NA,NA,NA,NA,NA,NA,NA,2,"b01456ca-4f84-6778-d048-613f0ece4a21",NA,NA,NA,"White","University/Higher Education","$50,000 - $79,999",NA
+72,11,1,3,3,1,1,1,1,"b01c252a-0c2f-0eb4-d8a8-12375aff8cd1",0,0,0,"White","University/Higher Education","",0
+60,11,1,1,1,2,2,2,1,"b0627805-56a5-7dfd-ba87-4f49c2d295e2",1,1,1,"White","Postgraduate Education","$25,000 - $49,999",1
+47,4,4,1,1,4,4,4,1,"b0aaec56-e9eb-8173-73d4-db81954410a2",3,3,3,"White","University/Higher Education","",3
+25,1,1,1,1,4,4,3,2,"b0c795d6-6bc6-9e58-c057-a2ec32a67231",3,3,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.66666666666667
+61,11,1,1,1,5,5,5,2,"b15fbc13-dd85-f9f2-8691-8b74d07226fe",4,4,4,"Black or African American","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+80,NA,NA,NA,NA,NA,NA,NA,1,"b170fe9f-4f9c-d032-b41d-c95b6cbf8b72",NA,NA,NA,"White","University/Higher Education","$50,000 - $79,999",NA
+49,16,2,1,3,4,4,4,1,"b175c97e-480b-f4ef-acfc-fe5e48758a93",3,3,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",3
+67,16,1,2,2,3,2,3,1,"b1802acd-100f-11b4-374f-1dabb43b413c",2,1,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1.66666666666667
+31,16,4,2,1,5,5,4,2,"b1978f87-d60f-b1f1-5305-b8bc4bfd3660",4,4,3,"White","High School/Tertiary/Tech. College","",3.66666666666667
+25,1,2,1,1,1,1,5,2,"b1b50a48-22c9-25bf-71ca-3d9e32a5a7a1",0,0,4,"Black or African American","High School/Tertiary/Tech. College","",1.33333333333333
+27,1,2,1,1,1,5,5,1,"b1fb9634-963e-be3a-3fb6-a1d031ea4ed3",0,4,4,"White","High School/Tertiary/Tech. College","",2.66666666666667
+51,NA,NA,NA,NA,2,2,2,1,"b204e9f5-a859-c4fe-b377-de2fb597211d",1,1,1,"Black or African American","None completed","",1
+42,16,3,3,3,5,5,5,1,"b20d9992-3786-8ac9-c910-ae264567f375",4,4,4,"Hispanic or Latino","University/Higher Education","",4
+63,1,2,2,2,4,4,4,1,"b221b6fc-95b5-ff95-fd7e-810aa3775511",3,3,3,"White","University/Higher Education","$100,000 - $149,999",3
+83,NA,NA,NA,NA,NA,NA,NA,2,"b2dfc208-d9df-579b-518a-f5f4adb88be2",NA,NA,NA,"White","University/Higher Education","$50,000 - $79,999",NA
+59,16,5,1,1,1,5,5,1,"b2e5053c-c9ce-2ebf-21be-32cebd9f2ef8",0,4,4,"White","University/Higher Education","$15,000 - $24,999",2.66666666666667
+50,11,1,3,4,3,2,2,1,"b35062fb-65ec-4de2-9479-557bd600ad0e",2,1,1,"White","University/Higher Education","",1.33333333333333
+27,12,2,1,1,1,5,5,1,"b35dc131-dab9-99ac-d5b3-f6765edc8ad6",0,4,4,"White","High School/Tertiary/Tech. College","",2.66666666666667
+80,16,4,4,4,5,5,5,2,"b36a2b22-1803-753d-e2a0-1c41d8c110ca",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+54,NA,NA,NA,NA,NA,NA,NA,1,"b3b2040a-94b9-173a-7688-3399f19473e2",NA,NA,NA,"White","High School/Tertiary/Tech. College","",NA
+75,21,3,3,3,4,3,3,2,"b3f635dc-4b87-5c74-2f5e-02dd61058e30",3,2,2,"White","Postgraduate Education","$0 - $14,999",2.33333333333333
+69,1,5,3,3,3,3,3,2,"b4563b68-8793-69d5-deea-0c7d755cd385",2,2,2,"White","University/Higher Education","$25,000 - $49,999",2
+67,1,1,3,3,4,3,3,1,"b45961de-84ee-3ef4-d15c-5672e232d037",3,2,2,"White","University/Higher Education","$25,000 - $49,999",2.33333333333333
+53,16,1,1,1,2,4,2,1,"b476c1cc-b365-e8bf-b24e-f65d4b405a08",1,3,1,"White","University/Higher Education","",1.66666666666667
+45,7,5,2,2,5,5,5,2,"b4959ff5-0149-85f1-5077-a8beb25e871c",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+75,11,1,1,1,4,4,4,2,"b49f4277-430f-a716-46f5-75b49518409e",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+80,16,1,3,3,2,2,2,1,"b523f0e2-5129-1390-fa60-c7088d35ab0a",1,1,1,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1
+24,16,5,1,1,4,4,4,1,"b53f7c4e-3c5b-4d6c-fbcc-4b148568d8a9",3,3,3,"White","University/Higher Education","",3
+19,NA,NA,NA,NA,5,5,5,1,"b583a652-e591-ff26-0bd0-91a8a34af5bd",4,4,4,"White","High School/Tertiary/Tech. College","",4
+60,16,1,1,1,1,1,1,1,"b5a72085-6f50-c309-7d07-178cad4c896c",0,0,0,"Other","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+44,NA,NA,NA,NA,5,5,5,2,"b5de5f76-d214-8a4d-1af4-68f5e2d3359e",4,4,4,"White","Secondary School","",4
+19,11,3,1,1,4,5,5,2,"b5df9a81-8a9e-2be5-0003-adf45df3897a",3,4,4,"Black or African American","University/Higher Education","$50,000 - $79,999",3.66666666666667
+58,21,1,7,7,5,5,5,2,"b61bad3e-883d-38a0-95bc-9a305cabc3d6",4,4,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+62,1,3,2,3,2,2,2,1,"b61f99b0-d54a-ca45-9732-ae34a3e28d5d",1,1,1,"White","University/Higher Education","$25,000 - $49,999",1
+63,22,6,1,1,4,3,4,1,"b62cd587-c963-a7f1-f505-e20746ed2c6f",3,2,3,"White","University/Higher Education","Prefer not to say",2.66666666666667
+72,1,3,2,1,1,1,1,1,"b690fb6f-0507-d5a3-48ed-ccbbe84d8082",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+62,11,2,1,2,1,2,2,2,"b6c8a54e-e0b7-fcf4-40cc-92e3706574a5",0,1,1,"White","University/Higher Education","$15,000 - $24,999",0.666666666666667
+57,1,6,1,1,3,3,3,2,"b6d3cc09-4932-d18f-168b-fbf8a22fcfe0",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+70,1,2,2,3,1,1,1,1,"b6daf52c-5b15-0587-1eae-c2f141f8bac0",0,0,0,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+93,1,1,2,2,4,3,2,1,"b70ec8e6-2d5c-e2c6-ca64-ff25d59bc901",3,2,1,"White","University/Higher Education","",2
+51,4,2,1,1,5,5,5,1,"b733686e-e71d-d274-f7ec-5f18d3abe086",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+19,7,2,2,3,1,2,1,1,"b781c350-f650-ec98-45d2-f4aaf59d32a1",0,1,0,"Black or African American","High School/Tertiary/Tech. College","",0.333333333333333
+30,16,6,1,1,5,5,5,1,"b7a4ec8b-e0e4-fbc8-7c09-db8f78ef046c",4,4,4,"White","High School/Tertiary/Tech. College","",4
+50,16,1,1,3,5,5,5,1,"b7ef3f5e-4362-3684-2bdc-08c4d3099bb7",4,4,4,"Asian","University/Higher Education","",4
+61,11,1,1,1,1,5,5,1,"b82933df-d668-e54a-ed5d-04020d4d1236",0,4,4,"Black or African American","University/Higher Education","$0 - $14,999",2.66666666666667
+53,16,1,1,1,5,5,5,1,"b83e1cdf-9e73-3211-fb5d-2b15c45e7937",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+53,1,1,2,2,2,2,3,1,"b854b2c9-1723-9b2c-884b-857fd9e1eb25",1,1,2,"White","University/Higher Education","$50,000 - $79,999",1.33333333333333
+62,1,1,1,1,3,3,3,2,"b8eb957a-761e-c055-37f8-a2c0e3d9f692",2,2,2,"White","University/Higher Education","$100,000 - $149,999",2
+81,NA,NA,NA,NA,3,3,3,1,"b9220356-4c04-370c-fbd4-340959f0afbb",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+56,7,2,1,1,4,3,3,1,"b945699b-d000-2f0e-9d19-5e6e8c795473",3,2,2,"White","University/Higher Education","$15,000 - $24,999",2.33333333333333
+36,16,1,1,1,5,5,5,2,"b98d9044-2d5a-9bbf-8ac5-a7a63e2a0da3",4,4,4,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",4
+67,NA,NA,NA,NA,3,3,4,2,"b9a06a00-6a4d-3294-2882-5d8b9f9532e8",2,2,3,"White","University/Higher Education","$0 - $14,999",2.33333333333333
+32,16,2,1,1,5,5,4,2,"b9e9696a-3d75-bba0-b9eb-5ec2e15b418d",4,4,3,"White","University/Higher Education","$100,000 - $149,999",3.66666666666667
+61,4,1,1,1,3,2,2,1,"ba1ec505-9448-35ab-da87-f235866473ef",2,1,1,"White","High School/Tertiary/Tech. College","",1.33333333333333
+71,4,4,4,4,3,3,3,1,"babb3b5c-41b7-6364-33de-0c90ea7359b1",2,2,2,"White","University/Higher Education","$25,000 - $49,999",2
+19,NA,NA,NA,NA,2,5,3,1,"bae84cad-e315-6169-2c2f-7bc3fc5b0741",1,4,2,"Black or African American","High School/Tertiary/Tech. College","",2.33333333333333
+25,4,7,1,1,4,4,4,1,"bb070b1c-24b6-df92-579d-3c2c87d655fb",3,3,3,"White","High School/Tertiary/Tech. College","",3
+62,16,1,4,4,4,4,4,2,"bb1fdee1-1aa4-f50c-c663-e93406f4ff0c",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+58,4,2,5,5,4,4,4,2,"bb8131a3-5be9-1ce1-4421-06aa75b85d4f",3,3,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",3
+24,12,2,4,5,5,4,4,2,"bbb31c21-da69-2160-6aa3-2b986a563fcb",4,3,3,"Black or African American","University/Higher Education","$0 - $14,999",3.33333333333333
+65,16,1,1,1,5,5,5,2,"bbcecb0c-d106-28b2-118e-fce5771a5deb",4,4,4,"I prefer not to answer","University/Higher Education","$15,000 - $24,999",4
+46,NA,NA,NA,NA,2,2,2,2,"bbdb63ea-7dde-8833-0268-54f0eeca9f02",1,1,1,"White","University/Higher Education","$100,000 - $149,999",1
+28,4,3,1,1,4,5,3,2,"bbf15163-7091-7b8a-f5e2-66da0ef65189",3,4,2,"White","University/Higher Education","$80,000 - $99,999",3
+56,11,1,1,1,5,5,5,2,"bc037f99-4567-e68d-d81b-48280a02a47e",4,4,4,"White","High School/Tertiary/Tech. College","",4
+18,4,7,1,1,4,1,4,1,"bc452b2e-ca83-1126-81ac-1c6e24a52fc7",3,0,3,"White","Secondary School","",2
+43,NA,NA,NA,NA,3,3,5,1,"bc4e28de-747e-393c-965c-1f65d26cbc37",2,2,4,"Black or African American","High School/Tertiary/Tech. College","",2.66666666666667
+64,NA,NA,NA,NA,3,3,3,2,"bcaa6c84-5390-33f5-2206-5b8141cb4651",2,2,2,"Asian","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+46,NA,NA,NA,NA,3,3,4,1,"bcbf2cfe-1df5-71f1-667c-1b94c7abe712",2,2,3,"Asian","University/Higher Education","",2.33333333333333
+69,21,1,7,7,2,2,2,1,"bcdb8bb2-e3ec-7136-1f30-bcf04815245f",1,1,1,"Black or African American","University/Higher Education","$0 - $14,999",1
+53,16,2,1,1,5,5,5,2,"bd33fe48-706b-9a4e-ebca-c918b5eb88a0",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+41,16,1,1,1,4,4,4,2,"bd3a97c3-86e4-5a24-fe41-a011d60a4117",3,3,3,"White","Postgraduate Education","",3
+34,16,6,1,1,3,3,3,2,"bd482fa8-35e2-26b1-8c2a-186328e9ec40",2,2,2,"White","University/Higher Education","",2
+39,16,2,1,1,5,5,5,2,"bd6131d3-0c91-1933-a551-064ad5b4d534",4,4,4,"White","University/Higher Education","",4
+34,NA,NA,NA,NA,NA,NA,NA,2,"bd73d363-4d51-dabf-b7e1-e45811538a84",NA,NA,NA,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",NA
+72,4,1,1,1,3,3,3,2,"bda69f49-99f3-3f26-62cb-a88d5e2f5ca4",2,2,2,"White","University/Higher Education","$100,000 - $149,999",2
+32,13,2,NA,NA,5,5,5,1,"bdc6bbe7-21bb-24ba-4865-8ced902b3227",4,4,4,"Black or African American","Postgraduate Education","",4
+26,16,1,1,1,5,3,5,1,"be1362b2-4366-fb46-d730-5538a6fc4459",4,2,4,"White","High School/Tertiary/Tech. College","",3.33333333333333
+62,17,2,1,1,3,3,3,2,"be2bcdc6-1a54-4df8-ef44-fa00f42fdb2f",2,2,2,"Black or African American","University/Higher Education","$15,000 - $24,999",2
+50,NA,NA,NA,NA,3,3,3,1,"be40b81d-b155-ea2b-c89f-8f6bea1ba4f0",2,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2
+22,14,3,6,5,2,1,3,2,"be504a85-d8a7-622e-8807-7d7b898c3345",1,0,2,"American Indian or Alaska Native","High School/Tertiary/Tech. College","",1
+72,16,1,2,3,5,5,5,2,"be60ec6c-0576-3ee1-a4ee-db4b2359ec84",4,4,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+37,16,1,1,2,1,1,1,2,"bf6596ba-d1a6-b297-a138-a14ede7f1952",0,0,0,"Hispanic or Latino","High School/Tertiary/Tech. College","",0
+43,11,2,4,4,3,3,3,1,"bf82a622-b70c-3e26-46a0-91a9298c7ecd",2,2,2,"White","High School/Tertiary/Tech. College","",2
+28,16,2,1,1,5,5,5,2,"bf849ba4-e496-be5a-5c26-acafb3400049",4,4,4,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",4
+39,16,3,2,2,4,4,4,2,"c0305e61-cb66-0e71-b8e3-691b728ad38b",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+22,1,1,1,1,3,5,5,2,"c0481f8c-b2e7-2e8a-8c0e-2863caad7564",2,4,4,"White","High School/Tertiary/Tech. College","",3.33333333333333
+33,NA,NA,NA,NA,2,4,4,1,"c04ead0c-cd71-7dfb-8a8e-9a655b5c28e1",1,3,3,"Black or African American","High School/Tertiary/Tech. College","",2.33333333333333
+22,14,2,3,1,3,2,3,2,"c06b141e-f8f2-fb95-af9c-2340571e7df6",2,1,2,"White","Secondary School","",1.66666666666667
+37,16,3,1,1,5,5,5,1,"c0927058-28d0-6733-4ada-47b977dbe3b1",4,4,4,"Asian","University/Higher Education","$25,000 - $49,999",4
+47,1,4,1,1,1,5,5,1,"c0b485dd-8747-dba3-3c5f-b29f40150e3a",0,4,4,"White","University/Higher Education","$80,000 - $99,999",2.66666666666667
+36,NA,NA,NA,NA,NA,NA,NA,2,"c0e79007-0697-ad16-2385-a7ccb968e6ef",NA,NA,NA,"White","University/Higher Education","",NA
+32,16,4,4,1,2,4,1,1,"c1294c28-2b62-9b66-2fa9-7b02392109c5",1,3,0,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1.33333333333333
+69,22,7,4,3,1,1,1,1,"c1531ee7-0a1c-3022-8b65-297884ff0e0c",0,0,0,"Black or African American","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+66,NA,NA,NA,NA,NA,NA,NA,1,"c156a952-024c-13df-92d0-9e7ddcfa05a5",NA,NA,NA,"White","University/Higher Education","$80,000 - $99,999",NA
+64,4,2,1,1,2,1,3,2,"c1bbdd27-a741-5897-62a5-ea90193725c0",1,0,2,"American Indian or Alaska Native","University/Higher Education","$50,000 - $79,999",1
+25,1,1,1,1,2,2,2,2,"c1eab086-9351-138d-2e04-87c1c68d5261",1,1,1,"I prefer not to answer","High School/Tertiary/Tech. College","$100,000 - $149,999",1
+82,1,5,1,2,4,4,4,2,"c20328e7-9aa6-b6f2-8d65-1f287b3cc109",3,3,3,"White","University/Higher Education","",3
+50,NA,NA,NA,NA,NA,NA,NA,2,"c2384e8e-ccde-437a-fc0c-79135a300465",NA,NA,NA,"Black or African American","University/Higher Education","",NA
+61,16,7,5,5,3,3,3,1,"c23effd8-5c75-f446-e65a-c8152885a431",2,2,2,"Hispanic or Latino","University/Higher Education","$25,000 - $49,999",2
+27,13,2,1,1,4,3,3,1,"c25e9fa4-a4a0-8f6c-9a26-a87582836049",3,2,2,"Asian","University/Higher Education","$150,000 - $199,999",2.33333333333333
+77,16,2,1,1,5,5,5,2,"c279ec75-0113-f906-7ef4-db523d348198",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+29,7,1,1,2,4,3,3,1,"c27bc1cf-fa8b-bb02-7c4e-f650f32cd928",3,2,2,"Black or African American","High School/Tertiary/Tech. College","$15,000 - $24,999",2.33333333333333
+42,7,2,2,1,5,5,5,2,"c2983818-dba5-2b9b-409a-0fb34d4923ff",4,4,4,"American Indian or Alaska Native","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+55,16,1,2,2,3,3,3,2,"c2b1567c-37d7-4241-69fe-619a8fdfd4bc",2,2,2,"White","High School/Tertiary/Tech. College","",2
+56,16,1,1,1,4,4,4,2,"c2b38347-83b1-cd5d-6ac5-b498b65378ac",3,3,3,"White","High School/Tertiary/Tech. College","",3
+49,1,3,1,1,3,3,4,1,"c2b722cd-4984-0e19-6b4f-159ce4a98620",2,2,3,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",2.33333333333333
+36,17,2,1,1,5,5,5,1,"c2e01061-a9db-e9a2-3fe3-27cb8df84186",4,4,4,"White","University/Higher Education","$0 - $14,999",4
+40,NA,NA,NA,NA,1,1,1,1,"c30fde5c-26e4-f00f-d5de-e9241c36c0bb",0,0,0,"White","High School/Tertiary/Tech. College","$0 - $14,999",0
+78,1,1,2,3,4,4,4,2,"c376e3bf-2364-647b-af3d-d45d8be02157",3,3,3,"White","University/Higher Education","$80,000 - $99,999",3
+22,3,2,2,2,3,3,2,2,"c382b703-7dbd-bfda-4681-80a9764cb9eb",2,2,1,"White","Secondary School","",1.66666666666667
+54,16,2,1,1,5,5,5,2,"c3db95ac-b4d1-7aaf-dc2d-a2f0ccf92f4b",4,4,4,"White","Postgraduate Education","$50,000 - $79,999",4
+38,NA,NA,NA,NA,1,1,1,1,"c3f3b593-e228-81d7-3711-82d803e86263",0,0,0,"White","High School/Tertiary/Tech. College","",0
+50,16,7,6,1,5,3,3,1,"c3f3d3be-048e-4d77-7d3c-e4d896171753",4,2,2,"Black or African American","Secondary School","$0 - $14,999",2.66666666666667
+37,1,2,2,2,4,4,5,2,"c42fe1fa-d0d4-7337-eb78-d60499791512",3,3,4,"Hispanic or Latino","University/Higher Education","$25,000 - $49,999",3.33333333333333
+19,8,2,6,4,2,2,2,1,"c4e75a5b-9695-7793-23d9-6dcc96fa57bc",1,1,1,"White","High School/Tertiary/Tech. College","",1
+62,NA,NA,NA,NA,NA,NA,NA,1,"c594d1d1-47d5-e178-5153-e6bf2038423d",NA,NA,NA,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",NA
+39,1,2,1,1,5,4,5,2,"c59875eb-eb18-64d6-4069-42b3881a130c",4,3,4,"White","University/Higher Education","$100,000 - $149,999",3.66666666666667
+50,1,1,1,1,3,2,3,1,"c5a2363c-c1b0-182c-7abe-0189e75a39db",2,1,2,"White","University/Higher Education","",1.66666666666667
+33,16,4,1,1,3,4,4,2,"c60a4b9f-acea-9072-0c1e-7c217fbe8969",2,3,3,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2.66666666666667
+67,1,2,3,4,2,2,3,2,"c60bf2bd-6024-ca40-d33f-c5204b5d895a",1,1,2,"Black or African American","High School/Tertiary/Tech. College","",1.33333333333333
+76,1,4,1,1,1,1,1,2,"c6d41ced-b10c-43d5-5c6f-2bff8cdca505",0,0,0,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+60,NA,NA,NA,NA,NA,NA,NA,1,"c6d550a2-0ff2-0e6f-5d20-67fe8721574f",NA,NA,NA,"White","University/Higher Education;University/Higher Education","$50,000 - $79,999",NA
+51,16,1,5,1,3,3,3,1,"c6f99257-eb10-0c62-77d5-a5d2b782a6bb",2,2,2,"White","Primary School","$0 - $14,999",2
+26,7,3,1,1,5,5,5,2,"c70cee5b-e3ee-bd39-84d9-d9276921f3b6",4,4,4,"White","High School/Tertiary/Tech. College","$80,000 - $99,999",4
+63,NA,NA,NA,NA,1,1,1,1,"c718e8c5-d9b2-bb48-9047-df333a1a8d22",0,0,0,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",0
+18,8,2,5,1,3,1,NA,2,"c73c4688-9936-89ac-e30a-711791d67961",2,0,NA,"Black or African American","High School/Tertiary/Tech. College","",NA
+22,NA,NA,NA,NA,1,3,5,1,"c7a8b697-2c14-8191-6c15-8183c520cb7d",0,2,4,"Black or African American","University/Higher Education","",2
+70,16,1,2,3,2,2,2,2,"c7b93d81-f62f-eaa3-7d03-0a92a97b1268",1,1,1,"White","High School/Tertiary/Tech. College","",1
+50,7,2,1,1,3,3,3,1,"c7cfdd61-38c2-f9b3-16e3-eae4b916f98d",2,2,2,"White","High School/Tertiary/Tech. College","",2
+27,1,3,1,2,5,4,5,1,"c7d05176-176d-cfcb-5ef4-66fb0ef64491",4,3,4,"White","Postgraduate Education","",3.66666666666667
+29,NA,NA,NA,NA,NA,NA,NA,1,"c7ebca2c-4864-2a47-2fae-fdc0d074adc4",NA,NA,NA,"White","Secondary School","",NA
+61,NA,NA,NA,NA,NA,NA,NA,1,"c807b037-2fa9-4a43-c3b5-872cceafcfff",NA,NA,NA,"White","University/Higher Education","$15,000 - $24,999",NA
+18,22,7,7,7,5,5,5,1,"c8734aa4-1cb8-79ec-b726-7d583cf7f943",4,4,4,"White","Secondary School","",4
+44,NA,NA,NA,NA,5,5,5,2,"c87381e0-c68d-cc6a-fb62-b658fe43520c",4,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",4
+46,NA,NA,NA,NA,3,3,3,1,"c8bcc74d-cd16-935c-34cf-f097b5bed9a5",2,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2
+70,NA,NA,NA,NA,3,3,3,1,"c8ef84f0-d3af-eab0-3672-b3c4043d101d",2,2,2,"White","University/Higher Education","$50,000 - $79,999",2
+52,NA,NA,NA,NA,NA,NA,NA,2,"c8fdbb1c-78a6-e82d-fa9d-8cd6b50b53fb",NA,NA,NA,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",NA
+46,NA,NA,NA,NA,NA,NA,NA,1,"c9097640-658d-afe5-cdc2-4122186f82a7",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+30,1,4,5,2,4,4,4,1,"c909bb65-130f-0726-d1e7-8c2206b7988f",3,3,3,"Black or African American","University/Higher Education","",3
+38,16,2,1,1,3,3,3,2,"c97d8364-3914-b4f6-b9e6-b456f5e1d18d",2,2,2,"Black or African American","High School/Tertiary/Tech. College","",2
+21,1,1,1,2,4,4,3,2,"c985b719-8fc4-e46d-0d9b-80aef9add7e9",3,3,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2.66666666666667
+45,11,1,2,4,2,2,3,2,"c9be79e3-9fe5-9d4e-6661-4e9514f47a0a",1,1,2,"Black or African American","University/Higher Education","",1.33333333333333
+76,22,1,1,1,1,1,1,1,"c9f2c49e-8936-fc23-2a1c-f3d904074069",0,0,0,"White","High School/Tertiary/Tech. College","",0
+54,16,2,1,1,5,5,5,1,"ca151ef9-70ea-215f-d17b-293eeed2991e",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+19,1,4,1,1,5,3,4,1,"ca8119c8-4d30-6aef-5f4a-2eaaa9dcaf25",4,2,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",3
+26,16,2,3,3,3,4,3,1,"cac58dc2-2a51-9d6b-1d40-baee1f3ccb32",2,3,2,"","Postgraduate Education","",2.33333333333333
+31,7,1,6,5,1,2,2,2,"cae439d6-cbb0-624a-6c54-0ecf2a745b31",0,1,1,"","Postgraduate Education","",0.666666666666667
+57,1,2,1,1,3,2,2,2,"cb004c05-059e-62ce-c587-7b2b7cdde3e8",2,1,1,"Hispanic or Latino","University/Higher Education","$50,000 - $79,999",1.33333333333333
+45,NA,NA,NA,NA,NA,NA,NA,1,"cb3af3fd-cc76-26a3-fe7f-c41119210b17",NA,NA,NA,"White","University/Higher Education","",NA
+35,16,2,1,1,3,3,3,1,"cb595625-4d69-d6dc-9da7-61724adacacf",2,2,2,"White","University/Higher Education","",2
+27,1,4,1,4,4,3,3,2,"cb699701-c88a-1cd3-e783-a04275fe62eb",3,2,2,"Asian","University/Higher Education","$15,000 - $24,999",2.33333333333333
+60,1,2,1,1,2,2,2,1,"cbc2113d-d325-7767-1cbf-26e91da729da",1,1,1,"White","University/Higher Education","$100,000 - $149,999",1
+37,4,1,4,1,2,3,3,2,"cbc23bc8-fd11-0aef-1a4a-0ce9a83b3d2f",1,2,2,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",1.66666666666667
+36,16,1,1,1,2,2,2,2,"cc17b34c-4041-5c39-d3ce-843c5d4245a1",1,1,1,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1
+25,1,5,1,1,5,5,5,1,"cc4aa73e-5123-73bf-1abf-90614d7220d6",4,4,4,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",4
+70,1,1,1,1,4,4,4,1,"cca9058f-bae7-2c32-6c0d-328201c53c62",3,3,3,"White","University/Higher Education;University/Higher Education","$25,000 - $49,999",3
+38,16,2,3,3,3,3,3,2,"ccfc6e7c-9384-4201-39fe-59d745a8759b",2,2,2,"Black or African American","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+55,13,2,1,1,2,2,2,1,"ccfef3b7-e31e-1266-3a35-c4d5ad0c7a58",1,1,1,"White","University/Higher Education","",1
+64,NA,NA,NA,NA,NA,NA,NA,1,"cd3d6b88-0b7d-54aa-f90a-5c16a181cf65",NA,NA,NA,"Asian","High School/Tertiary/Tech. College","$0 - $14,999",NA
+80,NA,NA,NA,NA,NA,NA,NA,1,"cd7629ea-75e1-0327-af68-1e5db0b68f07",NA,NA,NA,"White","Postgraduate Education","$50,000 - $79,999",NA
+18,NA,NA,NA,NA,NA,NA,NA,1,"cd77e3f6-0a3b-7ddd-f974-d45c7ad91918",NA,NA,NA,"White","University/Higher Education","",NA
+28,NA,NA,NA,NA,3,3,3,1,"cd83b70d-dc43-978d-5b8f-80a8411eddf0",2,2,2,"White","Secondary School","",2
+34,16,3,1,1,1,3,2,1,"cd8a3b08-27ae-f203-4e8a-0ca1ca85fee5",0,2,1,"White","University/Higher Education","",1
+40,4,3,3,2,3,3,3,1,"cd9d7b9e-2ddc-32e2-2a1c-4cb6c316bc76",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+19,4,1,1,1,3,3,3,2,"ce3382e5-a42c-b212-f767-b518cd0d210d",2,2,2,"White","High School/Tertiary/Tech. College","",2
+32,1,3,4,2,3,2,3,1,"ce43cd83-465a-b569-8601-fa685ae1af73",2,1,2,"White","University/Higher Education","",1.66666666666667
+29,16,1,1,1,5,4,5,2,"ceadb1e1-1863-662c-fd60-8686b3b76506",4,3,4,"White","University/Higher Education","$25,000 - $49,999",3.66666666666667
+65,1,2,1,1,4,4,4,1,"cec72b9e-e414-77a1-4f1c-1cec85cb4c76",3,3,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+40,16,1,1,1,1,1,1,1,"cf44ca8e-6e4c-31cc-800c-fd6f037b8966",0,0,0,"White","University/Higher Education","$100,000 - $149,999",0
+58,1,1,1,1,5,5,5,2,"d07b22e8-1ac7-78b4-a76a-15503891e301",4,4,4,"I prefer not to answer","University/Higher Education","$100,000 - $149,999",4
+51,NA,NA,NA,NA,5,5,5,2,"d098a504-c09e-d4bc-4086-92b32414c4ff",4,4,4,"White","High School/Tertiary/Tech. College","",4
+58,7,3,2,4,3,3,3,2,"d09ef9e4-2970-d750-5b66-ceb5e8a1ec0a",2,2,2,"White","High School/Tertiary/Tech. College","",2
+29,1,2,1,1,4,3,3,2,"d0a8e006-c828-350d-f887-d783d7e1bbef",3,2,2,"White","University/Higher Education","$25,000 - $49,999",2.33333333333333
+74,16,1,2,3,3,3,3,1,"d0d7616d-1f77-5416-13ef-56fc5782ff85",2,2,2,"White","University/Higher Education","",2
+20,11,2,1,2,3,4,1,1,"d0e1231f-c086-0c7c-259d-14caffaf21f3",2,3,0,"White","High School/Tertiary/Tech. College","",1.66666666666667
+25,NA,NA,NA,NA,1,1,1,1,"d0f436c7-f79a-6960-7c45-01df3b425f07",0,0,0,"Black or African American","Secondary School","",0
+42,4,2,1,1,4,4,4,2,"d108477d-b535-f201-ccff-702351806c90",3,3,3,"White","Postgraduate Education","$50,000 - $79,999",3
+34,1,2,1,1,4,5,5,2,"d12543a0-d06c-7dc7-9222-740e3256cb48",3,4,4,"White","University/Higher Education","$50,000 - $79,999",3.66666666666667
+36,16,3,1,2,5,5,5,2,"d18c1c18-7900-d2b1-489a-2ba7042bb1e2",4,4,4,"White","University/Higher Education","",4
+18,16,1,1,1,3,5,5,2,"d1aa93b2-d25a-d5aa-7230-a481fbe31655",2,4,4,"Black or African American","High School/Tertiary/Tech. College","",3.33333333333333
+40,1,2,1,1,4,4,4,1,"d1bc543d-7572-0457-34bf-6397c7a221da",3,3,3,"White","University/Higher Education","$50,000 - $79,999",3
+66,1,6,1,1,4,4,4,1,"d1bcc55b-bba2-ed50-78d9-f297a68a5f9b",3,3,3,"White","University/Higher Education","$25,000 - $49,999",3
+49,16,1,1,1,3,3,3,1,"d1c75961-b89e-8ce6-03e3-6eecd2497d86",2,2,2,"White","University/Higher Education","",2
+23,NA,NA,NA,NA,5,5,1,2,"d1d43493-4d37-af4e-5a11-03ff7ca7167f",4,4,0,"Hispanic or Latino","High School/Tertiary/Tech. College","$0 - $14,999",2.66666666666667
+41,16,1,1,1,3,4,4,1,"d1e459a8-914c-2970-3a2a-6ecfbbff5341",2,3,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.66666666666667
+71,NA,NA,NA,NA,1,1,1,2,"d1ed05ac-d2d4-e6cb-342e-32c63ac91079",0,0,0,"White","University/Higher Education","$15,000 - $24,999",0
+47,NA,NA,NA,NA,NA,NA,NA,1,"d1f583c0-b0c6-b20e-2d42-b4de89b45427",NA,NA,NA,"Hispanic or Latino","High School/Tertiary/Tech. College","$15,000 - $24,999",NA
+30,1,1,1,1,5,5,5,2,"d20ca5bb-658f-7550-5c3a-922745c60967",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+56,1,2,3,3,3,3,2,2,"d2515cd9-2283-beea-8b5b-6b7a8d92e532",2,2,1,"White","University/Higher Education","$80,000 - $99,999",1.66666666666667
+55,16,1,3,4,3,3,3,1,"d2855351-77c8-568a-0fd3-64aee53f61b9",2,2,2,"Hispanic or Latino","High School/Tertiary/Tech. College","$100,000 - $149,999",2
+24,11,1,2,2,4,4,4,2,"d2b03f01-9a1e-1086-7483-089b513e7ee6",3,3,3,"White","High School/Tertiary/Tech. College","",3
+22,NA,NA,NA,NA,1,2,5,2,"d2fe4205-9ebb-1122-2687-75d5b9d665e2",0,1,4,"Black or African American","None completed","",1.66666666666667
+63,NA,NA,NA,NA,3,3,3,2,"d331feb5-a310-0221-3434-c91a67ed655f",2,2,2,"Hispanic or Latino","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+28,NA,NA,NA,NA,3,3,3,1,"d35b211e-bccc-2b79-d19c-1670f8faabf9",2,2,2,"Other","None completed","$15,000 - $24,999",2
+19,NA,NA,NA,NA,2,2,2,2,"d374bf1e-c28d-972d-ac9c-885f8c4d02f3",1,1,1,"Black or African American","High School/Tertiary/Tech. College","$80,000 - $99,999",1
+53,1,5,4,3,3,3,3,2,"d39ba9de-06a0-7bc9-445c-9eb0a8ed8535",2,2,2,"White","University/Higher Education","$25,000 - $49,999",2
+18,22,2,5,7,2,5,4,1,"d4054bf8-623e-7e39-dd7a-7c2e9908821f",1,4,3,"","None completed","",2.66666666666667
+46,16,3,1,2,3,3,3,1,"d40f3d61-3989-1eea-d7e3-0a24d356f992",2,2,2,"White","High School/Tertiary/Tech. College","",2
+57,11,3,1,3,2,2,2,1,"d4130c6b-7888-eeb3-d6e9-3b38b6969e86",1,1,1,"White","University/Higher Education","$15,000 - $24,999",1
+77,NA,NA,NA,NA,NA,NA,NA,2,"d460cd64-b7b4-9daf-e8e6-fa4b93d8e783",NA,NA,NA,"White","University/Higher Education","$15,000 - $24,999",NA
+62,NA,NA,NA,NA,NA,NA,NA,1,"d47114df-2326-44cc-f95d-235aabcf6b32",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+18,1,1,1,1,5,5,5,1,"d4d68a84-9692-ba85-1206-bdfdd95f7663",4,4,4,"White","High School/Tertiary/Tech. College","",4
+73,1,2,3,3,2,2,2,1,"d4de806b-054a-8a32-54e9-b7f5353c5291",1,1,1,"White","University/Higher Education","$200,000 or more",1
+38,16,1,1,1,5,4,4,2,"d5e93eab-baf1-8d17-ee2a-09c219117e4c",4,3,3,"White","University/Higher Education","$150,000 - $199,999",3.33333333333333
+62,11,1,3,3,3,4,4,1,"d5f99bad-84c2-c041-712f-acd2ad669045",2,3,3,"White","Secondary School","",2.66666666666667
+62,1,1,1,1,2,2,2,1,"d607a2e9-6850-e1d7-df6b-952c9a28893c",1,1,1,"White","University/Higher Education","",1
+87,21,1,7,7,2,1,1,2,"d6631efc-e758-4844-eb7e-29481e0bb317",1,0,0,"Hispanic or Latino","University/Higher Education","$50,000 - $79,999",0.333333333333333
+58,8,2,1,1,4,2,2,1,"d6684a12-74d7-12eb-e090-7d43430c20fa",3,1,1,"White","University/Higher Education","$50,000 - $79,999",1.66666666666667
+48,NA,NA,NA,NA,2,3,2,1,"d69e6c26-f44b-2f79-16a4-5bb53d8aeccb",1,2,1,"White","Postgraduate Education","$0 - $14,999",1.33333333333333
+38,16,2,1,2,5,5,5,2,"d6d83166-3053-ce0a-dee7-06f32ea0918e",4,4,4,"White","University/Higher Education","$100,000 - $149,999",4
+79,NA,NA,NA,NA,1,1,1,1,"d6f3ba1f-f2c1-5c38-2a9d-8dd885db17f2",0,0,0,"White","High School/Tertiary/Tech. College","$0 - $14,999",0
+25,7,2,1,1,3,3,3,1,"d71fd521-7411-1c60-dba3-e2341ed491c6",2,2,2,"I prefer not to answer","University/Higher Education","",2
+78,NA,NA,NA,NA,1,1,1,2,"d7b92c96-c9a7-1fd0-6114-1b92174e0d7d",0,0,0,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+40,NA,NA,NA,NA,4,4,3,1,"d80cb2c5-c846-bc45-c947-8527d26d2e2b",3,3,2,"White","University/Higher Education","",2.66666666666667
+43,11,1,1,1,1,1,1,1,"d8b37e19-43b2-e460-689b-4998cd3487f3",0,0,0,"White","University/Higher Education","",0
+25,11,3,1,1,2,2,2,1,"d8e7578b-cca5-c97a-6909-60cc6936576c",1,1,1,"Black or African American","High School/Tertiary/Tech. College","",1
+40,16,2,1,1,5,5,5,1,"d9cc496c-4ab3-3d14-12ee-7ee72b37a896",4,4,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+33,7,2,3,3,4,4,4,2,"d9ccbe49-f98e-9e91-08cb-89e78d5231b9",3,3,3,"Black or African American","High School/Tertiary/Tech. College","",3
+67,NA,NA,NA,NA,NA,NA,NA,1,"d9d297b6-988f-d3ca-5a34-a0f9d736c05b",NA,NA,NA,"White","University/Higher Education","$50,000 - $79,999",NA
+30,16,2,2,1,5,2,1,2,"da7a1795-9977-ea0c-be17-20513b897c7d",4,1,0,"White","University/Higher Education","",1.66666666666667
+20,NA,NA,NA,NA,NA,NA,NA,2,"dae99708-fbb9-80f2-2d8a-a0c26cbd7fe0",NA,NA,NA,"Hispanic or Latino","High School/Tertiary/Tech. College","",NA
+51,11,2,1,2,4,4,4,1,"db16f544-d8f8-e8e9-d2c6-c23d26e63ca9",3,3,3,"White","High School/Tertiary/Tech. College","",3
+75,1,1,3,3,1,1,1,2,"db216a10-e38f-3c7f-f992-5d0ac0dd18f8",0,0,0,"White","University/Higher Education","$50,000 - $79,999",0
+60,7,7,1,1,3,3,3,1,"db576a8e-3ab0-5ea8-930c-5d7cb3f5e369",2,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2
+77,1,6,4,4,2,2,2,1,"db5c72a4-e7d9-238e-d426-4577eb137f49",1,1,1,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",1
+40,17,1,3,3,2,3,3,1,"db619926-e0e7-c1b7-e9a4-ae4a46beb4ce",1,2,2,"Black or African American","High School/Tertiary/Tech. College","$0 - $14,999",1.66666666666667
+31,4,5,1,1,4,5,3,1,"db66f954-6df3-c59b-bed6-ce4de80f85b9",3,4,2,"Black or African American","University/Higher Education","$0 - $14,999",3
+67,9,2,4,4,3,3,3,1,"db7299e7-c5dc-6c0c-b665-ae59acea010a",2,2,2,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",2
+32,7,2,1,1,4,4,4,2,"db9d6b55-a137-6060-45d7-5cb69e4065b8",3,3,3,"Other","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+27,1,1,1,1,4,4,5,1,"dba4847a-2146-f108-a3fb-b38f47f30a9d",3,3,4,"Asian","","",3.33333333333333
+84,1,1,2,3,4,2,1,1,"dc4de80c-36a1-ed61-958e-df66e5d6feeb",3,1,0,"White","Postgraduate Education","",1.33333333333333
+19,17,1,6,4,1,3,3,2,"dccd9abd-0358-1e1c-143f-ade671dde155",0,2,2,"White","Secondary School","",1.33333333333333
+77,1,3,2,2,2,2,2,1,"dcde2f51-3a21-6c0f-56d3-18f57c9e2ebc",1,1,1,"White","University/Higher Education","$0 - $14,999",1
+38,1,4,1,2,2,1,1,1,"dce9418f-a0f8-b4f7-360d-76c2d6fe4868",1,0,0,"White","University/Higher Education","$50,000 - $79,999",0.333333333333333
+75,NA,NA,NA,NA,1,2,4,2,"dcf39959-1776-5a9c-37db-aed89587f093",0,1,3,"White","University/Higher Education","",1.33333333333333
+49,16,1,1,1,4,4,4,2,"dd24944c-bea5-6b9d-e0ce-a30f80d43a9a",3,3,3,"Black or African American","University/Higher Education","",3
+37,21,1,1,1,5,5,5,2,"dd325be0-b6b0-4e16-e862-6c19a5b65308",4,4,4,"White","University/Higher Education","$0 - $14,999",4
+64,11,5,2,1,5,5,5,2,"dd58f550-a4b2-9be1-86d2-c273001f66b9",4,4,4,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",4
+29,NA,NA,NA,NA,3,3,3,1,"dd60e0b2-0c50-cd7c-a430-d74ba19ed455",2,2,2,"White","High School/Tertiary/Tech. College","",2
+44,21,1,4,1,3,1,1,2,"dd7fd25c-093a-fc95-bade-e5549868cfbb",2,0,0,"White","High School/Tertiary/Tech. College","",0.666666666666667
+37,1,2,1,1,4,4,4,1,"dd86aa9d-9c06-54bc-421f-9dadb07d1b7a",3,3,3,"Black or African American","University/Higher Education","$50,000 - $79,999",3
+27,9,2,4,3,1,5,5,1,"dda2ab7c-96ef-70e9-66fe-9c89ec385191",0,4,4,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.66666666666667
+37,16,1,1,1,4,3,3,1,"dda73ab9-de6d-4a84-793b-0d8c8cde145e",3,2,2,"Hispanic or Latino","University/Higher Education","$50,000 - $79,999",2.33333333333333
+75,11,1,3,2,2,2,2,1,"ddc1ad0b-a4ef-8a76-0589-9aead0b44ce2",1,1,1,"White","University/Higher Education","",1
+77,1,2,4,4,3,2,5,1,"dde5a56c-0cb1-73ca-21ee-92cefde3ec85",2,1,4,"White","Postgraduate Education","$80,000 - $99,999",2.33333333333333
+40,1,2,1,1,5,5,5,2,"de0acb53-c873-95d7-82d1-fc212890e0b4",4,4,4,"White","University/Higher Education","$100,000 - $149,999",4
+78,1,4,2,2,4,4,3,1,"de572493-24c9-729e-df11-137caf882d79",3,3,2,"White","University/Higher Education","$50,000 - $79,999",2.66666666666667
+37,1,4,1,1,5,5,5,1,"de592248-fb62-3445-81ca-1572436803a0",4,4,4,"White","High School/Tertiary/Tech. College","$0 - $14,999",4
+51,1,2,1,1,3,4,4,1,"dea2c38e-98a7-c4f0-7a0c-f489d4a75069",2,3,3,"White","University/Higher Education","$50,000 - $79,999",2.66666666666667
+75,16,2,1,1,5,4,4,1,"debac5de-c179-309f-655c-f29113780d33",4,3,3,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",3.33333333333333
+55,11,3,1,1,3,3,3,1,"def0a196-3611-a571-2814-96db4d28d57a",2,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2
+55,7,7,2,2,5,4,4,2,"defad4fa-9947-ed7b-3e78-e3d1d3b57d1d",4,3,3,"Asian","High School/Tertiary/Tech. College","$50,000 - $79,999",3.33333333333333
+25,NA,NA,NA,NA,1,5,5,1,"df3fd3f5-9098-ed32-fb77-e414ace5743b",0,4,4,"","University/Higher Education","",2.66666666666667
+34,7,6,2,1,1,3,3,1,"df645065-4ede-cb6a-62e4-674f44596b88",0,2,2,"White","Primary School","$0 - $14,999",1.33333333333333
+79,NA,NA,NA,NA,2,1,1,2,"dff71b08-df7c-e0c1-288a-2cdc9e8537f9",1,0,0,"White","Postgraduate Education","$50,000 - $79,999",0.333333333333333
+30,2,2,2,2,1,1,1,2,"e04afa44-3bba-1558-8ec6-cd615099fbac",0,0,0,"White","University/Higher Education","",0
+61,11,1,4,5,3,3,3,1,"e05d2660-106a-2e69-85e2-1176651ef48d",2,2,2,"Black or African American","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+33,7,3,2,1,4,4,5,2,"e1355663-da73-6ffc-82e1-611e0a49d184",3,3,4,"White","Postgraduate Education","$80,000 - $99,999",3.33333333333333
+55,16,1,1,1,4,4,4,2,"e1470181-2e5d-dd76-9803-366c7284c666",3,3,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",3
+63,NA,NA,NA,NA,3,4,3,1,"e1ecbdac-035d-ebe7-642e-8ac7d6161241",2,3,2,"White","University/Higher Education","$50,000 - $79,999",2.33333333333333
+49,7,1,1,1,3,2,2,1,"e2109a3c-784a-b77c-d4be-ad3b2a0b9fcd",2,1,1,"White","Postgraduate Education","",1.33333333333333
+75,1,1,1,1,3,3,2,1,"e27c0c16-d52b-3011-a494-3b57e91731fa",2,2,1,"White","University/Higher Education","$50,000 - $79,999",1.66666666666667
+25,1,1,3,3,5,4,4,1,"e33b8e75-44cd-3b5e-fff7-b910843a8192",4,3,3,"","None completed","",3.33333333333333
+56,11,1,1,1,4,2,4,1,"e39db27f-57a0-ed4d-45fd-85b69d73bf96",3,1,3,"White","University/Higher Education","$15,000 - $24,999",2.33333333333333
+72,16,1,1,1,4,4,4,2,"e39e6763-9df7-75c2-5ae1-50b50e18798e",3,3,3,"White","University/Higher Education","",3
+40,NA,NA,NA,NA,5,3,3,1,"e3b8138a-014d-b427-6108-24933a99cb60",4,2,2,"White","Secondary School","Prefer not to say",2.66666666666667
+37,20,2,6,7,3,3,3,2,"e3b8909e-03d2-5e7c-be1f-a7938f110076",2,2,2,"White","None completed","$25,000 - $49,999",2
+66,NA,NA,NA,NA,1,1,1,2,"e3c98c7f-e332-6d7a-10fd-bbe26a23098e",0,0,0,"White","University/Higher Education","$50,000 - $79,999",0
+78,1,1,2,4,2,2,2,2,"e3e5dcb0-d0cd-d59a-3f32-ebce9b2f165d",1,1,1,"White","Postgraduate Education","$50,000 - $79,999",1
+57,1,1,1,5,3,2,2,1,"e3ec3b74-09b8-7eb6-64f6-0cc7ab7f1d99",2,1,1,"Asian","High School/Tertiary/Tech. College","$50,000 - $79,999",1.33333333333333
+59,NA,NA,NA,NA,NA,NA,NA,1,"e456b217-fe26-6833-9295-857dc27019fa",NA,NA,NA,"White","High School/Tertiary/Tech. College","$0 - $14,999",NA
+79,NA,NA,NA,NA,NA,NA,NA,2,"e493f6b8-ec77-68db-1d3a-c1b8cbe6ff55",NA,NA,NA,"White","University/Higher Education","$100,000 - $149,999",NA
+67,1,1,1,1,5,5,5,2,"e4975b9f-bb15-ce37-191d-6cbc5e932a72",4,4,4,"White","University/Higher Education","$150,000 - $199,999",4
+56,16,5,1,1,5,4,5,1,"e4af786c-2465-63b6-6aee-4f84c280c1bf",4,3,4,"Asian","University/Higher Education","$50,000 - $79,999",3.66666666666667
+28,16,1,4,3,3,3,3,1,"e4fab0e5-7a6b-62f7-aa64-87d198420902",2,2,2,"White","University/Higher Education","$0 - $14,999",2
+44,1,2,1,1,2,2,4,1,"e50f17d1-f130-3f84-d753-20243c183139",1,1,3,"White","University/Higher Education","$50,000 - $79,999",1.66666666666667
+41,1,1,1,1,4,4,4,1,"e51c018c-72c8-5dfa-940e-3637e5976164",3,3,3,"Black or African American","University/Higher Education","$50,000 - $79,999",3
+55,16,1,1,1,1,1,1,2,"e5452071-9341-9ac0-81f3-176e18f49480",0,0,0,"White","University/Higher Education","",0
+55,7,3,4,4,5,5,5,2,"e58bdb40-174b-e689-52c2-eca0a0ba9485",4,4,4,"Other","University/Higher Education","$50,000 - $79,999",4
+40,1,2,1,1,5,5,4,2,"e59d8d48-b47b-130b-13ca-bab62ae12faf",4,4,3,"Asian","University/Higher Education","$100,000 - $149,999",3.66666666666667
+52,1,5,4,4,2,2,2,2,"e5a52869-522e-b3f9-61eb-1f8e19b69780",1,1,1,"Asian","University/Higher Education","",1
+57,NA,NA,NA,NA,5,5,3,2,"e5e9e3c5-daee-c98c-2d47-d4c220381e29",4,4,2,"White","University/Higher Education","$25,000 - $49,999",3.33333333333333
+71,1,2,2,2,5,3,3,2,"e5edfdec-db4a-7dd7-296e-cac6a2e91c01",4,2,2,"White","University/Higher Education","$80,000 - $99,999",2.66666666666667
+43,16,1,1,1,5,5,5,1,"e5fac47b-0ba7-31b6-3ef9-f3d1b850ca91",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+60,16,6,3,3,4,4,4,2,"e6258a00-350b-dac9-fd82-bd0ea7c7b1ed",3,3,3,"White","University/Higher Education","$0 - $14,999",3
+21,1,7,1,2,3,3,3,1,"e637ccbb-60e0-bf7f-e939-fb1cb00c6251",2,2,2,"White","High School/Tertiary/Tech. College","$0 - $14,999",2
+45,1,4,1,4,3,3,3,1,"e641ddf0-9331-8908-9b72-ea6ad6706a19",2,2,2,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2
+53,9,3,2,2,2,3,3,2,"e68ca707-4549-d1bc-5485-90a7312aa0ef",1,2,2,"","High School/Tertiary/Tech. College","",1.66666666666667
+24,NA,NA,NA,NA,3,3,3,1,"e69c27ec-eb86-7d67-166e-10b71153fd07",2,2,2,"White","High School/Tertiary/Tech. College","",2
+35,NA,NA,NA,NA,3,3,3,2,"e69d5724-4931-820b-cda5-60b6bde432c3",2,2,2,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",2
+69,7,2,4,4,5,5,5,1,"e6b212c2-4478-3921-6a40-259989288437",4,4,4,"White","Postgraduate Education","$150,000 - $199,999",4
+38,20,1,1,5,3,3,2,1,"e726bcb9-772a-9747-e23b-8b0d65e27750",2,2,1,"White","High School/Tertiary/Tech. College","",1.66666666666667
+47,NA,NA,NA,NA,1,1,2,1,"e75b6550-e048-083b-80d2-527000a727bd",0,0,1,"White","High School/Tertiary/Tech. College","",0.333333333333333
+42,16,2,1,1,5,5,5,1,"e78229eb-be94-b2da-4669-1ea9ba307906",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+64,16,2,2,2,1,1,1,1,"e7a54e29-69cf-1e1f-2dab-798ebd033dc4",0,0,0,"Black or African American","University/Higher Education","$150,000 - $199,999",0
+42,16,2,1,1,5,4,4,1,"e7c91b39-3c3e-834a-0dbb-2ce2d8aaf5d1",4,3,3,"American Indian or Alaska Native","Secondary School","",3.33333333333333
+78,NA,NA,NA,NA,2,2,2,1,"e7e3b8a1-ec49-1814-2723-8fc83292094c",1,1,1,"White","University/Higher Education;University/Higher Education","$25,000 - $49,999",1
+47,1,1,3,3,1,1,1,1,"e7f170e4-8ee3-e91a-7f66-47daeb719d0d",0,0,0,"White","University/Higher Education","$80,000 - $99,999",0
+75,NA,NA,NA,NA,NA,NA,NA,2,"e85d7aa4-3da8-da76-8226-4d765671c549",NA,NA,NA,"Hispanic or Latino","University/Higher Education","$50,000 - $79,999",NA
+58,16,2,1,1,5,5,5,2,"e86e94cc-741e-8858-b64e-a345d003ff24",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+59,16,1,3,3,2,2,2,1,"e8e18b10-3b36-71ae-3e92-bcca223337cc",1,1,1,"White","University/Higher Education","$50,000 - $79,999",1
+72,1,3,4,3,5,4,4,1,"e8f6a45d-17ad-94b5-32df-93dd8a41f78f",4,3,3,"White","Postgraduate Education","",3.33333333333333
+67,1,3,4,4,3,3,3,1,"e907fd84-920e-a6b8-8f06-ca2ca75ec775",2,2,2,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",2
+70,16,1,3,3,3,1,1,2,"e92ec3b5-27a3-15cd-f137-f405ed68cf58",2,0,0,"White","University/Higher Education","$25,000 - $49,999",0.666666666666667
+76,16,1,2,5,1,1,1,2,"e94fe7eb-6e04-b762-8b69-d064104f8f1a",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+77,1,3,4,4,1,1,1,1,"e96049a7-6e71-93a3-a425-7e4b9d168a4a",0,0,0,"Black or African American","Postgraduate Education","$50,000 - $79,999",0
+71,1,3,1,2,2,2,2,1,"e9df3617-01fa-afad-5195-01f42f605cfa",1,1,1,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",1
+33,16,1,1,1,5,5,5,2,"e9f6d414-fcfc-f15e-3296-e3dd3d2518f3",4,4,4,"Hispanic or Latino","Secondary School","",4
+26,NA,NA,NA,NA,5,NA,4,2,"ea671006-b78a-e589-a384-274c598cb0e1",4,NA,3,"Black or African American","University/Higher Education","$25,000 - $49,999",NA
+26,2,1,7,6,NA,1,1,1,"eab5cc43-c2c6-fd90-6dc1-fb9e952f0282",NA,0,0,"Black or African American","University/Higher Education","",NA
+68,16,2,2,1,4,5,5,2,"eac8681d-2bfa-4b8c-0c9f-5fe37322cff5",3,4,4,"White","University/Higher Education","",3.66666666666667
+48,10,2,5,4,2,2,3,2,"eafb5791-3cca-c064-7513-60d06faa6f76",1,1,2,"White","University/Higher Education","",1.33333333333333
+68,21,1,1,1,2,2,2,2,"eaff0e8b-1967-9086-7109-39d4d3e63461",1,1,1,"White","University/Higher Education","$15,000 - $24,999",1
+68,NA,NA,NA,NA,2,1,2,2,"eaff0e8b-1967-9086-7109-39d4d3e63461",1,0,1,"White","University/Higher Education","$15,000 - $24,999",0.666666666666667
+63,7,2,3,3,3,3,3,2,"eb2230e0-2c0b-f882-e662-07097b7bc815",2,2,2,"White","High School/Tertiary/Tech. College","",2
+47,7,2,3,3,3,3,3,1,"ebc1549f-70bb-4435-051d-63ea4db8b14a",2,2,2,"White","University/Higher Education","",2
+67,7,1,4,1,4,3,4,1,"ebc5c895-6c57-57f4-4b17-ffee02caf767",3,2,3,"Black or African American","University/Higher Education","",2.66666666666667
+26,13,1,1,1,5,5,5,2,"ebce2f4b-fb11-2a4b-d5ca-18e56724fca2",4,4,4,"Asian","High School/Tertiary/Tech. College","$0 - $14,999",4
+63,14,3,2,3,4,4,4,2,"ec0a6723-adac-8889-d8a1-50213c8052ca",3,3,3,"Asian","University/Higher Education","",3
+61,16,1,1,1,4,4,4,1,"ec52fa7e-8708-a324-8afc-cd793a5982ab",3,3,3,"Black or African American","University/Higher Education","",3
+44,4,1,3,1,3,3,3,2,"ecf17e3b-1c3a-c531-35b9-49daeccdc5d6",2,2,2,"White","University/Higher Education","$0 - $14,999",2
+53,16,2,2,2,1,1,1,2,"ed3cf011-4e34-eac8-f993-c717882288fd",0,0,0,"White","University/Higher Education","",0
+45,1,4,1,1,5,5,5,2,"ed62c322-3564-6237-bda0-f44988c7c9cb",4,4,4,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",4
+54,16,1,1,1,5,5,5,2,"ed8203b9-3b55-04df-083b-34a9c731ad6f",4,4,4,"Black or African American","High School/Tertiary/Tech. College","$15,000 - $24,999",4
+48,11,1,1,1,5,5,5,2,"eddc1e3c-66e0-1b38-c6bd-29f7ebd56fd4",4,4,4,"White","High School/Tertiary/Tech. College","$0 - $14,999",4
+68,1,6,4,5,3,1,1,2,"ee9d83cc-0e49-8a67-594e-b4b6c93b8b22",2,0,0,"Black or African American","University/Higher Education","",0.666666666666667
+40,4,4,2,2,2,1,1,2,"eec50df8-2cb7-17c7-007a-3aee9d90ca14",1,0,0,"Black or African American","High School/Tertiary/Tech. College","",0.333333333333333
+18,18,3,2,3,4,4,4,1,"eef28a01-2f62-bae1-3683-bdd9844e36e6",3,3,3,"White","High School/Tertiary/Tech. College","",3
+40,16,3,2,1,5,5,5,2,"ef12ed58-830d-bf3f-9ada-da390443d6b1",4,4,4,"White","University/Higher Education","$25,000 - $49,999",4
+37,1,1,1,1,5,4,5,2,"ef16d33c-3a7c-4d94-98be-e43d15e1abdb",4,3,4,"White","University/Higher Education","$150,000 - $199,999",3.66666666666667
+53,16,2,1,1,5,5,5,2,"ef2515b4-7c37-085d-e136-220e56297c44",4,4,4,"White","University/Higher Education","$50,000 - $79,999",4
+59,1,1,1,1,5,5,5,2,"ef8984bf-e781-d113-553d-b3a217570b58",4,4,4,"Hispanic or Latino","University/Higher Education","$80,000 - $99,999",4
+22,16,1,1,1,5,3,5,2,"ef92f883-ead5-94cc-4b01-cfb91c3d2164",4,2,4,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",3.33333333333333
+21,16,3,1,1,5,5,5,1,"efa0a14a-3b35-f91c-78c8-968b17e1b38e",4,4,4,"White","High School/Tertiary/Tech. College","",4
+63,NA,NA,NA,NA,3,4,3,1,"efa3478a-066f-7907-6708-70886e4cee41",2,3,2,"White","High School/Tertiary/Tech. College","",2.33333333333333
+51,11,1,7,1,3,1,1,2,"efd5703c-2128-83e7-0abe-47feb827e0d4",2,0,0,"Hispanic or Latino","Secondary School","$0 - $14,999",0.666666666666667
+54,16,4,1,1,3,4,3,2,"f02f956f-498e-75f6-ebed-a2041195ad88",2,3,2,"","High School/Tertiary/Tech. College","",2.33333333333333
+43,16,1,2,2,5,5,5,1,"f0302cb9-ac13-1f11-f43b-1b1b2ad33453",4,4,4,"White","High School/Tertiary/Tech. College","",4
+23,7,2,1,1,1,1,3,1,"f096d17f-8d8c-fdd1-52fd-e6bd2cc30997",0,0,2,"White","High School/Tertiary/Tech. College","",0.666666666666667
+31,16,3,3,4,1,5,3,2,"f0de184c-207d-9972-1ace-2ff5b2fee7a1",0,4,2,"","High School/Tertiary/Tech. College","",2
+22,11,7,1,1,2,1,1,1,"f0fe236d-87c2-36de-3aef-14d50fd4468a",1,0,0,"I prefer not to answer","High School/Tertiary/Tech. College","",0.333333333333333
+62,1,3,1,1,1,1,1,2,"f172d6b4-589a-cea6-b736-e1598d9fbf5f",0,0,0,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",0
+74,1,1,1,3,2,2,2,1,"f21764c0-e2a0-f19b-9942-533c2531f129",1,1,1,"White","University/Higher Education","$50,000 - $79,999",1
+25,1,6,2,2,3,3,3,1,"f25b523e-8e7a-6126-9fbc-6570965586f0",2,2,2,"Black or African American","High School/Tertiary/Tech. College","",2
+77,NA,NA,NA,NA,NA,NA,NA,1,"f2ec5de5-2350-4955-3667-6ac70857c515",NA,NA,NA,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",NA
+30,1,2,1,1,5,4,5,1,"f335efeb-de2a-213f-336a-d81ed3e37d1a",4,3,4,"White","University/Higher Education","$100,000 - $149,999",3.66666666666667
+45,11,1,1,1,3,3,2,1,"f3e181ef-55a5-3e92-3b6d-b6ca721e903d",2,2,1,"White","University/Higher Education","",1.66666666666667
+26,NA,NA,NA,NA,3,2,1,2,"f3e5e69e-0204-cb82-201c-d1cedd2ae477",2,1,0,"Black or African American","High School/Tertiary/Tech. College","",1
+45,11,3,1,1,3,3,3,2,"f3e8a9e0-9607-4ca4-3162-9ec335125417",2,2,2,"White","Secondary School","",2
+46,7,2,1,1,3,3,3,1,"f429b5ab-ae47-94e5-ed29-8202281e4b7d",2,2,2,"White","High School/Tertiary/Tech. College","",2
+37,NA,NA,NA,NA,4,5,4,2,"f44c3521-e735-b8a2-c2a3-02677bbb7cd5",3,4,3,"Hispanic or Latino","High School/Tertiary/Tech. College","$80,000 - $99,999",3.33333333333333
+44,NA,NA,NA,NA,NA,NA,NA,1,"f44dd992-4a1a-ef0a-8910-ee66446faf75",NA,NA,NA,"White","High School/Tertiary/Tech. College","",NA
+18,4,6,1,1,4,4,4,2,"f4da9d56-3283-bc55-1ed4-aaf17b52d2bc",3,3,3,"White","High School/Tertiary/Tech. College","",3
+28,1,1,1,1,5,5,5,2,"f58c5eae-cd23-be62-482c-69a7ab302d49",4,4,4,"White","High School/Tertiary/Tech. College","",4
+41,NA,NA,NA,NA,3,3,3,1,"f5d81e12-dcee-c430-1c90-29f3dd383bfd",2,2,2,"White","High School/Tertiary/Tech. College","",2
+55,7,1,3,3,2,2,3,1,"f66a29c2-7a62-0977-ae40-1e41cf39fa3e",1,1,2,"White","University/Higher Education","",1.33333333333333
+68,NA,NA,NA,NA,1,1,1,1,"f691acef-6229-fd22-196d-9bbaaffb6a02",0,0,0,"White","High School/Tertiary/Tech. College","$50,000 - $79,999",0
+52,NA,NA,NA,NA,2,2,2,1,"f6e8e7b7-dcb5-c56a-3035-d0c35fea1862",1,1,1,"White","High School/Tertiary/Tech. College","",1
+76,NA,NA,NA,NA,2,2,2,1,"f79c8f18-cd8b-a382-589a-b8b75762cdf1",1,1,1,"White","University/Higher Education","",1
+18,1,2,7,5,4,5,4,1,"f860a212-56a1-3ba2-ee90-954b3833dbe1",3,4,3,"White","Secondary School","",3.33333333333333
+21,1,1,5,5,1,2,1,2,"f86b3adc-66f6-e880-b45e-0d400838863b",0,1,0,"Black or African American","Postgraduate Education","",0.333333333333333
+46,7,4,3,3,3,3,3,1,"f8b692dd-be75-997d-6e5f-a59dd27d5537",2,2,2,"Black or African American","University/Higher Education","$50,000 - $79,999",2
+32,7,2,1,1,5,5,5,1,"f9076820-af41-9598-01a1-5f2c333f8dc7",4,4,4,"Black or African American","University/Higher Education","$25,000 - $49,999",4
+27,1,1,1,2,4,4,3,2,"f91af344-926a-2827-4ac5-c431164fe1a9",3,3,2,"White","Secondary School","$100,000 - $149,999",2.66666666666667
+53,1,4,4,4,2,2,2,1,"f921add8-ad9f-9ec8-f95a-9a0a4b504933",1,1,1,"White","University/Higher Education","$15,000 - $24,999",1
+54,NA,NA,NA,NA,1,1,1,1,"f970b806-5eda-b1d2-b484-8f5b9fdbbada",0,0,0,"White","High School/Tertiary/Tech. College","$0 - $14,999",0
+63,11,3,1,1,3,3,3,2,"f9714e22-c3e0-d93f-a8a0-795a946339e0",2,2,2,"White","University/Higher Education","",2
+41,16,2,3,2,4,4,4,2,"f9779514-4ba4-ca8d-ff96-a25c5c74dffc",3,3,3,"White","University/Higher Education","$80,000 - $99,999",3
+53,NA,NA,NA,NA,5,3,3,1,"f9c557b2-e22d-1209-1c30-60ee3e5b0341",4,2,2,"White","University/Higher Education","",2.66666666666667
+39,1,2,1,1,5,4,5,1,"fa118b29-20b8-6961-c9ab-bc3a20a6e4c3",4,3,4,"Black or African American","Postgraduate Education","",3.66666666666667
+45,NA,NA,NA,NA,3,3,3,2,"fa19b4f7-f086-bd95-dd75-833256a7101a",2,2,2,"Asian","Postgraduate Education","",2
+59,1,1,2,2,3,3,4,2,"fa1a460b-307b-100d-9289-7131fa99a8e1",2,2,3,"White","High School/Tertiary/Tech. College","$0 - $14,999",2.33333333333333
+73,16,2,6,6,1,2,1,1,"fa2552b6-9549-03b9-ad34-650e89e30166",0,1,0,"White","Postgraduate Education","$25,000 - $49,999",0.333333333333333
+64,NA,NA,NA,NA,2,2,2,2,"fb8b4a5f-dc56-d237-4fdd-7da01f32d8b7",1,1,1,"Hispanic or Latino","University/Higher Education","$0 - $14,999",1
+61,16,2,2,2,2,2,2,1,"fb8fc815-23c8-e12c-5697-ffa4ba2dc0fd",1,1,1,"White","University/Higher Education","$50,000 - $79,999",1
+30,16,2,1,1,5,5,5,2,"fbd18339-3b36-9a79-15bb-b4fa3b2ddcd1",4,4,4,"White","University/Higher Education","$80,000 - $99,999",4
+47,16,3,1,1,1,1,1,1,"fc115680-a6f8-a7da-d502-613a1a99636c",0,0,0,"White","University/Higher Education","$25,000 - $49,999",0
+58,1,3,2,2,3,4,3,2,"fc298324-ed50-1ab1-a7a6-b4021dc2bcc3",2,3,2,"White","University/Higher Education","$100,000 - $149,999",2.33333333333333
+43,4,2,5,3,1,4,4,1,"fc69786d-9ba9-4c2c-b0ef-4f4231e16180",0,3,3,"White","High School/Tertiary/Tech. College","",2
+84,NA,NA,NA,NA,1,1,1,1,"fc7d7e9a-86b0-ad28-a418-495622704c4c",0,0,0,"White","High School/Tertiary/Tech. College","",0
+39,NA,NA,NA,NA,4,4,4,1,"fcf3dc83-807e-d40c-3701-ebd86f7f4541",3,3,3,"White","Postgraduate Education","",3
+47,NA,NA,NA,NA,1,4,2,2,"fd394b07-7d2c-451b-fd85-7c12d12695e8",0,3,1,"White","University/Higher Education","",1.33333333333333
+25,4,2,1,1,1,2,2,2,"fde3cd21-ea6d-3dbe-27a3-fac81e000bc8",0,1,1,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",0.666666666666667
+76,16,1,1,1,2,3,3,2,"fe2706b0-2191-a723-e332-310c01d3c65d",1,2,2,"Hispanic or Latino","University/Higher Education","$80,000 - $99,999",1.66666666666667
+19,11,2,1,1,5,5,5,1,"fe45197d-1bce-37ab-81ff-2e6eca841c95",4,4,4,"White","High School/Tertiary/Tech. College","",4
+62,16,1,1,2,3,3,3,1,"fe460c9f-cff6-19dc-821d-3b6d31d32e77",2,2,2,"White","High School/Tertiary/Tech. College","$100,000 - $149,999",2
+51,1,3,3,3,4,4,4,1,"fe50fa05-0f2f-a9a1-d887-cd7b48835fed",3,3,3,"I prefer not to answer","High School/Tertiary/Tech. College","$25,000 - $49,999",3
+37,NA,NA,NA,NA,5,3,3,1,"fe80056a-885d-9a08-0ee8-32ab50bed186",4,2,2,"","Postgraduate Education","$50,000 - $79,999",2.66666666666667
+56,1,4,3,4,4,4,5,2,"fea2c653-e30e-6628-66d1-f18979d202ba",3,3,4,"White","Postgraduate Education","",3.33333333333333
+31,4,5,3,4,5,4,4,1,"fea6a10d-7174-3ffb-288f-968d8aee22ea",4,3,3,"White","University/Higher Education","",3.33333333333333
+77,16,1,3,4,1,1,1,1,"fee3eaeb-d6fe-225d-2769-ddc806db1e07",0,0,0,"White","High School/Tertiary/Tech. College","$15,000 - $24,999",0
+72,NA,NA,NA,NA,3,3,3,1,"fef5766a-9b43-8c5a-31e8-41de82357f86",2,2,2,"White","None completed","$0 - $14,999",2
+61,16,1,4,4,4,4,4,1,"ff90f148-94ea-dce8-48ca-c6bbd52570a5",3,3,3,"Hispanic or Latino","High School/Tertiary/Tech. College","$80,000 - $99,999",3
+23,NA,NA,NA,NA,2,1,3,1,"ffb53405-8ed0-228e-6d87-039e68c347e2",1,0,2,"Hispanic or Latino","High School/Tertiary/Tech. College","Prefer not to say",1
+22,1,3,1,1,5,4,1,2,"ffbced15-bdb1-c1d1-6097-da978bf945f8",4,3,0,"White","High School/Tertiary/Tech. College","$25,000 - $49,999",2.33333333333333
+61,10,2,NA,NA,3,3,3,2,"fff9dfb1-ed99-01f4-3d33-e8d2ca426a43",2,2,2,"Black or African American","High School/Tertiary/Tech. College","",2
